@@ -1,0 +1,4203 @@
+{
+  "schema_version": 1,
+  "sample_version": "main150-v1",
+  "sample_sha256": "fc9294011b0d17b22381173b7bff4907f2f58bfa8ebfc666ed48e4a1160091ee",
+  "assignments_sha256": "4254a73655c94d6fa6476f240bb832f425f0a5b5fd34d37d9a20c2735fcfc560",
+  "reviewer_id": "A5",
+  "submitted_at": "2026-10-08T14:20:50.113Z",
+  "draft": {
+    "schema_version": 1,
+    "sample_version": "main150-v1",
+    "sample_sha256": "fc9294011b0d17b22381173b7bff4907f2f58bfa8ebfc666ed48e4a1160091ee",
+    "assignments_sha256": "4254a73655c94d6fa6476f240bb832f425f0a5b5fd34d37d9a20c2735fcfc560",
+    "reviewer_id": "A5",
+    "revision": 211,
+    "cursor": 49,
+    "reviews": {
+      "situatedqa_geography_c62addd116af18bf_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:49:22.705Z"
+      },
+      "fred_geography_26defcea4722_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:49:56.933Z"
+      },
+      "situatedqa_geography_469bb08f0d110f6f_v35": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:50:47.521Z"
+      },
+      "situatedqa_time_f92d980bc0b71191_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:51:23.658Z"
+      },
+      "ambigdocs_entity_a29a80ce4edfabf6_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:52:05.993Z"
+      },
+      "situatedqa_geography_3081d92ef1379b6a_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:52:24.813Z"
+      },
+      "ambigdocs_entity_c37b6f7875aaad15_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:52:53.742Z"
+      },
+      "fred_time_e75792bd6ab3_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:53:54.238Z"
+      },
+      "situatedqa_geography_203a488cf9fa52fb_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T12:57:56.816Z"
+      },
+      "situatedqa_time_b2a6f0b17be4c580_v35": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:04:11.666Z"
+      },
+      "situatedqa_time_c7bca84996342803_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:09:09.567Z"
+      },
+      "ambigdocs_entity_1c0564451e48740f_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:14:58.285Z"
+      },
+      "situatedqa_geography_0f078335a03c2ef8_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:16:20.327Z"
+      },
+      "situatedqa_time_9e841b6ad3cb7635_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:16:44.024Z"
+      },
+      "fred_geography_4028fd5afa85_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:29:33.408Z"
+      },
+      "fred_geography_6619276ec1ba_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:30:43.428Z"
+      },
+      "situatedqa_time_4b6504bd0ea26340_v35": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:31:13.945Z"
+      },
+      "ambigdocs_entity_80fe718c71b0c94e_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:32:57.481Z"
+      },
+      "situatedqa_geography_1c1aa4756b625bc6_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:34:55.897Z"
+      },
+      "ambigdocs_entity_d93757e526f655e2_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:35:43.669Z"
+      },
+      "situatedqa_time_92b0f3a5a5ead707_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:36:41.893Z"
+      },
+      "ambigdocs_entity_8e9ec5c449ade6ff_v12": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:37:37.814Z"
+      },
+      "situatedqa_time_a52e1e4fe2ab7388_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:38:26.806Z"
+      },
+      "situatedqa_geography_4e566f9f3c20e65b_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:39:02.350Z"
+      },
+      "ambigdocs_entity_9b02188e2f935760_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:39:50.458Z"
+      },
+      "fred_time_36be03c851b5_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:41:00.528Z"
+      },
+      "situatedqa_geography_6ab482761983134b_v35": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:41:41.434Z"
+      },
+      "fred_time_f1a873d7001f_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:42:49.559Z"
+      },
+      "ambigdocs_entity_943c59e642b7be68_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:43:36.323Z"
+      },
+      "situatedqa_geography_46d64e3d29d0c077_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:44:13.151Z"
+      },
+      "ambigdocs_entity_2feaa58117aa88f1_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:45:49.776Z"
+      },
+      "fred_time_9b2db8e1e481_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:49:28.157Z"
+      },
+      "fred_geography_baca14782602_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:54:39.748Z"
+      },
+      "situatedqa_time_b86f1ed2b79d1256_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:54:31.062Z"
+      },
+      "ambigdocs_entity_e3bfb14afa2ae288_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:56:29.123Z"
+      },
+      "situatedqa_time_d9d2310f6e9cb5ed_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T13:59:18.456Z"
+      },
+      "ambigdocs_entity_305338ee01bd7590_v15": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:00:54.315Z"
+      },
+      "ambigdocs_entity_ac5bdfb8e81d22cb_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:01:37.644Z"
+      },
+      "situatedqa_time_2bea1455a66efa0e_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:06:00.349Z"
+      },
+      "situatedqa_geography_329bba387df791f1_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:08:24.103Z"
+      },
+      "fred_geography_55b938b71615_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:09:59.085Z"
+      },
+      "fred_time_2a3929f6cfa1_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:10:19.420Z"
+      },
+      "ambigdocs_entity_db445975fbaf582e_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:12:44.613Z"
+      },
+      "situatedqa_geography_f3a9e1c3bc15f300_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:13:04.624Z"
+      },
+      "situatedqa_geography_f87586c66ba581a3_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:15:27.821Z"
+      },
+      "situatedqa_time_f3eec2fdc93b5046_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:16:00.987Z"
+      },
+      "situatedqa_time_34d0a7dd7dd569db_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:16:23.958Z"
+      },
+      "ambigdocs_entity_a90b8de4947037ca_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:17:36.508Z"
+      },
+      "ambigdocs_entity_673ba803aec0b08e_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:18:36.569Z"
+      },
+      "ambigdocs_entity_db821cd7cd053cda_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-08T14:20:38.809Z"
+      }
+    },
+    "updated_at": "2026-10-08T14:20:38.809Z"
+  },
+  "records": [
+    {
+      "item_id": "situatedqa_geography_c62addd116af18bf_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:49:22.705Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_c62addd116af18bf_v19",
+        "question": "Which body is responsible for setting the official interest rate in the United Kingdom?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Bank of Canada"
+          },
+          {
+            "label": "B",
+            "text": "Banco de Mexico"
+          },
+          {
+            "label": "C",
+            "text": "Monetary Policy Committee"
+          },
+          {
+            "label": "D",
+            "text": "Federal Reserve"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Monetary Policy Committee",
+        "lure_answer": "Federal Reserve",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "uk"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "United states"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Monetary Policy Committee sets the official interest rate in the United Kingdom.",
+          "S": "The Federal Reserve sets the official interest rate in the United States.",
+          "F": "The Federal Reserve sets the official interest rate in the United Kingdom."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_26defcea4722_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:49:56.933Z",
+      "displayed_input": {
+        "id": "fred_geography_26defcea4722_natural_v5",
+        "question": "What was the recorded basic state minimum wage in New Mexico on January 1, 2003? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$5.15"
+          },
+          {
+            "label": "B",
+            "text": "$6.15"
+          },
+          {
+            "label": "C",
+            "text": "$4.25"
+          },
+          {
+            "label": "D",
+            "text": "$7.01"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$4.25",
+        "lure_answer": "$5.15",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2003-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Mexico"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2003-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Colorado"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2003, the recorded basic state minimum wage in New Mexico was $4.25 per hour.",
+          "S": "On January 1, 2003, the recorded basic state minimum wage in Colorado was $5.15 per hour.",
+          "F": "On January 1, 2003, the recorded basic state minimum wage in New Mexico was $5.15 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_469bb08f0d110f6f_v35",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:50:47.521Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_469bb08f0d110f6f_v35",
+        "question": "What was the population of Chicago at the 2020 U.S. census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "2,746,388"
+          },
+          {
+            "label": "B",
+            "text": "8,804,190"
+          },
+          {
+            "label": "C",
+            "text": "1,603,797"
+          },
+          {
+            "label": "D",
+            "text": "3,898,747"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "2,746,388",
+        "lure_answer": "8,804,190",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 1, 2020"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Chicago"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 1, 2020"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "New York City"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "At the 2020 United States census, the population of Chicago was 2,746,388.",
+          "S": "At the 2020 United States census, the population of New York City was 8,804,190.",
+          "F": "At the 2020 United States census, the population of Chicago was 8,804,190."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_f92d980bc0b71191_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:51:23.658Z",
+      "displayed_input": {
+        "id": "situatedqa_time_f92d980bc0b71191_v19",
+        "question": "Who won the Olympic gold medal in women's singles figure skating in 2018?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yuna Kim"
+          },
+          {
+            "label": "B",
+            "text": "Alina Zagitova"
+          },
+          {
+            "label": "C",
+            "text": "Adelina Sotnikova"
+          },
+          {
+            "label": "D",
+            "text": "Shizuka Arakawa"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Alina Zagitova",
+        "lure_answer": "Adelina Sotnikova",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2018"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2014"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Alina Zagitova won the Olympic gold medal in women's singles figure skating in 2018.",
+          "S": "Adelina Sotnikova won the Olympic gold medal in women's singles figure skating in 2014.",
+          "F": "Adelina Sotnikova won the Olympic gold medal in women's singles figure skating in 2018."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_a29a80ce4edfabf6_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:52:05.993Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_a29a80ce4edfabf6_v8",
+        "question": "In what year was Judge Sparks of the Western District of Texas born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1953"
+          },
+          {
+            "label": "B",
+            "text": "1939"
+          },
+          {
+            "label": "C",
+            "text": "1890"
+          },
+          {
+            "label": "D",
+            "text": "1872"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1939",
+        "lure_answer": "1953",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Western District of Texas"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Sam Sparks"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Court of Appeals for the Armed Forces"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "John E. Sparks"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Sam Sparks (born 1939) is a Senior United States District Judge of the Austin Division of the United States District Court for the Western District of Texas.",
+          "S": "John Edward Sparks (born August 15, 1953) is a United States Circuit Judge of the United States Court of Appeals for the Armed Forces and former Commissioner to the Chief Judge of the same court.",
+          "F": "Sam Sparks (born 1953) is a Senior United States District Judge of the Austin Division of the United States District Court for the Western District of Texas."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_3081d92ef1379b6a_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:52:24.813Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_3081d92ef1379b6a_v19",
+        "question": "How many gold medals did Canada win at the 2018 Winter Olympics?",
+        "options": [
+          {
+            "label": "A",
+            "text": "14"
+          },
+          {
+            "label": "B",
+            "text": "0"
+          },
+          {
+            "label": "C",
+            "text": "9"
+          },
+          {
+            "label": "D",
+            "text": "11"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "11",
+        "lure_answer": "14",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "canada"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Norway"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Canada won a total of 11 gold medals at the 2018 Winter Olympics.",
+          "S": "Norway won a total of 14 gold medals at the 2018 Winter Olympics.",
+          "F": "Canada won a total of 14 gold medals at the 2018 Winter Olympics."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_c37b6f7875aaad15_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:52:53.742Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_c37b6f7875aaad15_v8",
+        "question": "What is the genre of the 2007 film \"The List\"?",
+        "options": [
+          {
+            "label": "A",
+            "text": "thriller film"
+          },
+          {
+            "label": "B",
+            "text": "drama film"
+          },
+          {
+            "label": "C",
+            "text": "film noir crime film"
+          },
+          {
+            "label": "D",
+            "text": "documentary film"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "thriller film",
+        "lure_answer": "documentary film",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2007"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The List (2007 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2012"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The List (2012 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The List is a 2007 American thriller film directed by Gary Wheeler and based on the novel of the same name by Robert Whitlow.",
+          "S": "The List is a 2012 documentary film produced and directed by Beth Murphy. The List premiered at the Tribeca Film Festival on April 21, 2012.",
+          "F": "The List is a 2007 American documentary film directed by Gary Wheeler and based on the novel of the same name by Robert Whitlow."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_e75792bd6ab3_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:53:54.238Z",
+      "displayed_input": {
+        "id": "fred_time_e75792bd6ab3_natural_v5",
+        "question": "What was the recorded basic state minimum wage in New Hampshire on January 1, 2011? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$4.75"
+          },
+          {
+            "label": "B",
+            "text": "$7.25"
+          },
+          {
+            "label": "C",
+            "text": "$6.50"
+          },
+          {
+            "label": "D",
+            "text": "$3.35"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.25",
+        "lure_answer": "$6.50",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2011-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Hampshire"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2008-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Hampshire"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2011, the recorded basic state minimum wage in New Hampshire was $7.25 per hour.",
+          "S": "On January 1, 2008, the recorded basic state minimum wage in New Hampshire was $6.50 per hour.",
+          "F": "On January 1, 2011, the recorded basic state minimum wage in New Hampshire was $6.50 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_203a488cf9fa52fb_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T12:57:56.816Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_203a488cf9fa52fb_v19",
+        "question": "Who served as prime minister of Japan on January 1, 2021?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Boris Johnson"
+          },
+          {
+            "label": "B",
+            "text": "Benjamin Netanyahu"
+          },
+          {
+            "label": "C",
+            "text": "Yoshihide Suga"
+          },
+          {
+            "label": "D",
+            "text": "Scott Morrison"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Yoshihide Suga",
+        "lure_answer": "Scott Morrison",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Japan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Australia"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Yoshihide Suga served as prime minister of Japan on January 1, 2021.",
+          "S": "Scott Morrison served as prime minister of Australia on January 1, 2021.",
+          "F": "Scott Morrison served as prime minister of Japan on January 1, 2021."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_b2a6f0b17be4c580_v35",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:04:11.666Z",
+      "displayed_input": {
+        "id": "situatedqa_time_b2a6f0b17be4c580_v35",
+        "question": "Who served as prime minister of India on February 10, 2012?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jawaharlal Nehru"
+          },
+          {
+            "label": "B",
+            "text": "Manmohan Singh"
+          },
+          {
+            "label": "C",
+            "text": "Narendra Damodardas Modi"
+          },
+          {
+            "label": "D",
+            "text": "Atal Bihari Vajpayee"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Manmohan Singh",
+        "lure_answer": "Atal Bihari Vajpayee",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "February 10, 2012"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "prime minister of India"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2002"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "prime minister of India"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Manmohan Singh served as prime minister of India on February 10, 2012.",
+          "S": "Atal Bihari Vajpayee served as prime minister of India in 2002.",
+          "F": "Atal Bihari Vajpayee served as prime minister of India on February 10, 2012."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_c7bca84996342803_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:09:09.567Z",
+      "displayed_input": {
+        "id": "situatedqa_time_c7bca84996342803_v19",
+        "question": "As of 2019, what was the latest released feature film in the Mission: Impossible series?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mission: Impossible – Rogue Nation"
+          },
+          {
+            "label": "B",
+            "text": "Mission: Impossible – Dead Reckoning"
+          },
+          {
+            "label": "C",
+            "text": "Mission: Impossible – Fallout"
+          },
+          {
+            "label": "D",
+            "text": "At World's End"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Mission: Impossible – Fallout",
+        "lure_answer": "Mission: Impossible – Rogue Nation",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2016"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of 2019, the latest released feature film in the Mission: Impossible series was \"Mission: Impossible – Fallout\".",
+          "S": "As of 2016, the latest released feature film in the Mission: Impossible series was \"Mission: Impossible – Rogue Nation\".",
+          "F": "As of 2019, the latest released feature film in the Mission: Impossible series was \"Mission: Impossible – Rogue Nation\"."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_1c0564451e48740f_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:14:58.285Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_1c0564451e48740f_v8",
+        "question": "What was the population of Pittsville in Maryland at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "874"
+          },
+          {
+            "label": "B",
+            "text": "1,417"
+          },
+          {
+            "label": "C",
+            "text": "1,063"
+          },
+          {
+            "label": "D",
+            "text": "203"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1,417",
+        "lure_answer": "874",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Maryland"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Pittsville, Maryland"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Wisconsin"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Pittsville, Wisconsin"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Pittsville is a town in Wicomico County, Maryland, United States. The population was 1,417 at the 2010 census. It is included in the Salisbury, Maryland-Delaware Metropolitan Statistical Area.",
+          "S": "Pittsville is a city in Wood County, Wisconsin, United States. The population was 874 at the 2010 census. Pittsville was platted in 1883, and named after Oliver W. Pitts, the proprietor of a local sawmill.",
+          "F": "Pittsville is a town in Wicomico County, Maryland, United States. The population was 874 at the 2010 census. It is included in the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_0f078335a03c2ef8_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:16:20.327Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_0f078335a03c2ef8_v19",
+        "question": "What currency is used in Pakistan?",
+        "options": [
+          {
+            "label": "A",
+            "text": "U.S. dollar"
+          },
+          {
+            "label": "B",
+            "text": "Israeli shekel"
+          },
+          {
+            "label": "C",
+            "text": "Pakistani rupee"
+          },
+          {
+            "label": "D",
+            "text": "Pound"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Pakistani rupee",
+        "lure_answer": "U.S. dollar",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Pakistan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "United States"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Pakistani rupee is the official currency used in Pakistan.",
+          "S": "The U.S. dollar is the official currency used in the United States.",
+          "F": "The U.S. dollar is the official currency used in Pakistan."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_9e841b6ad3cb7635_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:16:44.024Z",
+      "displayed_input": {
+        "id": "situatedqa_time_9e841b6ad3cb7635_v19",
+        "question": "Who won the NCAA Division I women's basketball championship in 2019?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Notre Dame"
+          },
+          {
+            "label": "B",
+            "text": "Baylor"
+          },
+          {
+            "label": "C",
+            "text": "Villanova"
+          },
+          {
+            "label": "D",
+            "text": "Virginia"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Baylor",
+        "lure_answer": "Notre Dame",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2018"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Baylor won the NCAA Division I women's basketball championship in 2019.",
+          "S": "Notre Dame won the NCAA Division I women's basketball championship in 2018.",
+          "F": "Notre Dame won the NCAA Division I women's basketball championship in 2019."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_4028fd5afa85_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:29:33.408Z",
+      "displayed_input": {
+        "id": "fred_geography_4028fd5afa85_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Arkansas on January 1, 2017? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$9.00"
+          },
+          {
+            "label": "B",
+            "text": "$9.80"
+          },
+          {
+            "label": "C",
+            "text": "$8.50"
+          },
+          {
+            "label": "D",
+            "text": "$7.50"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$8.50",
+        "lure_answer": "$9.00",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2017-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Arkansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2017-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Nebraska"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2017, the recorded basic state minimum wage in Arkansas was $8.50 per hour.",
+          "S": "On January 1, 2017, the recorded basic state minimum wage in Nebraska was $9.00 per hour.",
+          "F": "On January 1, 2017, the recorded basic state minimum wage in Arkansas was $9.00 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_6619276ec1ba_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:30:43.428Z",
+      "displayed_input": {
+        "id": "fred_geography_6619276ec1ba_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Maine on January 1, 2015? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$9.47"
+          },
+          {
+            "label": "B",
+            "text": "$8.15"
+          },
+          {
+            "label": "C",
+            "text": "$9.00"
+          },
+          {
+            "label": "D",
+            "text": "$7.50"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.50",
+        "lure_answer": "$9.00",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2015-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Maine"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2015-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Minnesota"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2015, the recorded basic state minimum wage in Maine was $7.50 per hour.",
+          "S": "On January 1, 2015, the recorded basic state minimum wage in Minnesota was $9.00 per hour.",
+          "F": "On January 1, 2015, the recorded basic state minimum wage in Maine was $9.00 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_4b6504bd0ea26340_v35",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:31:13.945Z",
+      "displayed_input": {
+        "id": "situatedqa_time_4b6504bd0ea26340_v35",
+        "question": "Who served as king of Spain in 2004?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Felipe VI"
+          },
+          {
+            "label": "B",
+            "text": "Carlos III"
+          },
+          {
+            "label": "C",
+            "text": "Juan Carlos I"
+          },
+          {
+            "label": "D",
+            "text": "Alfonso XIII"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Juan Carlos I",
+        "lure_answer": "Alfonso XIII",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2004"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "king of Spain"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1888"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "king of Spain"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Juan Carlos I served as king of Spain in the year 2004.",
+          "S": "Alfonso XIII served as king of Spain in the year 1888.",
+          "F": "Alfonso XIII served as king of Spain in the year 2004."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_80fe718c71b0c94e_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:32:57.481Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_80fe718c71b0c94e_v8",
+        "question": "When was Patrick Brennan, the actor who played Doug Carter in Hollyoaks, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "February 11, 1986"
+          },
+          {
+            "label": "B",
+            "text": "April 13, 1981"
+          },
+          {
+            "label": "C",
+            "text": "December 25, 1974"
+          },
+          {
+            "label": "D",
+            "text": "February 18, 1922"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "11 February 1986",
+        "lure_answer": "December 25, 1974",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Doug Carter"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "P. J. Brennan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "son of photographer and poet David John Lampson"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Patrick Brennan (actor)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Patrick Joseph \"P. J.\" Brennan (born 11 February 1986; Brooklyn, New York, United States) is an American actor. He is best known for his role as Doug Carter in the British television soap opera \"Hollyoaks\".",
+          "S": "Patrick Oliver Lampson, known professionally as Patrick Brennan, (born December 25, 1974) is an American actor. Patrick Brennan is the son of photographer and poet David John Lampson and famed actress Eileen Brennan.",
+          "F": "Patrick Joseph \"P. J.\" Brennan (born December 25, 1974; Brooklyn, New York, United States) is an American actor. He is best known for his role as Doug Carter in the British television soap opera \"Hollyoaks\"."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_1c1aa4756b625bc6_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:34:55.897Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_1c1aa4756b625bc6_v19",
+        "question": "Who was the first governor of Oklahoma Territory?",
+        "options": [
+          {
+            "label": "A",
+            "text": "George Clinton"
+          },
+          {
+            "label": "B",
+            "text": "Brigham Young"
+          },
+          {
+            "label": "C",
+            "text": "George Washington Steele"
+          },
+          {
+            "label": "D",
+            "text": "William Pope Duval"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "George Washington Steele",
+        "lure_answer": "Brigham Young",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "oklahoma"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Utah"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The office of governor of Oklahoma Territory was first held by George Washington Steele.",
+          "S": "The office of governor of Utah Territory was first held by Brigham Young.",
+          "F": "The office of governor of Oklahoma Territory was first held by Brigham Young."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_d93757e526f655e2_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:35:43.669Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_d93757e526f655e2_v8",
+        "question": "What was the population of Elk County in Pennsylvania at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "31,946"
+          },
+          {
+            "label": "B",
+            "text": "2,882"
+          },
+          {
+            "label": "C",
+            "text": "10,300"
+          },
+          {
+            "label": "D",
+            "text": "1,883"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "31,946",
+        "lure_answer": "2,882",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Pennsylvania"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Elk County, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Kansas"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Elk County, Kansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Elk County is a county located in the U.S. state of Pennsylvania. As of the 2010 census, the population was 31,946.",
+          "S": "Elk County (county code EK) is a county located in the U.S. state of Kansas. As of the 2010 census, the county population was 2,882.",
+          "F": "Elk County is a county located in the U.S. state of Pennsylvania. As of the 2010 census, the population was 2,882."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_92b0f3a5a5ead707_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:36:41.893Z",
+      "displayed_input": {
+        "id": "situatedqa_time_92b0f3a5a5ead707_v19",
+        "question": "As of February 1, 2018, what was the largest California wildfire in modern recorded history by burned area?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mendocino Complex"
+          },
+          {
+            "label": "B",
+            "text": "August Complex"
+          },
+          {
+            "label": "C",
+            "text": "Thomas Fire"
+          },
+          {
+            "label": "D",
+            "text": "Cedar Fire"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Thomas Fire",
+        "lure_answer": "Mendocino Complex",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "February 1, 2018"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of February 1, 2018, the Thomas Fire was the largest California wildfire in modern recorded history by burned area.",
+          "S": "As of 2019, the Mendocino Complex was the largest California wildfire in modern recorded history by burned area.",
+          "F": "As of February 1, 2018, the Mendocino Complex was the largest California wildfire in modern recorded history by burned area."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_8e9ec5c449ade6ff_v12",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:37:37.814Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_8e9ec5c449ade6ff_v12",
+        "question": "Who directed the 1995 film \"To Die For\"?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Peter Mackenzie Litten"
+          },
+          {
+            "label": "B",
+            "text": "Deran Sarafian"
+          },
+          {
+            "label": "C",
+            "text": "Krishnan-Panju"
+          },
+          {
+            "label": "D",
+            "text": "Gus Van Sant"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Gus Van Sant",
+        "lure_answer": "Peter Mackenzie Litten",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1995"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "To Die For"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1994"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "To Die For (1994 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "To Die For is a 1995 criminal comedy-drama film, made in a mockumentary format, directed by Gus Van Sant and written by Buck Henry, based on the novel of the same name by Joyce Maynard, which in turn was inspired by the story of Pamela Smart.",
+          "S": "To Die For is a 1994 British comedy drama film directed by Peter Mackenzie Litten and starring Thomas Arklie, Ian Williams, Tony Slattery, Dillie Keane and John Altman. The screenplay was written by Johnny Byrne, Paul McEvoy, and Litten.",
+          "F": "To Die For is a 1995 criminal comedy-drama film, made in a mockumentary format, directed by Peter Mackenzie Litten and written by Buck Henry, based on the novel of the same name by Joyce Maynard, which in turn was inspired by the story of Pamela Smart."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_a52e1e4fe2ab7388_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:38:26.806Z",
+      "displayed_input": {
+        "id": "situatedqa_time_a52e1e4fe2ab7388_v19",
+        "question": "As of September 9, 2014, how many seasons of Sons of Anarchy had begun airing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "4"
+          },
+          {
+            "label": "B",
+            "text": "7"
+          },
+          {
+            "label": "C",
+            "text": "6"
+          },
+          {
+            "label": "D",
+            "text": "17"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "7",
+        "lure_answer": "6",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "September 9, 2014"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "September 10, 2013"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of September 9, 2014, 7 seasons of Sons of Anarchy had begun airing.",
+          "S": "As of September 10, 2013, 6 seasons of Sons of Anarchy had begun airing.",
+          "F": "As of September 9, 2014, 6 seasons of Sons of Anarchy had begun airing."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_4e566f9f3c20e65b_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:39:02.350Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_4e566f9f3c20e65b_v19",
+        "question": "Who was the governor-general of India in 1857?",
+        "options": [
+          {
+            "label": "A",
+            "text": "William Reid"
+          },
+          {
+            "label": "B",
+            "text": "Sir Henry Young"
+          },
+          {
+            "label": "C",
+            "text": "Edmund Walker Head"
+          },
+          {
+            "label": "D",
+            "text": "The Viscount Canning"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "The Viscount Canning",
+        "lure_answer": "Edmund Walker Head",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "india"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "governor-general"
+            },
+            {
+              "name": "year",
+              "type": "string",
+              "value": "1857"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Province of Canada"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "governor-general"
+            },
+            {
+              "name": "year",
+              "type": "string",
+              "value": "1857"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 1857, the Viscount Canning was the governor-general of India.",
+          "S": "In 1857, Edmund Walker Head was the governor-general of the Province of Canada.",
+          "F": "In 1857, Edmund Walker Head was the governor-general of India."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_9b02188e2f935760_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:39:50.458Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_9b02188e2f935760_v8",
+        "question": "When was the Salem Chapel in East Budleigh built?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1719"
+          },
+          {
+            "label": "B",
+            "text": "1905"
+          },
+          {
+            "label": "C",
+            "text": "1791"
+          },
+          {
+            "label": "D",
+            "text": "1923"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1719",
+        "lure_answer": "1791",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "East Budleigh"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Salem Chapel, East Budleigh"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Leeds"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Salem Chapel, Leeds"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Salem Chapel on Vicarage Road in East Budleigh, Devon, was built in the year 1719.",
+          "S": "Salem Chapel on Hunslet Lane in Leeds, West Yorkshire, was built in the year 1791.",
+          "F": "Salem Chapel on Vicarage Road in East Budleigh, Devon, was built in the year 1791."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_36be03c851b5_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:41:00.528Z",
+      "displayed_input": {
+        "id": "fred_time_36be03c851b5_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Arkansas on January 1, 2023? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$10.00"
+          },
+          {
+            "label": "B",
+            "text": "$9.25"
+          },
+          {
+            "label": "C",
+            "text": "$8.00"
+          },
+          {
+            "label": "D",
+            "text": "$11.00"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$11.00",
+        "lure_answer": "$10.00",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2023-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Arkansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Arkansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2023, the recorded basic state minimum wage in Arkansas was $11.00 per hour.",
+          "S": "On January 1, 2020, the recorded basic state minimum wage in Arkansas was $10.00 per hour.",
+          "F": "On January 1, 2023, the recorded basic state minimum wage in Arkansas was $10.00 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_6ab482761983134b_v35",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:41:41.434Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_6ab482761983134b_v35",
+        "question": "What was the population of Texas at the 2020 U.S. census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "5,706,494"
+          },
+          {
+            "label": "B",
+            "text": "21,538,187"
+          },
+          {
+            "label": "C",
+            "text": "29,145,505"
+          },
+          {
+            "label": "D",
+            "text": "3,271,616"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "29,145,505",
+        "lure_answer": "3,271,616",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 1, 2020"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Texas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 1, 2020"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Utah"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "At the 2020 United States census, the population of Texas was 29,145,505.",
+          "S": "At the 2020 United States census, the population of Utah was 3,271,616.",
+          "F": "At the 2020 United States census, the population of Texas was 3,271,616."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_f1a873d7001f_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:42:49.559Z",
+      "displayed_input": {
+        "id": "fred_time_f1a873d7001f_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Oregon on January 1, 2006? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$10.75"
+          },
+          {
+            "label": "B",
+            "text": "$11.25"
+          },
+          {
+            "label": "C",
+            "text": "$7.50"
+          },
+          {
+            "label": "D",
+            "text": "$7.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.50",
+        "lure_answer": "$7.25",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2006-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oregon"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2005-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oregon"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2006, the recorded basic state minimum wage in Oregon was $7.50 per hour.",
+          "S": "On January 1, 2005, the recorded basic state minimum wage in Oregon was $7.25 per hour.",
+          "F": "On January 1, 2006, the recorded basic state minimum wage in Oregon was $7.25 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_943c59e642b7be68_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:43:36.323Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_943c59e642b7be68_v8",
+        "question": "What was the population of Wilmot Township in Michigan at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1,204"
+          },
+          {
+            "label": "B",
+            "text": "413"
+          },
+          {
+            "label": "C",
+            "text": "878"
+          },
+          {
+            "label": "D",
+            "text": "5,601"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "878",
+        "lure_answer": "1,204",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Michigan"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Wilmot Township, Michigan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Bradford County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Wilmot Township, Bradford County, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Wilmot Township is a civil township of Cheboygan County in the U.S. state of Michigan. The population was 878 at the 2010 census.",
+          "S": "Wilmot Township is a township in Bradford County, Pennsylvania, United States. The population was 1,204 at the 2010 census.",
+          "F": "Wilmot Township is a civil township of Cheboygan County in the U.S. state of Michigan. The population was 1,204 at the 2010 census."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_46d64e3d29d0c077_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:44:13.151Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_46d64e3d29d0c077_v19",
+        "question": "Who was the king of Denmark in 1756?",
+        "options": [
+          {
+            "label": "A",
+            "text": "George II"
+          },
+          {
+            "label": "B",
+            "text": "Frederick V"
+          },
+          {
+            "label": "C",
+            "text": "Adolf Frederick"
+          },
+          {
+            "label": "D",
+            "text": "Alaungpaya"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Frederick V",
+        "lure_answer": "George II",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Denmark"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "king"
+            },
+            {
+              "name": "year",
+              "type": "string",
+              "value": "1756"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Great Britain"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "king"
+            },
+            {
+              "name": "year",
+              "type": "string",
+              "value": "1756"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 1756, Frederick V was the king of Denmark.",
+          "S": "In 1756, George II was the king of Great Britain.",
+          "F": "In 1756, George II was the king of Denmark."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_2feaa58117aa88f1_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:45:49.776Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_2feaa58117aa88f1_v8",
+        "question": "Who directed the 1941 film \"My Wife's Family\"?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Monty Banks"
+          },
+          {
+            "label": "B",
+            "text": "Michael Anderson"
+          },
+          {
+            "label": "C",
+            "text": "Gilbert Gunn"
+          },
+          {
+            "label": "D",
+            "text": "Walter C. Mycroft"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Walter C. Mycroft",
+        "lure_answer": "Gilbert Gunn",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1941"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "My Wife's Family (1941 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1956"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "My Wife's Family (1956 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "My Wife's Family is a 1941 British domestic comedy film directed by Walter C. Mycroft and starring Charles Clapham, John Warwick, David Tomlinson and Patricia Roc.",
+          "S": "My Wife's Family is a 1956 British comedy film directed by Gilbert Gunn and starring Ronald Shiner as Doc Knott, Ted Ray, Greta Gynt, Diane Hart and Robertson Hare.",
+          "F": "My Wife's Family is a 1941 British domestic comedy film directed by Gilbert Gunn and starring Charles Clapham, John Warwick, David Tomlinson and Patricia Roc."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_9b2db8e1e481_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:49:28.157Z",
+      "displayed_input": {
+        "id": "fred_time_9b2db8e1e481_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Virginia on January 1, 1991? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$5.15"
+          },
+          {
+            "label": "B",
+            "text": "$3.65"
+          },
+          {
+            "label": "C",
+            "text": "$2.35"
+          },
+          {
+            "label": "D",
+            "text": "$2.65"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$2.65",
+        "lure_answer": "$3.65",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1991-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Virginia"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1992-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Virginia"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 1991, the recorded basic state minimum wage in Virginia was $2.65 per hour.",
+          "S": "On January 1, 1992, the recorded basic state minimum wage in Virginia was $3.65 per hour.",
+          "F": "On January 1, 1991, the recorded basic state minimum wage in Virginia was $3.65 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_baca14782602_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:54:39.748Z",
+      "displayed_input": {
+        "id": "fred_geography_baca14782602_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Vermont on January 1, 2011? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$8.50"
+          },
+          {
+            "label": "B",
+            "text": "$7.50"
+          },
+          {
+            "label": "C",
+            "text": "$8.15"
+          },
+          {
+            "label": "D",
+            "text": "$8.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$8.15",
+        "lure_answer": "$7.50",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2011-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Vermont"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2011-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Mexico"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2011, the recorded basic state minimum wage in Vermont was $8.15 per hour.",
+          "S": "On January 1, 2011, the recorded basic state minimum wage in New Mexico was $7.50 per hour.",
+          "F": "On January 1, 2011, the recorded basic state minimum wage in Vermont was $7.50 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_b86f1ed2b79d1256_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:54:31.062Z",
+      "displayed_input": {
+        "id": "situatedqa_time_b86f1ed2b79d1256_v19",
+        "question": "Who served as governor of Maharashtra in 2020?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Kenneth Mapp"
+          },
+          {
+            "label": "B",
+            "text": "Chennamaneni Vidyasagar Rao"
+          },
+          {
+            "label": "C",
+            "text": "Bhagat Singh Koshyari"
+          },
+          {
+            "label": "D",
+            "text": "Eric Greitens"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Bhagat Singh Koshyari",
+        "lure_answer": "Chennamaneni Vidyasagar Rao",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "governor of Maharashtra"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2017"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "governor of Maharashtra"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 2020, Bhagat Singh Koshyari served as governor of Maharashtra.",
+          "S": "In 2017, Chennamaneni Vidyasagar Rao served as governor of Maharashtra.",
+          "F": "In 2020, Chennamaneni Vidyasagar Rao served as governor of Maharashtra."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_e3bfb14afa2ae288_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:56:29.123Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_e3bfb14afa2ae288_v8",
+        "question": "When was Colin White, the American ice hockey forward, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "January 30, 1997"
+          },
+          {
+            "label": "B",
+            "text": "September 22, 1978"
+          },
+          {
+            "label": "C",
+            "text": "November 7, 1994"
+          },
+          {
+            "label": "D",
+            "text": "December 12, 1977"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "January 30, 1997",
+        "lure_answer": "December 12, 1977",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "American professional ice hockey forward"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Colin White (ice hockey, born 1997)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Canadian retired professional ice hockey player"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Colin White (ice hockey, born 1977)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Colin Andrew White, the American professional ice hockey forward, was born on January 30, 1997.",
+          "S": "Colin White, the Canadian professional ice hockey player, was born on December 12, 1977.",
+          "F": "Colin Andrew White, the American professional ice hockey forward, was born on December 12, 1977."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_d9d2310f6e9cb5ed_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T13:59:18.456Z",
+      "displayed_input": {
+        "id": "situatedqa_time_d9d2310f6e9cb5ed_v19",
+        "question": "As of April 30, 1954, when had the United States most recently formally declared war?",
+        "options": [
+          {
+            "label": "A",
+            "text": "December 7, 1917"
+          },
+          {
+            "label": "B",
+            "text": "December 8, 1941"
+          },
+          {
+            "label": "C",
+            "text": "June 5, 1942"
+          },
+          {
+            "label": "D",
+            "text": "December 11, 1941"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "June 5, 1942",
+        "lure_answer": "December 11, 1941",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 30, 1954"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "March 12, 1942"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of April 30, 1954, the United States had most recently formally declared war on June 5, 1942.",
+          "S": "As of March 12, 1942, the United States had most recently formally declared war on December 11, 1941.",
+          "F": "As of April 30, 1954, the United States had most recently formally declared war on December 11, 1941."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_305338ee01bd7590_v15",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:00:54.315Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_305338ee01bd7590_v15",
+        "question": "Who directed the 2016 film The Girl on the Train?",
+        "options": [
+          {
+            "label": "A",
+            "text": "André Téchiné"
+          },
+          {
+            "label": "B",
+            "text": "Larry Brand"
+          },
+          {
+            "label": "C",
+            "text": "Tate Taylor"
+          },
+          {
+            "label": "D",
+            "text": "Frank Oz"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Tate Taylor",
+        "lure_answer": "Larry Brand",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2016"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The Girl on the Train (2016 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2013"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The Girl on the Train (2013 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Girl on the Train is a 2016 American mystery thriller drama film directed by Tate Taylor and written by Erin Cressida Wilson, based on Paula Hawkins' 2015 debut novel of the same name.",
+          "S": "The Girl on the Train is a 2013 American independent thriller film directed and written by Larry Brand, and produced by James Carpenter, Rebecca Reynolds, Gary Sales. The film stars Henry Ian Cusick, Nicki Aycox, Stephen Lang.",
+          "F": "The Girl on the Train is a 2016 American mystery thriller drama film directed by Larry Brand and written by Erin Cressida Wilson, based on Paula Hawkins' 2015 debut novel of the same name."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_ac5bdfb8e81d22cb_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:01:37.644Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_ac5bdfb8e81d22cb_v8",
+        "question": "What was the population of Summertown in Georgia at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "866"
+          },
+          {
+            "label": "B",
+            "text": "123"
+          },
+          {
+            "label": "C",
+            "text": "160"
+          },
+          {
+            "label": "D",
+            "text": "5817"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "160",
+        "lure_answer": "866",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Georgia"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Summertown, Georgia"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Tennessee"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Summertown, Tennessee"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Summertown is a city in Emanuel County, Georgia, United States. The population was 160 at the 2010 census. Summertown is located in northern Emanuel County at (32.746532, -82.276182).",
+          "S": "Summertown is an unincorporated community and census-designated place (CDP) in Lawrence County, Tennessee with a small portion in both Lewis County and Maury County. The population of Summertown was 866 at the 2010 census.",
+          "F": "Summertown is a city in Emanuel County, Georgia, United States. The population was 866 at the 2010 census. Summertown is located in northern Emanuel County at (32.746532, -82.276182)."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_2bea1455a66efa0e_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:06:00.349Z",
+      "displayed_input": {
+        "id": "situatedqa_time_2bea1455a66efa0e_v19",
+        "question": "Who served as minister of Sport, Youth and National Service of Namibia in 2021?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Agnes Tjongarero"
+          },
+          {
+            "label": "B",
+            "text": "Bala Mohammed"
+          },
+          {
+            "label": "C",
+            "text": "Erastus Uutoni"
+          },
+          {
+            "label": "D",
+            "text": "Mohammed Musa Bello"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Agnes Tjongarero",
+        "lure_answer": "Erastus Uutoni",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2021"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "minister of Sport, Youth and National Service of Namibia"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "minister of Sport, Youth and National Service of Namibia"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 2021, Agnes Tjongarero served as minister of Sport, Youth and National Service of Namibia.",
+          "S": "In 2019, Erastus Uutoni served as minister of Sport, Youth and National Service of Namibia.",
+          "F": "In 2021, Erastus Uutoni served as minister of Sport, Youth and National Service of Namibia."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_329bba387df791f1_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:08:24.103Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_329bba387df791f1_v19",
+        "question": "When did Pakistan join the United Nations?",
+        "options": [
+          {
+            "label": "A",
+            "text": "14 July 2011"
+          },
+          {
+            "label": "B",
+            "text": "30 September 1947"
+          },
+          {
+            "label": "C",
+            "text": "17 September 1991"
+          },
+          {
+            "label": "D",
+            "text": "24 October 1945"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "30 September 1947",
+        "lure_answer": "14 July 2011",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Pakistan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "South Sudan"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Pakistan joined the United Nations on 30 September 1947.",
+          "S": "South Sudan joined the United Nations on 14 July 2011.",
+          "F": "Pakistan joined the United Nations on 14 July 2011."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_55b938b71615_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:09:59.085Z",
+      "displayed_input": {
+        "id": "fred_geography_55b938b71615_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Connecticut on January 1, 2014? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$8.70"
+          },
+          {
+            "label": "B",
+            "text": "$7.75"
+          },
+          {
+            "label": "C",
+            "text": "$9.32"
+          },
+          {
+            "label": "D",
+            "text": "$9.00"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$8.70",
+        "lure_answer": "$7.75",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2014-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Connecticut"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2014-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Delaware"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2014, the recorded basic state minimum wage in Connecticut was $8.70 per hour.",
+          "S": "On January 1, 2014, the recorded basic state minimum wage in Delaware was $7.75 per hour.",
+          "F": "On January 1, 2014, the recorded basic state minimum wage in Connecticut was $7.75 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_2a3929f6cfa1_natural_v5",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:10:19.420Z",
+      "displayed_input": {
+        "id": "fred_time_2a3929f6cfa1_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Oregon on January 1, 2020? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$12.00"
+          },
+          {
+            "label": "B",
+            "text": "$11.25"
+          },
+          {
+            "label": "C",
+            "text": "$13.50"
+          },
+          {
+            "label": "D",
+            "text": "$12.75"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$12.00",
+        "lure_answer": "$11.25",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oregon"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oregon"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2020, the recorded basic state minimum wage in Oregon was $12.00 per hour.",
+          "S": "On January 1, 2019, the recorded basic state minimum wage in Oregon was $11.25 per hour.",
+          "F": "On January 1, 2020, the recorded basic state minimum wage in Oregon was $11.25 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_db445975fbaf582e_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:12:44.613Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_db445975fbaf582e_v8",
+        "question": "Where was Representative Comstock of Indiana born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Springfield, Massachusetts"
+          },
+          {
+            "label": "B",
+            "text": "Havana, Cuba"
+          },
+          {
+            "label": "C",
+            "text": "Argyle, Penobscot County, Maine"
+          },
+          {
+            "label": "D",
+            "text": "Germantown, Ohio"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Germantown, Ohio",
+        "lure_answer": "Argyle, Penobscot County, Maine",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Representative from Indiana"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Daniel Webster Comstock"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Representative from Minnesota"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Solomon Comstock"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Daniel Webster Comstock (December 16, 1840 – May 19, 1917) was a U.S. Representative from Indiana. Born in Germantown, Ohio, Comstock attended the common schools, and was graduated from the Ohio Wesleyan University, Delaware, Ohio, in 1860. He studied law. He was admitted to the bar in 1861 and commenced practice in New Castle, Indiana.",
+          "S": "Solomon Gilman Comstock (May 9, 1842 – June 3, 1933) was a U.S. Representative from Minnesota as a member of the 51st Congress of the United States of America. Born in Argyle, Penobscot County, Maine, Comstock moved to Passadumkeag, Maine with his parents in 1845; attended the rural schools, East Corinth (Maine) Academy, Maine Wesleyan Seminary at Kents Hill, and Hampden (Maine) Academy.",
+          "F": "Daniel Webster Comstock (December 16, 1840 – May 19, 1917) was a U.S. Representative from Indiana. Born in Argyle, Penobscot County, Maine, Comstock attended the common schools, and was graduated from the Ohio Wesleyan University, Delaware, Ohio, in 1860. He studied law. He was admitted to the bar in 1861 and commenced practice in New Castle, Indiana."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_f3a9e1c3bc15f300_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:13:04.624Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_f3a9e1c3bc15f300_v19",
+        "question": "What is the main international airport in Fiji?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hartsfield-Jackson Atlanta International Aiport"
+          },
+          {
+            "label": "B",
+            "text": "Grantly Adams International Airport"
+          },
+          {
+            "label": "C",
+            "text": "Keflavík Airport"
+          },
+          {
+            "label": "D",
+            "text": "Nadi International Airport"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Nadi International Airport",
+        "lure_answer": "Keflavík Airport",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Fiji"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Iceland"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Nadi International Airport is the main international airport of Fiji.",
+          "S": "Keflavík Airport is the main international airport of Iceland.",
+          "F": "Keflavík Airport is the main international airport of Fiji."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_f87586c66ba581a3_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:15:27.821Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_f87586c66ba581a3_v19",
+        "question": "Who was the first executive president of Guyana?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mao Zedong"
+          },
+          {
+            "label": "B",
+            "text": "Forbes Burnham"
+          },
+          {
+            "label": "C",
+            "text": "George Washington"
+          },
+          {
+            "label": "D",
+            "text": "J. R. Jayewardene"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Forbes Burnham",
+        "lure_answer": "J. R. Jayewardene",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "guyana"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "first executive president"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Sri Lanka"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "first executive president"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Forbes Burnham was the first executive president of Guyana.",
+          "S": "J. R. Jayewardene was the first executive president of Sri Lanka.",
+          "F": "J. R. Jayewardene was the first executive president of Guyana."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_f3eec2fdc93b5046_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:16:00.987Z",
+      "displayed_input": {
+        "id": "situatedqa_time_f3eec2fdc93b5046_v19",
+        "question": "As of 2008, what was the latest released feature film in the Pirates of the Caribbean series?",
+        "options": [
+          {
+            "label": "A",
+            "text": "On Stranger Tides"
+          },
+          {
+            "label": "B",
+            "text": "Dead Men Tell No Tales"
+          },
+          {
+            "label": "C",
+            "text": "Dead Man's Chest"
+          },
+          {
+            "label": "D",
+            "text": "At World's End"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "At World's End",
+        "lure_answer": "Dead Man's Chest",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2008"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "August 1, 2006"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of 2008, the latest released feature film in the Pirates of the Caribbean series was \"At World's End\".",
+          "S": "As of August 1, 2006, the latest released feature film in the Pirates of the Caribbean series was \"Dead Man's Chest\".",
+          "F": "As of 2008, the latest released feature film in the Pirates of the Caribbean series was \"Dead Man's Chest\"."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_34d0a7dd7dd569db_v19",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:16:23.958Z",
+      "displayed_input": {
+        "id": "situatedqa_time_34d0a7dd7dd569db_v19",
+        "question": "As of February 1, 2020, how many decimal digits of pi had been computed?",
+        "options": [
+          {
+            "label": "A",
+            "text": "22,459,157,718,361"
+          },
+          {
+            "label": "B",
+            "text": "50,000,000,000,000"
+          },
+          {
+            "label": "C",
+            "text": "100,000,000,000,000"
+          },
+          {
+            "label": "D",
+            "text": "31,415,926,535,897"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "50,000,000,000,000",
+        "lure_answer": "31,415,926,535,897",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "February 1, 2020"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "June 1, 2019"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of February 1, 2020, the computation record for pi was 50,000,000,000,000 decimal digits.",
+          "S": "As of June 1, 2019, the computation record for pi was 31,415,926,535,897 decimal digits.",
+          "F": "As of February 1, 2020, the computation record for pi was 31,415,926,535,897 decimal digits."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_a90b8de4947037ca_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:17:36.508Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_a90b8de4947037ca_v8",
+        "question": "What was the population of Troy Township, Pennsylvania in Bradford County at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1,645"
+          },
+          {
+            "label": "B",
+            "text": "1,235"
+          },
+          {
+            "label": "C",
+            "text": "15,404"
+          },
+          {
+            "label": "D",
+            "text": "220"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1,645",
+        "lure_answer": "1,235",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Bradford County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Troy Township, Bradford County, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Crawford County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Troy Township, Crawford County, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Troy Township is a township in Bradford County, Pennsylvania, United States. The population was 1,645 at the 2010 census.",
+          "S": "Troy Township is a township in Crawford County, Pennsylvania, United States. The population was 1,235 at the 2010 census.",
+          "F": "Troy Township is a township in Bradford County, Pennsylvania, United States. The population was 1,235 at the 2010 census."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_673ba803aec0b08e_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:18:36.569Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_673ba803aec0b08e_v8",
+        "question": "When was Farrell, the New York politician who graduated from Fordham College, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "November 12, 1900"
+          },
+          {
+            "label": "B",
+            "text": "October 23, 1919"
+          },
+          {
+            "label": "C",
+            "text": "November 13, 1921"
+          },
+          {
+            "label": "D",
+            "text": "June 6, 1954"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "October 23, 1919",
+        "lure_answer": "November 12, 1900",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Fordham College"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "John H. Farrell"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Queens County Court"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Peter T. Farrell"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "John H. Farrell (October 23, 1919 – April 20, 1995) was an American lawyer and politician from New York. He was born on October 23, 1919, in Manhattan, New York City. He attended St. Columba School and Xavier High School. He graduated from Fordham College and Fordham Law School.",
+          "S": "Peter T. Farrell (November 12, 1900 – November 9, 1992) was an American judge from Queens, New York City, who served as a judge on Queens County Court and the New York Supreme Court, where he primarily handled criminal cases.",
+          "F": "John H. Farrell (November 12, 1900 – April 20, 1995) was an American lawyer and politician from New York. He was born on November 12, 1900, in Manhattan, New York City. He attended St. Columba School and Xavier High School. He graduated from Fordham College and Fordham Law School."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_db821cd7cd053cda_v8",
+      "reviewer_id": "A5",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-08T14:20:38.809Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_db821cd7cd053cda_v8",
+        "question": "Who directed \"You Only Live Once\" starring Sylvia Sidney?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fritz Lang"
+          },
+          {
+            "label": "B",
+            "text": "Federico Cueva"
+          },
+          {
+            "label": "C",
+            "text": "Walter Forde"
+          },
+          {
+            "label": "D",
+            "text": "Harry Beaumont"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Fritz Lang",
+        "lure_answer": "Federico Cueva",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Sylvia Sidney"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "You Only Live Once (1937 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Peter Lanzani"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "You Only Live Once (2017 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The film You Only Live Once, starring Sylvia Sidney, was directed by Fritz Lang.",
+          "S": "The film You Only Live Once, starring Peter Lanzani, was directed by Federico Cueva.",
+          "F": "The film You Only Live Once, starring Sylvia Sidney, was directed by Federico Cueva."
+        }
+      }
+    }
+  ],
+  "sha256": "635f2236065562f5beee37d3d7963f777b2b74b07454c36eccc3987bb9b045fa"
+}

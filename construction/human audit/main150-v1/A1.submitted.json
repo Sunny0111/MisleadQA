@@ -1,0 +1,4173 @@
+{
+  "schema_version": 1,
+  "sample_version": "main150-v1",
+  "sample_sha256": "fc9294011b0d17b22381173b7bff4907f2f58bfa8ebfc666ed48e4a1160091ee",
+  "assignments_sha256": "4254a73655c94d6fa6476f240bb832f425f0a5b5fd34d37d9a20c2735fcfc560",
+  "reviewer_id": "A1",
+  "submitted_at": "2026-10-07T18:54:35.803Z",
+  "draft": {
+    "schema_version": 1,
+    "sample_version": "main150-v1",
+    "sample_sha256": "fc9294011b0d17b22381173b7bff4907f2f58bfa8ebfc666ed48e4a1160091ee",
+    "assignments_sha256": "4254a73655c94d6fa6476f240bb832f425f0a5b5fd34d37d9a20c2735fcfc560",
+    "reviewer_id": "A1",
+    "revision": 202,
+    "cursor": 49,
+    "reviews": {
+      "fred_time_0b54fa1874a5_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:29:21.306Z"
+      },
+      "ambigdocs_entity_e3bfb14afa2ae288_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:30:29.279Z"
+      },
+      "ambigdocs_entity_3b5b5b24e64b99f5_v12": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:32:29.104Z"
+      },
+      "ambigdocs_entity_6792a7a06e3c5894_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:33:03.313Z"
+      },
+      "situatedqa_time_8bbff1958e3a243e_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:33:20.731Z"
+      },
+      "situatedqa_geography_d04d044e7a469c64_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:33:49.392Z"
+      },
+      "situatedqa_geography_d41c9241834c29d3_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:34:00.557Z"
+      },
+      "situatedqa_time_51522c02e01bf3ba_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:34:30.891Z"
+      },
+      "ambigdocs_entity_493376565c5dddf7_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:34:55.226Z"
+      },
+      "fred_time_8b5880f04abf_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:35:17.872Z"
+      },
+      "situatedqa_time_f3eec2fdc93b5046_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:35:44.304Z"
+      },
+      "ambigdocs_entity_f96e8711d9ee121a_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:36:08.735Z"
+      },
+      "situatedqa_time_f0b5fa053ea3c255_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:36:25.370Z"
+      },
+      "fred_time_e9402ec21ff7_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:36:39.039Z"
+      },
+      "ambigdocs_entity_87c268ab1b8d498f_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:37:03.511Z"
+      },
+      "ambigdocs_entity_c1a85b3ea39cfa7f_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:37:33.563Z"
+      },
+      "ambigdocs_entity_db445975fbaf582e_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:38:14.730Z"
+      },
+      "situatedqa_geography_0233b65e3d30e53c_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:39:15.022Z"
+      },
+      "ambigdocs_entity_305338ee01bd7590_v15": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:39:32.371Z"
+      },
+      "situatedqa_time_92b0f3a5a5ead707_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:39:54.136Z"
+      },
+      "fred_geography_eb339d112a89_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:40:10.776Z"
+      },
+      "ambigdocs_entity_020b972243ac2744_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:40:39.810Z"
+      },
+      "fred_geography_c80d48cf4cfe_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:41:55.253Z"
+      },
+      "situatedqa_geography_85c13e0d15ff18e6_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:42:31.866Z"
+      },
+      "situatedqa_time_a49576c1e76ab8be_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:43:12.444Z"
+      },
+      "ambigdocs_entity_320f654ef1a70329_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:44:08.632Z"
+      },
+      "situatedqa_time_63ee0bebd7375cbc_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:44:34.155Z"
+      },
+      "situatedqa_geography_3b7f3a329e0207e0_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:44:51.624Z"
+      },
+      "fred_geography_26defcea4722_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:45:05.610Z"
+      },
+      "fred_time_d726bec83941_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:45:23.291Z"
+      },
+      "ambigdocs_entity_811c13b400d2407c_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:45:47.788Z"
+      },
+      "situatedqa_geography_c17b14ce5d1f90e2_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:46:10.906Z"
+      },
+      "situatedqa_time_a4c847fd9c5f4c18_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:46:56.674Z"
+      },
+      "situatedqa_geography_ac524173f490d5a9_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:47:17.114Z"
+      },
+      "ambigdocs_entity_d68fe95ef430ae61_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:47:50.405Z"
+      },
+      "situatedqa_geography_bba91f1815face40_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:48:28.185Z"
+      },
+      "fred_time_9b2db8e1e481_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:48:57.053Z"
+      },
+      "fred_geography_725f9aa25575_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:49:07.991Z"
+      },
+      "situatedqa_time_d041b566caf9796a_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:49:27.471Z"
+      },
+      "fred_geography_e0fd14c64575_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:49:49.176Z"
+      },
+      "ambigdocs_entity_0ef2a70faa99ca9e_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:50:15.665Z"
+      },
+      "ambigdocs_entity_d48df42cbed3c919_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:50:41.472Z"
+      },
+      "situatedqa_geography_203a488cf9fa52fb_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:51:06.631Z"
+      },
+      "situatedqa_time_4ac6244ec2d807a2_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:51:28.454Z"
+      },
+      "situatedqa_time_d9c80ee640a59c26_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:51:47.193Z"
+      },
+      "situatedqa_geography_e82a64ab1620e486_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:52:09.779Z"
+      },
+      "situatedqa_geography_4e566f9f3c20e65b_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:52:33.005Z"
+      },
+      "ambigdocs_entity_e6668964582c33f0_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:53:02.031Z"
+      },
+      "ambigdocs_entity_3326b3c6cc356923_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:53:50.332Z"
+      },
+      "situatedqa_geography_6ab482761983134b_v35": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T18:54:28.097Z"
+      }
+    },
+    "updated_at": "2026-10-07T18:54:28.097Z"
+  },
+  "records": [
+    {
+      "item_id": "fred_time_0b54fa1874a5_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:29:21.306Z",
+      "displayed_input": {
+        "id": "fred_time_0b54fa1874a5_natural_v5",
+        "question": "What was the recorded basic state minimum wage in New Hampshire on January 1, 2006? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$6.50"
+          },
+          {
+            "label": "B",
+            "text": "$3.10"
+          },
+          {
+            "label": "C",
+            "text": "$4.25"
+          },
+          {
+            "label": "D",
+            "text": "$5.15"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$5.15",
+        "lure_answer": "$6.50",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2006-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Hampshire"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2008-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Hampshire"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2006, the recorded basic state minimum wage in New Hampshire was $5.15 per hour.",
+          "S": "On January 1, 2008, the recorded basic state minimum wage in New Hampshire was $6.50 per hour.",
+          "F": "On January 1, 2006, the recorded basic state minimum wage in New Hampshire was $6.50 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_e3bfb14afa2ae288_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:30:29.279Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_e3bfb14afa2ae288_v8",
+        "question": "When was Colin White, the American ice hockey forward, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "January 30, 1997"
+          },
+          {
+            "label": "B",
+            "text": "September 22, 1978"
+          },
+          {
+            "label": "C",
+            "text": "November 7, 1994"
+          },
+          {
+            "label": "D",
+            "text": "December 12, 1977"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "January 30, 1997",
+        "lure_answer": "December 12, 1977",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "American professional ice hockey forward"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Colin White (ice hockey, born 1997)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Canadian retired professional ice hockey player"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Colin White (ice hockey, born 1977)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Colin Andrew White, the American professional ice hockey forward, was born on January 30, 1997.",
+          "S": "Colin White, the Canadian professional ice hockey player, was born on December 12, 1977.",
+          "F": "Colin Andrew White, the American professional ice hockey forward, was born on December 12, 1977."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_3b5b5b24e64b99f5_v12",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:32:29.104Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_3b5b5b24e64b99f5_v12",
+        "question": "What was the population of the borough of Tionesta at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "483"
+          },
+          {
+            "label": "B",
+            "text": "1272"
+          },
+          {
+            "label": "C",
+            "text": "729"
+          },
+          {
+            "label": "D",
+            "text": "1240"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "483",
+        "lure_answer": "729",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "borough"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Tionesta, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "township"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Tionesta Township, Forest County, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Tionesta is a borough in Forest County, Pennsylvania, United States. The population was 483 at the 2010 Census. It is the county seat of Forest County.",
+          "S": "Tionesta Township is a township in Forest County, Pennsylvania, United States. The population was 729 at the 2010 census, up from 610 at the 2000 census.",
+          "F": "Tionesta is a borough in Forest County, Pennsylvania, United States. The population was 729 at the 2010 Census. It is the county seat of Forest County."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_6792a7a06e3c5894_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:33:03.313Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_6792a7a06e3c5894_v8",
+        "question": "What was the population of Tyro in Kansas at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "3,879"
+          },
+          {
+            "label": "B",
+            "text": "904"
+          },
+          {
+            "label": "C",
+            "text": "220"
+          },
+          {
+            "label": "D",
+            "text": "2,383"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "220",
+        "lure_answer": "3,879",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Kansas"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Tyro, Kansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "North Carolina"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Tyro, North Carolina"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Tyro is a city in Montgomery County, Kansas, United States. As of the 2010 census, the city population was 220. Tyro was laid out in the fall of 1886 when the Denver, Memphis & Atlantic railroad was first extended to that point.",
+          "S": "Tyro is an unincorporated community and census-designated place (CDP) located west of Lexington and south of Winston-Salem in Davidson County, North Carolina, United States. As of the 2010 census the community had a population of 3,879.",
+          "F": "Tyro is a city in Montgomery County, Kansas, United States. As of the 2010 census, the city population was 3,879. Tyro was laid out in the fall of 1886 when the Denver, Memphis & Atlantic railroad was first extended to that point."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_8bbff1958e3a243e_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:33:20.731Z",
+      "displayed_input": {
+        "id": "situatedqa_time_8bbff1958e3a243e_v19",
+        "question": "As of April 22, 1996, what was the lowest directly recorded temperature in Antarctica?",
+        "options": [
+          {
+            "label": "A",
+            "text": "−89.2 °C"
+          },
+          {
+            "label": "B",
+            "text": "−67.8 °C"
+          },
+          {
+            "label": "C",
+            "text": "−69.6 °C"
+          },
+          {
+            "label": "D",
+            "text": "−88.3 °C"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "−89.2 °C",
+        "lure_answer": "−88.3 °C",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 22, 1996"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 29, 1977"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of April 22, 1996, the lowest directly recorded temperature in Antarctica was −89.2 °C.",
+          "S": "As of April 29, 1977, the lowest directly recorded temperature in Antarctica was −88.3 °C.",
+          "F": "As of April 22, 1996, the lowest directly recorded temperature in Antarctica was −88.3 °C."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_d04d044e7a469c64_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:33:49.392Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_d04d044e7a469c64_v19",
+        "question": "How many members are in the House of Representatives of Nigeria?",
+        "options": [
+          {
+            "label": "A",
+            "text": "110"
+          },
+          {
+            "label": "B",
+            "text": "435"
+          },
+          {
+            "label": "C",
+            "text": "650"
+          },
+          {
+            "label": "D",
+            "text": "360"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "360",
+        "lure_answer": "110",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "nigeria"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Belarus"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The House of Representatives of Nigeria consists of 360 members.",
+          "S": "The House of Representatives of Belarus consists of 110 members.",
+          "F": "The House of Representatives of Nigeria consists of 110 members."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_d41c9241834c29d3_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:34:00.557Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_d41c9241834c29d3_v19",
+        "question": "What is the capital of Canada?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Abuja"
+          },
+          {
+            "label": "B",
+            "text": "Ottawa"
+          },
+          {
+            "label": "C",
+            "text": "Beijing"
+          },
+          {
+            "label": "D",
+            "text": "Dublin"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Ottawa",
+        "lure_answer": "Beijing",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Canada"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "China"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Ottawa is the capital city of Canada.",
+          "S": "Beijing is the capital city of China.",
+          "F": "Beijing is the capital city of Canada."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_51522c02e01bf3ba_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:34:30.891Z",
+      "displayed_input": {
+        "id": "situatedqa_time_51522c02e01bf3ba_v19",
+        "question": "Who won British Male Solo Artist at the Brit Awards in 2017?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Keith Urban"
+          },
+          {
+            "label": "B",
+            "text": "David Bowie"
+          },
+          {
+            "label": "C",
+            "text": "George Ezra"
+          },
+          {
+            "label": "D",
+            "text": "Stormzy"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "David Bowie",
+        "lure_answer": "Stormzy",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2017"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "David Bowie won British Male Solo Artist at the Brit Awards in 2017.",
+          "S": "Stormzy won British Male Solo Artist at the Brit Awards in 2020.",
+          "F": "Stormzy won British Male Solo Artist at the Brit Awards in 2017."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_493376565c5dddf7_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:34:55.226Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_493376565c5dddf7_v8",
+        "question": "What type of bridge is the Arch Bridge in Bristol?",
+        "options": [
+          {
+            "label": "A",
+            "text": "wooden covered bridge"
+          },
+          {
+            "label": "B",
+            "text": "stone arch bridge"
+          },
+          {
+            "label": "C",
+            "text": "4-span girder bridge"
+          },
+          {
+            "label": "D",
+            "text": "steel through arch bridge"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "stone arch bridge",
+        "lure_answer": "steel through arch bridge",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Bristol"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Arch Bridge (Bristol, Maine)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Oregon"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Oregon City Bridge"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Arch Bridge is a historic stone arch bridge, carrying Benner Road over the Pemaquid River near the village of Bristol Falls in Bristol, Maine.",
+          "S": "The Oregon City Bridge, also known as the Arch Bridge, is a steel through arch bridge spanning the Willamette River between Oregon City and West Linn, Oregon, United States.",
+          "F": "The Arch Bridge is a historic steel through arch bridge, carrying Benner Road over the Pemaquid River near the village of Bristol Falls in Bristol, Maine."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_8b5880f04abf_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:35:17.872Z",
+      "displayed_input": {
+        "id": "fred_time_8b5880f04abf_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Indiana on January 1, 2010? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$6.55"
+          },
+          {
+            "label": "B",
+            "text": "$7.25"
+          },
+          {
+            "label": "C",
+            "text": "$1.25"
+          },
+          {
+            "label": "D",
+            "text": "$2.00"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.25",
+        "lure_answer": "$6.55",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2010-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Indiana"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2009-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Indiana"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2010, the recorded basic state minimum wage in Indiana was $7.25 per hour.",
+          "S": "On January 1, 2009, the recorded basic state minimum wage in Indiana was $6.55 per hour.",
+          "F": "On January 1, 2010, the recorded basic state minimum wage in Indiana was $6.55 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_f3eec2fdc93b5046_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:35:44.304Z",
+      "displayed_input": {
+        "id": "situatedqa_time_f3eec2fdc93b5046_v19",
+        "question": "As of 2008, what was the latest released feature film in the Pirates of the Caribbean series?",
+        "options": [
+          {
+            "label": "A",
+            "text": "On Stranger Tides"
+          },
+          {
+            "label": "B",
+            "text": "Dead Men Tell No Tales"
+          },
+          {
+            "label": "C",
+            "text": "Dead Man's Chest"
+          },
+          {
+            "label": "D",
+            "text": "At World's End"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "At World's End",
+        "lure_answer": "Dead Man's Chest",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2008"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "August 1, 2006"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of 2008, the latest released feature film in the Pirates of the Caribbean series was \"At World's End\".",
+          "S": "As of August 1, 2006, the latest released feature film in the Pirates of the Caribbean series was \"Dead Man's Chest\".",
+          "F": "As of 2008, the latest released feature film in the Pirates of the Caribbean series was \"Dead Man's Chest\"."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_f96e8711d9ee121a_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:36:08.735Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_f96e8711d9ee121a_v8",
+        "question": "When was Jamie Elliott, the English rugby union player, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "6 February 1973"
+          },
+          {
+            "label": "B",
+            "text": "8 August 1716"
+          },
+          {
+            "label": "C",
+            "text": "18 January 1989"
+          },
+          {
+            "label": "D",
+            "text": "31 August 1992"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "31 August 1992",
+        "lure_answer": "6 February 1973",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "English rugby union player"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Jamie Elliott (rugby union)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Australian rules footballer"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Jamie Elliott (footballer, born 1973)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "James Harry Elliott, the English rugby union player, was born on 31 August 1992.",
+          "S": "Jamie Elliott, the Australian rules footballer, was born on 6 February 1973.",
+          "F": "James Harry Elliott, the English rugby union player, was born on 6 February 1973."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_f0b5fa053ea3c255_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:36:25.370Z",
+      "displayed_input": {
+        "id": "situatedqa_time_f0b5fa053ea3c255_v19",
+        "question": "What was the latest stable version of iOS on April 26, 2021?",
+        "options": [
+          {
+            "label": "A",
+            "text": "iOS 14.4.1"
+          },
+          {
+            "label": "B",
+            "text": "iOS 14.3"
+          },
+          {
+            "label": "C",
+            "text": "iOS 14.5"
+          },
+          {
+            "label": "D",
+            "text": "iOS 14.4.2"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "14.5",
+        "lure_answer": "14.4.2",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 26, 2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "March 26, 2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On April 26, 2021, the latest stable version of iOS was 14.5.",
+          "S": "On March 26, 2021, the latest stable version of iOS was 14.4.2.",
+          "F": "On April 26, 2021, the latest stable version of iOS was 14.4.2."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_e9402ec21ff7_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:36:39.039Z",
+      "displayed_input": {
+        "id": "fred_time_e9402ec21ff7_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Connecticut on January 1, 2013? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$8.25"
+          },
+          {
+            "label": "B",
+            "text": "$3.37"
+          },
+          {
+            "label": "C",
+            "text": "$1.60"
+          },
+          {
+            "label": "D",
+            "text": "$8.70"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$8.25",
+        "lure_answer": "$8.70",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2013-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Connecticut"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2014-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Connecticut"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2013, the recorded basic state minimum wage in Connecticut was $8.25 per hour.",
+          "S": "On January 1, 2014, the recorded basic state minimum wage in Connecticut was $8.70 per hour.",
+          "F": "On January 1, 2013, the recorded basic state minimum wage in Connecticut was $8.70 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_87c268ab1b8d498f_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:37:03.511Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_87c268ab1b8d498f_v8",
+        "question": "In what year was the Royal Agricultural Society in England established?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1822"
+          },
+          {
+            "label": "B",
+            "text": "1842"
+          },
+          {
+            "label": "C",
+            "text": "1838"
+          },
+          {
+            "label": "D",
+            "text": "1935"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1838",
+        "lure_answer": "1822",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "England"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Royal Agricultural Society of England"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "New South Wales"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Royal Agricultural Society of New South Wales"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Royal Agricultural Society of England (RASE) promotes the scientific development of English agriculture. It was established in 1838 with the motto \"Practice with Science\" and received its Royal Charter from Queen Victoria in 1840.",
+          "S": "The Royal Agricultural Society of New South Wales was founded on 5 July 1822, when a group of Sydney's leading citizens formed the Agricultural Society of NSW, and is \"a not-for-profit organisation committed to supporting agricultural development and rural communities in Australia.\"",
+          "F": "The Royal Agricultural Society of England (RASE) promotes the scientific development of English agriculture. It was established in 1822 with the motto \"Practice with Science\" and received its Royal Charter from Queen Victoria in 1840."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_c1a85b3ea39cfa7f_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:37:33.563Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_c1a85b3ea39cfa7f_v8",
+        "question": "Approximately when was the Hodges House in Taunton built?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1850"
+          },
+          {
+            "label": "B",
+            "text": "1825"
+          },
+          {
+            "label": "C",
+            "text": "1908"
+          },
+          {
+            "label": "D",
+            "text": "1907"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1850",
+        "lure_answer": "1825",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Taunton"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Hodges House (Taunton, Massachusetts)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Carrollton"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Hodges House (Carrollton, Illinois)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Hodges House is a historic house at 41 Worcester Street in Taunton, Massachusetts. Built about 1850, it is a well-preserved example of a Greek Revival Cape style house.",
+          "S": "The Hodges House is a historic house located at 532 N. Main St. in Carrollton, Illinois. The house was built circa 1825 and remodeled in the Federal style in 1829.",
+          "F": "The Hodges House is a historic house at 41 Worcester Street in Taunton, Massachusetts. Built about 1825, it is a well-preserved example of a Greek Revival Cape style house."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_db445975fbaf582e_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:38:14.730Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_db445975fbaf582e_v8",
+        "question": "Where was Representative Comstock of Indiana born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Springfield, Massachusetts"
+          },
+          {
+            "label": "B",
+            "text": "Havana, Cuba"
+          },
+          {
+            "label": "C",
+            "text": "Argyle, Penobscot County, Maine"
+          },
+          {
+            "label": "D",
+            "text": "Germantown, Ohio"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Germantown, Ohio",
+        "lure_answer": "Argyle, Penobscot County, Maine",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Representative from Indiana"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Daniel Webster Comstock"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Representative from Minnesota"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Solomon Comstock"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Daniel Webster Comstock (December 16, 1840 – May 19, 1917) was a U.S. Representative from Indiana. Born in Germantown, Ohio, Comstock attended the common schools, and was graduated from the Ohio Wesleyan University, Delaware, Ohio, in 1860. He studied law. He was admitted to the bar in 1861 and commenced practice in New Castle, Indiana.",
+          "S": "Solomon Gilman Comstock (May 9, 1842 – June 3, 1933) was a U.S. Representative from Minnesota as a member of the 51st Congress of the United States of America. Born in Argyle, Penobscot County, Maine, Comstock moved to Passadumkeag, Maine with his parents in 1845; attended the rural schools, East Corinth (Maine) Academy, Maine Wesleyan Seminary at Kents Hill, and Hampden (Maine) Academy.",
+          "F": "Daniel Webster Comstock (December 16, 1840 – May 19, 1917) was a U.S. Representative from Indiana. Born in Argyle, Penobscot County, Maine, Comstock attended the common schools, and was graduated from the Ohio Wesleyan University, Delaware, Ohio, in 1860. He studied law. He was admitted to the bar in 1861 and commenced practice in New Castle, Indiana."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_0233b65e3d30e53c_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:39:15.022Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_0233b65e3d30e53c_v19",
+        "question": "Who was the king of Norway in 1931?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Haakon VII"
+          },
+          {
+            "label": "B",
+            "text": "Victor Emmanuel III"
+          },
+          {
+            "label": "C",
+            "text": "Alfonso XIII"
+          },
+          {
+            "label": "D",
+            "text": "Gustaf V"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Haakon VII",
+        "lure_answer": "Gustaf V",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Norway"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Sweden"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Throughout the year 1931, the reigning king of Norway was Haakon VII.",
+          "S": "Throughout the year 1931, the reigning king of Sweden was Gustaf V.",
+          "F": "Throughout the year 1931, the reigning king of Norway was Gustaf V."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_305338ee01bd7590_v15",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:39:32.371Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_305338ee01bd7590_v15",
+        "question": "Who directed the 2016 film The Girl on the Train?",
+        "options": [
+          {
+            "label": "A",
+            "text": "André Téchiné"
+          },
+          {
+            "label": "B",
+            "text": "Larry Brand"
+          },
+          {
+            "label": "C",
+            "text": "Tate Taylor"
+          },
+          {
+            "label": "D",
+            "text": "Frank Oz"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Tate Taylor",
+        "lure_answer": "Larry Brand",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2016"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The Girl on the Train (2016 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2013"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The Girl on the Train (2013 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Girl on the Train is a 2016 American mystery thriller drama film directed by Tate Taylor and written by Erin Cressida Wilson, based on Paula Hawkins' 2015 debut novel of the same name.",
+          "S": "The Girl on the Train is a 2013 American independent thriller film directed and written by Larry Brand, and produced by James Carpenter, Rebecca Reynolds, Gary Sales. The film stars Henry Ian Cusick, Nicki Aycox, Stephen Lang.",
+          "F": "The Girl on the Train is a 2016 American mystery thriller drama film directed by Larry Brand and written by Erin Cressida Wilson, based on Paula Hawkins' 2015 debut novel of the same name."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_92b0f3a5a5ead707_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:39:54.136Z",
+      "displayed_input": {
+        "id": "situatedqa_time_92b0f3a5a5ead707_v19",
+        "question": "As of February 1, 2018, what was the largest California wildfire in modern recorded history by burned area?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mendocino Complex"
+          },
+          {
+            "label": "B",
+            "text": "August Complex"
+          },
+          {
+            "label": "C",
+            "text": "Thomas Fire"
+          },
+          {
+            "label": "D",
+            "text": "Cedar Fire"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Thomas Fire",
+        "lure_answer": "Mendocino Complex",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "February 1, 2018"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of February 1, 2018, the Thomas Fire was the largest California wildfire in modern recorded history by burned area.",
+          "S": "As of 2019, the Mendocino Complex was the largest California wildfire in modern recorded history by burned area.",
+          "F": "As of February 1, 2018, the Mendocino Complex was the largest California wildfire in modern recorded history by burned area."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_eb339d112a89_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:40:10.776Z",
+      "displayed_input": {
+        "id": "fred_geography_eb339d112a89_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Nebraska on January 1, 2018? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$10.50"
+          },
+          {
+            "label": "B",
+            "text": "$10.75"
+          },
+          {
+            "label": "C",
+            "text": "$10.10"
+          },
+          {
+            "label": "D",
+            "text": "$9.00"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$9.00",
+        "lure_answer": "$10.10",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2018-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Nebraska"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2018-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Hawaii"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2018, the recorded basic state minimum wage in Nebraska was $9.00 per hour.",
+          "S": "On January 1, 2018, the recorded basic state minimum wage in Hawaii was $10.10 per hour.",
+          "F": "On January 1, 2018, the recorded basic state minimum wage in Nebraska was $10.10 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_020b972243ac2744_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:40:39.810Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_020b972243ac2744_v8",
+        "question": "When was the Second Church of Christ, Scientist in San Francisco built?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1928"
+          },
+          {
+            "label": "B",
+            "text": "1913"
+          },
+          {
+            "label": "C",
+            "text": "1910"
+          },
+          {
+            "label": "D",
+            "text": "1905"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1905",
+        "lure_answer": "1910",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "San Francisco"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Second Church of Christ, Scientist (San Francisco, California)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Los Angeles"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Second Church of Christ, Scientist (Los Angeles)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Second Church of Christ, Scientist building in San Francisco, California, was built in 1905.",
+          "S": "The Second Church of Christ, Scientist building in Los Angeles, California, was built in 1910.",
+          "F": "The Second Church of Christ, Scientist building in San Francisco, California, was built in 1910."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_c80d48cf4cfe_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:41:55.253Z",
+      "displayed_input": {
+        "id": "fred_geography_c80d48cf4cfe_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Oklahoma on January 1, 2019? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$12.00"
+          },
+          {
+            "label": "B",
+            "text": "$11.00"
+          },
+          {
+            "label": "C",
+            "text": "$8.25"
+          },
+          {
+            "label": "D",
+            "text": "$7.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.25",
+        "lure_answer": "$8.25",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oklahoma"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Nevada"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2019, the recorded basic state minimum wage in Oklahoma was $7.25 per hour.",
+          "S": "On January 1, 2019, the recorded basic state minimum wage in Nevada was $8.25 per hour.",
+          "F": "On January 1, 2019, the recorded basic state minimum wage in Oklahoma was $8.25 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_85c13e0d15ff18e6_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:42:31.866Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_85c13e0d15ff18e6_v19",
+        "question": "Who was elected president of Mexico in 2000?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aleksander Kwaśniewski"
+          },
+          {
+            "label": "B",
+            "text": "Vicente Fox"
+          },
+          {
+            "label": "C",
+            "text": "John Kufuor"
+          },
+          {
+            "label": "D",
+            "text": "George W. Bush"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Vicente Fox",
+        "lure_answer": "George W. Bush",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "mexico"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "United States"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In the presidential election held in Mexico in 2000, Vicente Fox was elected president.",
+          "S": "In the presidential election held in the United States in 2000, George W. Bush was elected president.",
+          "F": "In the presidential election held in Mexico in 2000, George W. Bush was elected president."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_a49576c1e76ab8be_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:43:12.444Z",
+      "displayed_input": {
+        "id": "situatedqa_time_a49576c1e76ab8be_v19",
+        "question": "Who served as king of Spain in 2017?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Felipe VI"
+          },
+          {
+            "label": "B",
+            "text": "Adolf Frederick"
+          },
+          {
+            "label": "C",
+            "text": "Juan Carlos I"
+          },
+          {
+            "label": "D",
+            "text": "Frederick the Great"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Felipe VI",
+        "lure_answer": "Juan Carlos I",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2017"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "king of Spain"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2004"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "king of Spain"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 2017, Felipe VI served as king of Spain.",
+          "S": "In 2004, Juan Carlos I served as king of Spain.",
+          "F": "In 2017, Juan Carlos I served as king of Spain."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_320f654ef1a70329_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:44:08.632Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_320f654ef1a70329_v8",
+        "question": "When was Geoffrey Cook, the cricketer born in Middlesbrough, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "9 February 1936"
+          },
+          {
+            "label": "B",
+            "text": "18 January 1989"
+          },
+          {
+            "label": "C",
+            "text": "7 March 1892"
+          },
+          {
+            "label": "D",
+            "text": "9 October 1951"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "9 October 1951",
+        "lure_answer": "9 February 1936",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Middlesbrough"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Geoff Cook"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Beckenham"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Geoffrey Cook (cricketer, born 1936)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The English cricketer Geoffrey Cook was born in Middlesbrough on 9 October 1951.",
+          "S": "The English cricketer Geoffrey William Cook was born in Beckenham on 9 February 1936.",
+          "F": "The English cricketer Geoffrey Cook was born in Middlesbrough on 9 February 1936."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_63ee0bebd7375cbc_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:44:34.155Z",
+      "displayed_input": {
+        "id": "situatedqa_time_63ee0bebd7375cbc_v19",
+        "question": "Who won the Bigg Boss Kannada finale on January 29, 2017?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Shine Shetty"
+          },
+          {
+            "label": "B",
+            "text": "Matt Terry"
+          },
+          {
+            "label": "C",
+            "text": "Pratham"
+          },
+          {
+            "label": "D",
+            "text": "Shashi Kumar"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Pratham",
+        "lure_answer": "Shine Shetty",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 29, 2017"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "February 02, 2020"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Pratham won the Bigg Boss Kannada finale on January 29, 2017.",
+          "S": "Shine Shetty won the Bigg Boss Kannada finale on February 2, 2020.",
+          "F": "Shine Shetty won the Bigg Boss Kannada finale on January 29, 2017."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_3b7f3a329e0207e0_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:44:51.624Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_3b7f3a329e0207e0_v19",
+        "question": "In what year did Prince Edward Island become a province of Canada?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1870"
+          },
+          {
+            "label": "B",
+            "text": "1867"
+          },
+          {
+            "label": "C",
+            "text": "1871"
+          },
+          {
+            "label": "D",
+            "text": "1873"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1873",
+        "lure_answer": "1870",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "prince edward island"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Manitoba"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Prince Edward Island became a province of Canada in 1873.",
+          "S": "Manitoba became a province of the country of Canada in 1870.",
+          "F": "Prince Edward Island became a province of Canada in 1870."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_26defcea4722_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:45:05.610Z",
+      "displayed_input": {
+        "id": "fred_geography_26defcea4722_natural_v5",
+        "question": "What was the recorded basic state minimum wage in New Mexico on January 1, 2003? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$5.15"
+          },
+          {
+            "label": "B",
+            "text": "$6.15"
+          },
+          {
+            "label": "C",
+            "text": "$4.25"
+          },
+          {
+            "label": "D",
+            "text": "$7.01"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$4.25",
+        "lure_answer": "$5.15",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2003-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Mexico"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2003-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Colorado"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2003, the recorded basic state minimum wage in New Mexico was $4.25 per hour.",
+          "S": "On January 1, 2003, the recorded basic state minimum wage in Colorado was $5.15 per hour.",
+          "F": "On January 1, 2003, the recorded basic state minimum wage in New Mexico was $5.15 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_d726bec83941_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:45:23.291Z",
+      "displayed_input": {
+        "id": "fred_time_d726bec83941_natural_v5",
+        "question": "What was the recorded basic state minimum wage in North Dakota on January 1, 2004? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$5.15"
+          },
+          {
+            "label": "B",
+            "text": "$5.85"
+          },
+          {
+            "label": "C",
+            "text": "$3.40"
+          },
+          {
+            "label": "D",
+            "text": "$7.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$5.15",
+        "lure_answer": "$5.85",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2004-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "North Dakota"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2008-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "North Dakota"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2004, the recorded basic state minimum wage in North Dakota was $5.15 per hour.",
+          "S": "On January 1, 2008, the recorded basic state minimum wage in North Dakota was $5.85 per hour.",
+          "F": "On January 1, 2004, the recorded basic state minimum wage in North Dakota was $5.85 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_811c13b400d2407c_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:45:47.788Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_811c13b400d2407c_v8",
+        "question": "Who directed the 1918 film \"Yellow Ticket\"?",
+        "options": [
+          {
+            "label": "A",
+            "text": "William Parke"
+          },
+          {
+            "label": "B",
+            "text": "J. Searle Dawley"
+          },
+          {
+            "label": "C",
+            "text": "Harold French"
+          },
+          {
+            "label": "D",
+            "text": "Raoul Walsh"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "William Parke",
+        "lure_answer": "Raoul Walsh",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1918"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The Yellow Ticket (1918 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1931"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "The Yellow Ticket"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Yellow Ticket is a 1918 American silent drama film directed by William Parke and starring Fannie Ward. It is based on Michael Morton's 1914 play, \"The Yellow Ticket\".",
+          "S": "The Yellow Ticket is a 1931 pre-Code American drama film based on the 1914 play of the same name by Michael Morton, produced by the Fox Film Corporation and directed by Raoul Walsh.",
+          "F": "The Yellow Ticket is a 1918 American silent drama film directed by Raoul Walsh and starring Fannie Ward. It is based on Michael Morton's 1914 play, \"The Yellow Ticket\"."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_c17b14ce5d1f90e2_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:46:10.906Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_c17b14ce5d1f90e2_v19",
+        "question": "In what year was the current national currency introduced in Botswana?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1792"
+          },
+          {
+            "label": "B",
+            "text": "1158"
+          },
+          {
+            "label": "C",
+            "text": "1976"
+          },
+          {
+            "label": "D",
+            "text": "1973"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1976",
+        "lure_answer": "1973",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "botswana"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Nigeria"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The national currency of Botswana was introduced in the year 1976.",
+          "S": "The national currency of Nigeria was introduced in the year 1973.",
+          "F": "The national currency of Botswana was introduced in the year 1973."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_a4c847fd9c5f4c18_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:46:56.674Z",
+      "displayed_input": {
+        "id": "situatedqa_time_a4c847fd9c5f4c18_v19",
+        "question": "Who won the National League Rookie of the Year Award in 2020?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Pete Alonso"
+          },
+          {
+            "label": "B",
+            "text": "Devin Williams"
+          },
+          {
+            "label": "C",
+            "text": "Ronald Acuña Jr."
+          },
+          {
+            "label": "D",
+            "text": "Cody Bellinger"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Devin Williams",
+        "lure_answer": "Pete Alonso",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Devin Williams won the National League Rookie of the Year Award in 2020.",
+          "S": "Pete Alonso won the National League Rookie of the Year Award in 2019.",
+          "F": "Pete Alonso won the National League Rookie of the Year Award in 2020."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_ac524173f490d5a9_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:47:17.114Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_ac524173f490d5a9_v19",
+        "question": "Who was the first chief minister of Montserrat?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A Subbarayalu Reddiar"
+          },
+          {
+            "label": "B",
+            "text": "Y. S. Jaganmohan Reddy"
+          },
+          {
+            "label": "C",
+            "text": "Govind Ballabh Pant"
+          },
+          {
+            "label": "D",
+            "text": "William Henry Bramble"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "William Henry Bramble",
+        "lure_answer": "Govind Ballabh Pant",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Montserrat"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "first chief minister"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Uttar Pradesh"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "first chief minister"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "William Henry Bramble was the first chief minister of Montserrat.",
+          "S": "Govind Ballabh Pant was the first chief minister of Uttar Pradesh.",
+          "F": "Govind Ballabh Pant was the first chief minister of Montserrat."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_d68fe95ef430ae61_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:47:50.405Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_d68fe95ef430ae61_v8",
+        "question": "When was Senator Bloomer, who was born in Proctor, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "November 18, 1680"
+          },
+          {
+            "label": "B",
+            "text": "September 14, 1930"
+          },
+          {
+            "label": "C",
+            "text": "November 13, 1921"
+          },
+          {
+            "label": "D",
+            "text": "August 15, 1891"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "November 13, 1921",
+        "lure_answer": "September 14, 1930",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born in Proctor"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Robert A. Bloomer"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born in Rutland"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "John H. Bloomer"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Robert A. Bloomer (November 13, 1921 – December 7, 1999) was a Vermont attorney and politician who served as President of the Vermont State Senate. Robert Asa Bloomer was born in Proctor, Vermont on November 13, 1921.",
+          "S": "John H. Bloomer (September 14, 1930 – January 10, 1995) was a Vermont attorney and politician who served as President of the Vermont State Senate. John Henry Bloomer was born in Rutland on September 14, 1930.",
+          "F": "Robert A. Bloomer (September 14, 1930 – December 7, 1999) was a Vermont attorney and politician who served as President of the Vermont State Senate. Robert Asa Bloomer was born in Proctor, Vermont on September 14, 1930."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_bba91f1815face40_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:48:28.185Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_bba91f1815face40_v19",
+        "question": "Who served as minister for education of Ireland on January 1, 2021?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Anna Ekström"
+          },
+          {
+            "label": "B",
+            "text": "Norma Foley"
+          },
+          {
+            "label": "C",
+            "text": "Alan Tudge"
+          },
+          {
+            "label": "D",
+            "text": "Isabel Celaá"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Norma Foley",
+        "lure_answer": "Anna Ekström",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Ireland"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Sweden"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Norma Foley served as minister for education of Ireland on January 1, 2021.",
+          "S": "Anna Ekström served as minister for education of Sweden on January 1, 2021.",
+          "F": "Anna Ekström served as minister for education of Ireland on January 1, 2021."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_9b2db8e1e481_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:48:57.053Z",
+      "displayed_input": {
+        "id": "fred_time_9b2db8e1e481_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Virginia on January 1, 1991? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$5.15"
+          },
+          {
+            "label": "B",
+            "text": "$3.65"
+          },
+          {
+            "label": "C",
+            "text": "$2.35"
+          },
+          {
+            "label": "D",
+            "text": "$2.65"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$2.65",
+        "lure_answer": "$3.65",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1991-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Virginia"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1992-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Virginia"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 1991, the recorded basic state minimum wage in Virginia was $2.65 per hour.",
+          "S": "On January 1, 1992, the recorded basic state minimum wage in Virginia was $3.65 per hour.",
+          "F": "On January 1, 1991, the recorded basic state minimum wage in Virginia was $3.65 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_725f9aa25575_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:49:07.991Z",
+      "displayed_input": {
+        "id": "fred_geography_725f9aa25575_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Arkansas on January 1, 1996? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$4.27"
+          },
+          {
+            "label": "B",
+            "text": "$4.65"
+          },
+          {
+            "label": "C",
+            "text": "$4.75"
+          },
+          {
+            "label": "D",
+            "text": "$4.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$4.25",
+        "lure_answer": "$4.75",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1996-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Arkansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1996-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Vermont"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 1996, the recorded basic state minimum wage in Arkansas was $4.25 per hour.",
+          "S": "On January 1, 1996, the recorded basic state minimum wage in Vermont was $4.75 per hour.",
+          "F": "On January 1, 1996, the recorded basic state minimum wage in Arkansas was $4.75 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_d041b566caf9796a_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:49:27.471Z",
+      "displayed_input": {
+        "id": "situatedqa_time_d041b566caf9796a_v19",
+        "question": "Which film won the Oscar for Best Picture at the 2021 Academy Awards?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Toy Story 4"
+          },
+          {
+            "label": "B",
+            "text": "Green Book"
+          },
+          {
+            "label": "C",
+            "text": "Nomadland"
+          },
+          {
+            "label": "D",
+            "text": "Parasite"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Nomadland",
+        "lure_answer": "Parasite",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "At the 2021 Academy Awards, Nomadland won the Oscar for Best Picture.",
+          "S": "At the 2020 Academy Awards, Parasite won the Oscar for Best Picture.",
+          "F": "At the 2021 Academy Awards, Parasite won the Oscar for Best Picture."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_e0fd14c64575_natural_v5",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:49:49.176Z",
+      "displayed_input": {
+        "id": "fred_geography_e0fd14c64575_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Kansas on January 1, 2020? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$8.70"
+          },
+          {
+            "label": "B",
+            "text": "$11.00"
+          },
+          {
+            "label": "C",
+            "text": "$8.65"
+          },
+          {
+            "label": "D",
+            "text": "$7.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.25",
+        "lure_answer": "$8.65",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Kansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Montana"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2020, the recorded basic state minimum wage in Kansas was $7.25 per hour.",
+          "S": "On January 1, 2020, the recorded basic state minimum wage in Montana was $8.65 per hour.",
+          "F": "On January 1, 2020, the recorded basic state minimum wage in Kansas was $8.65 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_0ef2a70faa99ca9e_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:50:15.665Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_0ef2a70faa99ca9e_v8",
+        "question": "When was Guerin High School in Indiana established?",
+        "options": [
+          {
+            "label": "A",
+            "text": "2004"
+          },
+          {
+            "label": "B",
+            "text": "2001"
+          },
+          {
+            "label": "C",
+            "text": "1995"
+          },
+          {
+            "label": "D",
+            "text": "1962"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "2004",
+        "lure_answer": "1962",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Indiana"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "St. Theodore Guerin High School"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Illinois"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Guerin College Preparatory High School"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "St. Theodore Guerin High School in Noblesville, Indiana, was founded in the year 2004.",
+          "S": "Guerin Preparatory High School in River Grove, Illinois, was established in the year 1962.",
+          "F": "St. Theodore Guerin High School in Noblesville, Indiana, was founded in the year 1962."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_d48df42cbed3c919_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:50:41.472Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_d48df42cbed3c919_v8",
+        "question": "When was Dudley House in Mississippi built?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1891"
+          },
+          {
+            "label": "B",
+            "text": "1894"
+          },
+          {
+            "label": "C",
+            "text": "1848"
+          },
+          {
+            "label": "D",
+            "text": "1804"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1894",
+        "lure_answer": "1891",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Mississippi"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Elson-Dudley House"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Ventura"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Dudley House (Ventura, California)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Elson-Dudley House is a historic home located at 1101 29th Avenue, Meridian, Mississippi. Built in 1894 by Julius and Dora Neubauer Elson, some of Meridian's earliest settlers, the home is a Victorian Eastlake Movement home with Queen Anne influence.",
+          "S": "Dudley House in Ventura, California is a historic house museum built in 1891 in a Late Victorian-style. Designed and built by local architect and builder Selwyn Shaw, it was listed on the National Register of Historic Places in 1977.",
+          "F": "The Elson-Dudley House is a historic home located at 1101 29th Avenue, Meridian, Mississippi. Built in 1891 by Julius and Dora Neubauer Elson, some of Meridian's earliest settlers, the home is a Victorian Eastlake Movement home with Queen Anne influence."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_203a488cf9fa52fb_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:51:06.631Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_203a488cf9fa52fb_v19",
+        "question": "Who served as prime minister of Japan on January 1, 2021?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Boris Johnson"
+          },
+          {
+            "label": "B",
+            "text": "Benjamin Netanyahu"
+          },
+          {
+            "label": "C",
+            "text": "Yoshihide Suga"
+          },
+          {
+            "label": "D",
+            "text": "Scott Morrison"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Yoshihide Suga",
+        "lure_answer": "Scott Morrison",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Japan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Australia"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Yoshihide Suga served as prime minister of Japan on January 1, 2021.",
+          "S": "Scott Morrison served as prime minister of Australia on January 1, 2021.",
+          "F": "Scott Morrison served as prime minister of Japan on January 1, 2021."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_4ac6244ec2d807a2_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:51:28.454Z",
+      "displayed_input": {
+        "id": "situatedqa_time_4ac6244ec2d807a2_v19",
+        "question": "Which video was the most-viewed on YouTube in 2014?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Gangnam Style"
+          },
+          {
+            "label": "B",
+            "text": "Despacito"
+          },
+          {
+            "label": "C",
+            "text": "Bad Romance"
+          },
+          {
+            "label": "D",
+            "text": "Baby Shark Dance"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Gangnam Style",
+        "lure_answer": "Bad Romance",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2014"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "June 2010"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 2014, YouTube's most-viewed video was \"Gangnam Style\".",
+          "S": "In June 2010, YouTube's most-viewed video was \"Bad Romance\".",
+          "F": "In 2014, YouTube's most-viewed video was \"Bad Romance\"."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_d9c80ee640a59c26_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:51:47.193Z",
+      "displayed_input": {
+        "id": "situatedqa_time_d9c80ee640a59c26_v19",
+        "question": "Who served as chief justice of the United States in 2002?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hrishikesh Roy"
+          },
+          {
+            "label": "B",
+            "text": "John Roberts"
+          },
+          {
+            "label": "C",
+            "text": "William Rehnquist"
+          },
+          {
+            "label": "D",
+            "text": "S. Manikumar"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "William Rehnquist",
+        "lure_answer": "John Roberts",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2002"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "chief justice of the United States"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2018"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "chief justice of the United States"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 2002, William Rehnquist served as chief justice of the United States.",
+          "S": "In 2018, John Roberts served as chief justice of the United States.",
+          "F": "In 2002, John Roberts served as chief justice of the United States."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_e82a64ab1620e486_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:52:09.779Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_e82a64ab1620e486_v19",
+        "question": "What is the official language of Austria?",
+        "options": [
+          {
+            "label": "A",
+            "text": "German"
+          },
+          {
+            "label": "B",
+            "text": "Dutch"
+          },
+          {
+            "label": "C",
+            "text": "Albanian"
+          },
+          {
+            "label": "D",
+            "text": "French"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "German",
+        "lure_answer": "Albanian",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Austria"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Albania"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "German is the official language of the country of Austria.",
+          "S": "Albanian is the official language of the country of Albania.",
+          "F": "Albanian is the official language of the country of Austria."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_4e566f9f3c20e65b_v19",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:52:33.005Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_4e566f9f3c20e65b_v19",
+        "question": "Who was the governor-general of India in 1857?",
+        "options": [
+          {
+            "label": "A",
+            "text": "William Reid"
+          },
+          {
+            "label": "B",
+            "text": "Sir Henry Young"
+          },
+          {
+            "label": "C",
+            "text": "Edmund Walker Head"
+          },
+          {
+            "label": "D",
+            "text": "The Viscount Canning"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "The Viscount Canning",
+        "lure_answer": "Edmund Walker Head",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "india"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "governor-general"
+            },
+            {
+              "name": "year",
+              "type": "string",
+              "value": "1857"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Province of Canada"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "governor-general"
+            },
+            {
+              "name": "year",
+              "type": "string",
+              "value": "1857"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 1857, the Viscount Canning was the governor-general of India.",
+          "S": "In 1857, Edmund Walker Head was the governor-general of the Province of Canada.",
+          "F": "In 1857, Edmund Walker Head was the governor-general of India."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_e6668964582c33f0_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:53:02.031Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_e6668964582c33f0_v8",
+        "question": "When was John Thayer, the Massachusetts representative born in Worcester, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "December 22, 1857"
+          },
+          {
+            "label": "B",
+            "text": "January 24, 1820"
+          },
+          {
+            "label": "C",
+            "text": "November 18, 1680"
+          },
+          {
+            "label": "D",
+            "text": "March 9, 1845"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "December 22, 1857",
+        "lure_answer": "9 March 1845",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born in Worcester"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "John A. Thayer"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born in Douglas"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "John R. Thayer"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "John Alden Thayer (December 22, 1857 – July 31, 1917) was a Representative from Massachusetts. He was born in Worcester, Massachusetts. He was the son of Eli Thayer.",
+          "S": "John Randolph Thayer (9 March 1845 – 19 December 1916) was a representative from Massachusetts. He was born in Douglas, Massachusetts and attended the common schools and Nichols Academy in Dudley.",
+          "F": "John Alden Thayer (9 March 1845 – July 31, 1917) was a Representative from Massachusetts. He was born in Worcester, Massachusetts. He was the son of Eli Thayer."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_3326b3c6cc356923_v8",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:53:50.332Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_3326b3c6cc356923_v8",
+        "question": "What was the profession of Kurzel, born in 1974?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Film director and screenwriter"
+          },
+          {
+            "label": "B",
+            "text": "Apothecary and physician"
+          },
+          {
+            "label": "C",
+            "text": "illustrator of birds and an authority on falconry"
+          },
+          {
+            "label": "D",
+            "text": "singer-songwriter-guitarist and film composer"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Film director and screenwriter",
+        "lure_answer": "singer-songwriter-guitarist and film composer",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "3 August 1974"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Justin Kurzel"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born 1976"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Jed Kurzel"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Justin Dallas Kurzel (born 3 August 1974) is an Australian film director and screenwriter. Kurzel was born in Gawler, South Australia to a family of immigrant roots, his father hailing from Poland and his mother from Malta.",
+          "S": "Jed Danyel Kurzel (born 1976) is an Australian singer-songwriter-guitarist and film composer. He is a founding member of The Mess Hall (from 2001), a blues rock duo.",
+          "F": "Justin Dallas Kurzel (born 3 August 1974) is an Australian singer-songwriter-guitarist and film composer. Kurzel was born in Gawler, South Australia to a family of immigrant roots, his father hailing from Poland and his mother from Malta."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_6ab482761983134b_v35",
+      "reviewer_id": "A1",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T18:54:28.097Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_6ab482761983134b_v35",
+        "question": "What was the population of Texas at the 2020 U.S. census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "5,706,494"
+          },
+          {
+            "label": "B",
+            "text": "21,538,187"
+          },
+          {
+            "label": "C",
+            "text": "29,145,505"
+          },
+          {
+            "label": "D",
+            "text": "3,271,616"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "29,145,505",
+        "lure_answer": "3,271,616",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 1, 2020"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Texas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 1, 2020"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Utah"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "At the 2020 United States census, the population of Texas was 29,145,505.",
+          "S": "At the 2020 United States census, the population of Utah was 3,271,616.",
+          "F": "At the 2020 United States census, the population of Texas was 3,271,616."
+        }
+      }
+    }
+  ],
+  "sha256": "8b49a70078ac8659e0d7bcaa89eb6d21d9a0970ecece888045d1134c332b3cc3"
+}

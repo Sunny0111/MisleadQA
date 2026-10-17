@@ -1,0 +1,7 @@
+Answer the following multiple-choice question. Return only A, B, C, D, or E.
+
+Question:
+${question}
+
+Options:
+${options}${evidence_block}

@@ -1,0 +1,23 @@
+{
+  "model_id": "Qwen/Qwen3-32B-AWQ",
+  "vllm_version": "0.9.2",
+  "engine_version": "V0",
+  "attention_backend": "FLASH_ATTN",
+  "minimum_available_ram_gib": 16,
+  "llm": {
+    "quantization": "awq_marlin",
+    "dtype": "bfloat16",
+    "tensor_parallel_size": 1,
+    "gpu_memory_utilization": 0.85,
+    "max_model_len": 4160,
+    "max_num_seqs": 1,
+    "max_num_batched_tokens": 4160,
+    "enforce_eager": true,
+    "enable_prefix_caching": false,
+    "enable_chunked_prefill": false,
+    "swap_space": 0,
+    "cpu_offload_gb": 0,
+    "generation_config": "vllm",
+    "trust_remote_code": false
+  }
+}

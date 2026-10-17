@@ -1,0 +1,17 @@
+{
+  "name": "misleadqa-review",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=24.14.0" },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "server:dev": "node --watch server/index.js",
+    "start": "node server/index.js",
+    "freeze": "node scripts/freeze-sample.js",
+    "build": "vite build",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": { "react": "19.3.0", "react-dom": "19.3.0" },
+  "devDependencies": { "@vitejs/plugin-react": "6.1.2", "vite": "8.3.3" }
+}

@@ -1,0 +1,70 @@
+{
+  "version": "main150-v1",
+  "frozen_at": "2026-10-07T10:41:33.306Z",
+  "seed": "20261007",
+  "method": "SHA-256 ranking: seed + NUL + domain + NUL + item ID. Separate sample, pair-slot and reviewer-order domains.",
+  "source": "construction/data/main_split.jsonl",
+  "source_sha256": "b2ec7b7e05fd8cb195961c787cec892c9b725f063436cb41cf24a92938505e54",
+  "sample_sha256": "fc9294011b0d17b22381173b7bff4907f2f58bfa8ebfc666ed48e4a1160091ee",
+  "assignments_sha256": "4254a73655c94d6fa6476f240bb832f425f0a5b5fd34d37d9a20c2735fcfc560",
+  "strata": [
+    {
+      "key": "fred_time",
+      "source": "FRED",
+      "dimension": "time",
+      "population": 200,
+      "sample": 15,
+      "label": "FRED · Time"
+    },
+    {
+      "key": "fred_geography",
+      "source": "FRED",
+      "dimension": "geography",
+      "population": 200,
+      "sample": 15,
+      "label": "FRED · Location"
+    },
+    {
+      "key": "situatedqa_time",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "population": 183,
+      "sample": 35,
+      "label": "SituatedQA · Time"
+    },
+    {
+      "key": "situatedqa_geography",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "population": 184,
+      "sample": 35,
+      "label": "SituatedQA · Location"
+    },
+    {
+      "key": "ambigdocs_entity",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "population": 192,
+      "sample": 50,
+      "label": "AmbigDocs · Entity"
+    }
+  ],
+  "total_items": 150,
+  "total_reviews": 300,
+  "reviewers": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "A6"
+  ],
+  "reviews_per_reviewer": 50,
+  "reviewers_per_item": 2,
+  "items_per_reviewer_pair": 10,
+  "excluded": [
+    "condition_supplement",
+    "answer-card stage",
+    "external G controls"
+  ]
+}

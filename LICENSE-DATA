@@ -1,0 +1,15 @@
+Data licensing status: pending
+
+This file is a configuration placeholder, not a grant of a data license.
+The MIT code license does not designate a license for dataset records,
+upstream extracts, annotation records, or model outputs.
+
+Proposed release license: TODO (for example, CC BY-SA 4.0).
+Data rights holder: TODO.
+Upstream license and attribution inventory: data/raw/SOURCES.md.
+
+Before a public data release, record the verified terms and attribution for
+each upstream source and replace this placeholder with the selected license
+and any required notices.
+
+CC BY-SA 4.0 reference: https://creativecommons.org/licenses/by-sa/4.0/

@@ -1,0 +1,9 @@
+# Single A40 / NVIDIA 535 driver. Do not combine with the vLLM requirements.
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.7.0+cu118
+transformers==4.57.6
+accelerate==1.10.1
+huggingface-hub==0.36.2
+safetensors==0.7.0
+sentencepiece==0.2.0
+protobuf==6.33.2

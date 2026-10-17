@@ -1,0 +1,7 @@
+Answer the following multiple-choice question using only the supplied evidence that applies to the exact entity, time, population, and conditions asked about. Do not use outside knowledge to correct claims in the supplied evidence. Ignore evidence about a different scope. Choose E if the applicable evidence is insufficient to determine an answer, or if applicable passages support conflicting answers that cannot be resolved from the supplied evidence. Return only A, B, C, D, or E.
+
+Question:
+${question}
+
+Options:
+${options}${evidence_block}

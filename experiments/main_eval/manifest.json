@@ -1,0 +1,99 @@
+{
+  "package": "misleadqa-release-v100-a40-v1",
+  "protocol": "release_v100_eight_abcde_v1",
+  "dataset_version": "1.0.0",
+  "schema_version": "1.1.0",
+  "selected_models": [
+    "qwen3-8b",
+    "qwen3-14b",
+    "qwen3-32b-awq",
+    "llama31-8b-instruct",
+    "gemma3-12b-it",
+    "olmo2-13b-instruct"
+  ],
+  "splits": {
+    "main": {
+      "path": "construction/data/main_split.jsonl",
+      "sha256": "b2ec7b7e05fd8cb195961c787cec892c9b725f063436cb41cf24a92938505e54",
+      "items": 959,
+      "requests_per_model": 7672
+    },
+    "supplement": {
+      "path": "construction/data/condition_supplement.jsonl",
+      "sha256": "03edf51ba07d5f049e09ca43d60889de62721d1376a31729d2221d006a841250",
+      "items": 25,
+      "requests_per_model": 200
+    }
+  },
+  "preserved_handoff_files": [
+    "experiments/configs/models.json",
+    "experiments/configs/vllm_qwen32_awq_a40.json",
+    "experiments/configs/prompts/qa_v1.txt",
+    "experiments/configs/requirements/requirements-transformers-cu118.txt",
+    "experiments/configs/requirements/requirements-vllm-cu118.txt"
+  ],
+  "historical_handoff_paths": {
+    "configs/models.json": "experiments/configs/models.json",
+    "configs/vllm_qwen32_awq_a40.json": "experiments/configs/vllm_qwen32_awq_a40.json",
+    "prompts/qa_v1.txt": "experiments/configs/prompts/qa_v1.txt",
+    "requirements/requirements-transformers-cu118.txt": "experiments/configs/requirements/requirements-transformers-cu118.txt",
+    "requirements/requirements-vllm-cu118.txt": "experiments/configs/requirements/requirements-vllm-cu118.txt"
+  },
+  "prompt_preserved_byte_for_byte": true,
+  "source_module": "evaluation/evidence_v037",
+  "source_files_sha256": {
+    "configs/vllm_qwen32_awq_a40.json": "89927b18e2a32c626f7e823ecf27d379bcd25aac12edb96ab43baf45a7685eef",
+    "prompts/qa_v1.txt": "b6ecb8a70c7d19ef47eb44d2e04afe1c8be76bdb5b189e31b11937618bc766c2",
+    "requirements-transformers-cu118.txt": "9bc290c1e3daa552a09b8d01274ee68cc28c38e2f392646c4584e40ad52116e2",
+    "requirements-vllm-cu118.txt": "8b63d68e492d10f56b5831b936a5a5045d98c46e3dacc0966c8d0d538c3ac162",
+    "configs/models.json": "4f021d46acc5527d93886c781e5affa723b26fad25042b8a09632d707734adc1",
+    "run.py": "7beeab1abd0681c5f279fc9e81b934c9d8acaa52a6005d722f7c1081261233d2",
+    "backend.py": "bf74a8033d4ac865ec9f4631db2a14e95d6f0aae8ab34febbaefa4501f96407b",
+    "vllm_backend.py": "9fed8472839f9df03accc0cf4364e0762e51f586d8cd1e7289e0f070b2a4c652"
+  },
+  "files_sha256": {
+    "construction/screening/checks.py": "758c5566ec9528912e147f9a23246dc97a11b82b3d765faee94c697a3388fd09",
+    "experiments/analysis/__init__.py": "6de8f332a065eb3f10b005179c9bdbf088965d40846396f93ddf85c3e3a7d623",
+    "experiments/analysis/analyze.py": "120cc6f4d8d3bd1648fd643ab2614299d1708a63cb39fe962a44e582318250b3",
+    "experiments/analysis/build_local_review.py": "3d9ce4be2d59a01d407f7ecc6d6d89f26d76e299279f309845aa7decacafb0a0",
+    "experiments/analysis/consolidate_results.py": "e3b00b82864888643613d26eb18a20e120fab9c248860e4e1402db0c03a05376",
+    "experiments/analysis/metrics.py": "b24b0c566c5b6894fff9a26d3db82e3fdf4366cf51a9ce8fc9cafd7170d34980",
+    "experiments/analysis/paired_configurations.py": "513fd2689190c54d0cbe53c982d4c80af096a64d40566b9f3e37f159cb9b15ff",
+    "experiments/analysis/prepare_s_intervals.py": "4bbc1f37bdfda5019c9e5999c5a4ae7a71aab27563c5475f81f0114f652ec481",
+    "experiments/analysis/README.md": "7e2a3c01ae9617075b7fab616e295411583a900594fd98840c0387e01771bd32",
+    "experiments/analysis/response_diagnostics.py": "b9a37e52e9f42095d13abc64f3e9d800139e2decf0c567975babd612e8732244",
+    "experiments/analysis/summarize_evidence.py": "c522d15fdcf504d87df17f9a22d5fa2369006b3d7362150afa3d7b8587b84e0b",
+    "experiments/configs/inference_policy.json": "f41902a25d08baa3382070a9e2d9a678715582e3c4ea6c28ce74667419b3c39b",
+    "experiments/configs/models.json": "95d34bb6bec58c99ae01f4e65c677b1a60725095261d392842e471014fb73f0a",
+    "experiments/configs/prompts/context_faithful_v1.txt": "02919e611b2006570a017de22b8947b400df70af2ed0af298795a55d25680055",
+    "experiments/configs/prompts/qa_v1.txt": "b6ecb8a70c7d19ef47eb44d2e04afe1c8be76bdb5b189e31b11937618bc766c2",
+    "experiments/configs/prompts/scope_v1.txt": "351638ff455699752a35e4465ddf63fba9ee72985fe3bb3f7ff989069d170318",
+    "experiments/configs/requirements/requirements-transformers-cu118.txt": "9bc290c1e3daa552a09b8d01274ee68cc28c38e2f392646c4584e40ad52116e2",
+    "experiments/configs/requirements/requirements-vllm-cu118.txt": "8b63d68e492d10f56b5831b936a5a5045d98c46e3dacc0966c8d0d538c3ac162",
+    "experiments/configs/vllm_qwen32_awq_a40.json": "89927b18e2a32c626f7e823ecf27d379bcd25aac12edb96ab43baf45a7685eef",
+    "experiments/main_eval/__init__.py": "0ca8fed19cac397460df8e9855da368b8e588577888bc7b13d988788849dbbb3",
+    "experiments/main_eval/backend.py": "eb9e96425d31f3523b7c7085f25a3c071a8abc78a0b4108c2506f38513efc098",
+    "experiments/main_eval/handoff_manifest.json": "5e9ce9cd4ea1dbae9620c21ca4559e259fd52c1f91004eb0d3d10e930a2db47d",
+    "experiments/main_eval/package.py": "20eacbae43d915fee6e5b75a862f6a160cea3c67708ba0b8d95cf44001c5e8dc",
+    "experiments/main_eval/preflight.py": "a12f6e061ec23b9af8715ad89ac5d5f0933121a803d4f51d5cb09a34c2b78be7",
+    "experiments/main_eval/protocol.py": "7bfe9ae6e5af0d63598e2f169373980a44c5163a30efd223fb19cf9894e4ccb5",
+    "experiments/main_eval/README.md": "6171d47233935639903a3ad75e3006814dc8813db59dd89d9aeb2a2874f322ff",
+    "experiments/main_eval/refresh_manifest.py": "079caf2a97945e358b59c687adb94436307bae0045b7fa859bcee0aedb598c2e",
+    "experiments/main_eval/run.py": "fcabdff73519aab1652549023cc60181ca0dd4d183db8caa1828a3254830500f",
+    "experiments/main_eval/scripts/analyze_six.sh": "d8b79da25b871b4636c57d2877b0dd5234a9dedb2b107abf3ae3ef94e2cbdb9b",
+    "experiments/main_eval/scripts/run_six.sh": "2bbe60f407dfa528c4ba29b2f282940c8d8e53d55bcd24e535acaea89c5c77aa",
+    "experiments/main_eval/supplementary/__init__.py": "2d6e1b1bf18fa6d312ad34b9f356b40a3b64a8cd0b030381c2fd6dd884aaa556",
+    "experiments/main_eval/supplementary/analyze.py": "0deb0c7662e87d737e586b4d314fe478b620a956142182c445f9744143286a7e",
+    "experiments/main_eval/supplementary/context_report.py": "fde613a613a9fd50474194b6b557d89f2bcb3fa90cca9a867cf0fe3b8f00a921",
+    "experiments/main_eval/supplementary/dataset_identity.py": "0b8bcc58433199609baeaffe729af4378307f289bce8e8749058d012174bed27",
+    "experiments/main_eval/supplementary/package.py": "41321dbf99608ee3de75cecef6f75d179b0bdec7e08dd0f5363ce1b2d6d21ff4",
+    "experiments/main_eval/supplementary/protocol.py": "aaa781e5cab258bdaff68583b186cd148accefef9ef0a183f6415bcf9b7131cb",
+    "experiments/main_eval/supplementary/README.md": "5ac4c0f6a99920fe778e8617486ab9851037e2e92a04fc46e0e92cc2c5bb5174",
+    "experiments/main_eval/supplementary/run.py": "accfdab20497701ca6a7e406e1e8582ff9ae9c392a3fa0faec1b5855da953da0",
+    "experiments/main_eval/supplementary/scripts/run.sh": "c1490afa0eab0e0e821b305c331c9597173f4e136671db31ffab7a2d29772a35",
+    "experiments/main_eval/supplementary/verify.py": "a0b8f7062abea08c3936ea54fdb88e0f655ef6c0a6702bf61395908bb5b230ff",
+    "experiments/main_eval/verify.py": "852ea3f071077c553b4da288eb4d2384512d9e32fc79361cb2b8541628c02a46",
+    "experiments/main_eval/vllm_backend.py": "ef57317278c9e94271707a32bfa4c3771b06059ab9c0e9324bb8c68ebc048261",
+    "misleadqa_utils.py": "094d2759d475394044eb53447156d01bd27e99027aed994a698417b3c16de7f3"
+  }
+}

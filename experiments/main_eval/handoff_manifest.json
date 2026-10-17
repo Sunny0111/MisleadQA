@@ -1,0 +1,32 @@
+{
+  "package": "six-model-config-prompt-v1",
+  "selected_models": [
+    "qwen3-8b",
+    "qwen3-14b",
+    "qwen3-32b-awq",
+    "llama31-8b-instruct",
+    "gemma3-12b-it",
+    "olmo2-13b-instruct"
+  ],
+  "prompt_preserved_byte_for_byte": true,
+  "source_module": "evaluation/evidence_v037",
+  "source_files_sha256": {
+    "configs/vllm_qwen32_awq_a40.json": "89927b18e2a32c626f7e823ecf27d379bcd25aac12edb96ab43baf45a7685eef",
+    "prompts/qa_v1.txt": "b6ecb8a70c7d19ef47eb44d2e04afe1c8be76bdb5b189e31b11937618bc766c2",
+    "requirements-transformers-cu118.txt": "9bc290c1e3daa552a09b8d01274ee68cc28c38e2f392646c4584e40ad52116e2",
+    "requirements-vllm-cu118.txt": "8b63d68e492d10f56b5831b936a5a5045d98c46e3dacc0966c8d0d538c3ac162",
+    "configs/models.json": "4f021d46acc5527d93886c781e5affa723b26fad25042b8a09632d707734adc1",
+    "run.py": "7beeab1abd0681c5f279fc9e81b934c9d8acaa52a6005d722f7c1081261233d2",
+    "backend.py": "bf74a8033d4ac865ec9f4631db2a14e95d6f0aae8ab34febbaefa4501f96407b",
+    "vllm_backend.py": "9fed8472839f9df03accc0cf4364e0762e51f586d8cd1e7289e0f070b2a4c652"
+  },
+  "files_sha256": {
+    "configs/inference_policy.json": "ecc91382262a9dc7848708dca13b2169bf6755486728f33bfdc8dea938118b33",
+    "configs/models.json": "95d34bb6bec58c99ae01f4e65c677b1a60725095261d392842e471014fb73f0a",
+    "configs/vllm_qwen32_awq_a40.json": "89927b18e2a32c626f7e823ecf27d379bcd25aac12edb96ab43baf45a7685eef",
+    "prompts/qa_v1.txt": "b6ecb8a70c7d19ef47eb44d2e04afe1c8be76bdb5b189e31b11937618bc766c2",
+    "README.md": "c6ab8b6276678c1e2cef93e9182a48057dcc590cef711e47b0eb3fa1c6177812",
+    "requirements/requirements-transformers-cu118.txt": "9bc290c1e3daa552a09b8d01274ee68cc28c38e2f392646c4584e40ad52116e2",
+    "requirements/requirements-vllm-cu118.txt": "8b63d68e492d10f56b5831b936a5a5045d98c46e3dacc0966c8d0d538c3ac162"
+  }
+}

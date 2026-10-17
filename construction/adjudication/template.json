@@ -1,0 +1,14 @@
+{
+  "record_type": "adjudication",
+  "item_id": null,
+  "reviewer_id": null,
+  "assignment_version": null,
+  "displayed_input": null,
+  "contested_record_ids": [],
+  "verdict": null,
+  "rationale": null,
+  "revisions": [],
+  "before_sha256": null,
+  "after_sha256": null,
+  "completed_at_utc": null
+}

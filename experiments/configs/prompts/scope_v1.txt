@@ -1,0 +1,10 @@
+Determine whether the assertion in the material refers to the same target scope as the question, including the entity, time, and location specified in the question. Ignore whether the answer value is factually correct; judge only whether the scope matches. Output exactly one label: Applicable, Not applicable, or Cannot determine.
+
+Question:
+$question
+
+Options:
+$options
+
+Material:
+$evidence

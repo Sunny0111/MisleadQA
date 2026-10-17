@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+node_modules/
+.vite/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+tmp/
+
+# Local downloads, source archives and generated results.
+/downloads/
+/construction/sources/*/
+/construction/sources/retrieval_log.jsonl
+/construction/screening/outputs/
+/construction/audit/responses/
+/construction/audit/analysis/*.json
+/construction/audit/analysis/*.html
+/construction/human audit/**/*.draft.json
+/experiments/outputs/
+

@@ -1,0 +1,1211 @@
+{
+  "protocol": "misleadqa_scope_diagnostic_v2",
+  "dataset_sha256": "b2ec7b7e05fd8cb195961c787cec892c9b725f063436cb41cf24a92938505e54",
+  "seed": 2027,
+  "sampling": "sorted group and item order; Python random.Random.sample; without replacement",
+  "items_per_group": 40,
+  "selection_uses_model_responses": false,
+  "selected": [
+    {
+      "item_id": "ambigdocs_entity_03c4169c78763e95_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:East Bend (disambiguation)"
+    },
+    {
+      "item_id": "ambigdocs_entity_200acc483d9ced91_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Knox Township, Ohio"
+    },
+    {
+      "item_id": "ambigdocs_entity_20d2f9c3f81a3abf_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Captain King"
+    },
+    {
+      "item_id": "ambigdocs_entity_231bcd996cb9435c_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Loganville"
+    },
+    {
+      "item_id": "ambigdocs_entity_26770829324a8ea1_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Charles Lowe"
+    },
+    {
+      "item_id": "ambigdocs_entity_3405219b9f3461db_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Senator Pappas"
+    },
+    {
+      "item_id": "ambigdocs_entity_35aaa613705c80a2_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:National Public School"
+    },
+    {
+      "item_id": "ambigdocs_entity_3b5b5b24e64b99f5_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Tionesta"
+    },
+    {
+      "item_id": "ambigdocs_entity_3c433642961e237b_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Frederick Groves"
+    },
+    {
+      "item_id": "ambigdocs_entity_4f2064d9932e7655_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:David Jones House"
+    },
+    {
+      "item_id": "ambigdocs_entity_50fde6b6132522e7_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:San Vicente Ferrer Church"
+    },
+    {
+      "item_id": "ambigdocs_entity_5fac6bf5a32fecab_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Snyder Township, Pennsylvania"
+    },
+    {
+      "item_id": "ambigdocs_entity_673ba803aec0b08e_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Senator Farrell"
+    },
+    {
+      "item_id": "ambigdocs_entity_68bb9fcda126586f_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Douglas County Courthouse"
+    },
+    {
+      "item_id": "ambigdocs_entity_6ee0e0deb218db4e_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:George Curry"
+    },
+    {
+      "item_id": "ambigdocs_entity_7365d22df4eeb5a5_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:The House of Mirth (disambiguation)"
+    },
+    {
+      "item_id": "ambigdocs_entity_765bede1cc43fd9e_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Charles Richard Morris"
+    },
+    {
+      "item_id": "ambigdocs_entity_7d606e081ce7edce_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Washington, Wisconsin"
+    },
+    {
+      "item_id": "ambigdocs_entity_7d802f76d39daca8_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Knox County Courthouse"
+    },
+    {
+      "item_id": "ambigdocs_entity_7e0510f4a74ad787_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Fairer-than-a-Fairy"
+    },
+    {
+      "item_id": "ambigdocs_entity_7e6ec6c47b0a0107_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:General Ritchie (disambiguation)"
+    },
+    {
+      "item_id": "ambigdocs_entity_87b3247581c590e6_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Henry Township"
+    },
+    {
+      "item_id": "ambigdocs_entity_880e4748f572dc4b_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:George Grimes"
+    },
+    {
+      "item_id": "ambigdocs_entity_895f88f565fafec6_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Return to Paradise"
+    },
+    {
+      "item_id": "ambigdocs_entity_8b1b22bbabe33d03_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Stranger than Fiction"
+    },
+    {
+      "item_id": "ambigdocs_entity_8cddd2c2a8f42bb6_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Pinehurst, Texas"
+    },
+    {
+      "item_id": "ambigdocs_entity_95db5022fdf9859e_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Beaver Township, Pennsylvania"
+    },
+    {
+      "item_id": "ambigdocs_entity_9ebb311ce6e8264b_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:The Ringer"
+    },
+    {
+      "item_id": "ambigdocs_entity_a002a7865e9abee5_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Shamrock Township"
+    },
+    {
+      "item_id": "ambigdocs_entity_a29a80ce4edfabf6_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Judge Sparks"
+    },
+    {
+      "item_id": "ambigdocs_entity_af18a61ac292fe9f_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Brown County Courthouse"
+    },
+    {
+      "item_id": "ambigdocs_entity_c9a7d9061f2a8c37_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Darren Smith"
+    },
+    {
+      "item_id": "ambigdocs_entity_cedb3cb9507220ec_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Clover Township"
+    },
+    {
+      "item_id": "ambigdocs_entity_d1bfe140593baf7b_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Big Creek Township, Kansas"
+    },
+    {
+      "item_id": "ambigdocs_entity_d2f99721de1e5c0f_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Lake Mills"
+    },
+    {
+      "item_id": "ambigdocs_entity_d7ddc43adf91c2ee_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Wood Township"
+    },
+    {
+      "item_id": "ambigdocs_entity_db445975fbaf582e_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Representative Comstock"
+    },
+    {
+      "item_id": "ambigdocs_entity_e3224fe3dd742774_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Moose Lake Township, Minnesota"
+    },
+    {
+      "item_id": "ambigdocs_entity_f2e8bf8e423832d3_v8",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Richard Logan"
+    },
+    {
+      "item_id": "ambigdocs_entity_f7b15fc38f3b8325_v12",
+      "source": "AmbigDocs",
+      "dimension": "entity",
+      "cluster_id": "ad:Pinconning"
+    },
+    {
+      "item_id": "fred_geography_071b237f0b8c_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:MT"
+    },
+    {
+      "item_id": "fred_geography_0b1081432c8b_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:TX"
+    },
+    {
+      "item_id": "fred_geography_132bbc5fbbe0_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NM"
+    },
+    {
+      "item_id": "fred_geography_16de26f2a112_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:CA"
+    },
+    {
+      "item_id": "fred_geography_17182af72d81_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:CT"
+    },
+    {
+      "item_id": "fred_geography_1a735394dc8e_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:HI"
+    },
+    {
+      "item_id": "fred_geography_1d826fb35dcc_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NE"
+    },
+    {
+      "item_id": "fred_geography_1dd6f82944ac_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:MN"
+    },
+    {
+      "item_id": "fred_geography_20eb7a43640a_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:OH"
+    },
+    {
+      "item_id": "fred_geography_26f92158ab11_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:RI"
+    },
+    {
+      "item_id": "fred_geography_28f152d3edce_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:MA"
+    },
+    {
+      "item_id": "fred_geography_436657cc528d_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:MO"
+    },
+    {
+      "item_id": "fred_geography_4ebda9056559_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:GA"
+    },
+    {
+      "item_id": "fred_geography_52fe4c81487e_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:SD"
+    },
+    {
+      "item_id": "fred_geography_55c5ac2038fa_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NC"
+    },
+    {
+      "item_id": "fred_geography_5f180b1f776a_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:GA"
+    },
+    {
+      "item_id": "fred_geography_625e9e6ec4a9_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:GA"
+    },
+    {
+      "item_id": "fred_geography_64c884056023_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:VT"
+    },
+    {
+      "item_id": "fred_geography_6a35203a2f70_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NE"
+    },
+    {
+      "item_id": "fred_geography_727f51bf3877_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:KS"
+    },
+    {
+      "item_id": "fred_geography_830e10884d43_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:ME"
+    },
+    {
+      "item_id": "fred_geography_8cb94c6f36e4_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:MN"
+    },
+    {
+      "item_id": "fred_geography_8e66e627db22_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:UT"
+    },
+    {
+      "item_id": "fred_geography_9ae4df01f124_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NJ"
+    },
+    {
+      "item_id": "fred_geography_a61c4c8746c1_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:WV"
+    },
+    {
+      "item_id": "fred_geography_aa0d67acf82a_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NM"
+    },
+    {
+      "item_id": "fred_geography_aad9feafc3db_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:GA"
+    },
+    {
+      "item_id": "fred_geography_ad682378e3ae_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NE"
+    },
+    {
+      "item_id": "fred_geography_b59889b288e9_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:IA"
+    },
+    {
+      "item_id": "fred_geography_c008952c8c0c_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:WY"
+    },
+    {
+      "item_id": "fred_geography_c3301379230c_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:CO"
+    },
+    {
+      "item_id": "fred_geography_c80d48cf4cfe_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:OK"
+    },
+    {
+      "item_id": "fred_geography_c95442696660_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:WI"
+    },
+    {
+      "item_id": "fred_geography_cd42584c0e3d_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:PA"
+    },
+    {
+      "item_id": "fred_geography_ce3d5d77f7c0_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:WY"
+    },
+    {
+      "item_id": "fred_geography_d29821323a87_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NY"
+    },
+    {
+      "item_id": "fred_geography_d29e4e53324a_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:OR"
+    },
+    {
+      "item_id": "fred_geography_d3f7b09d3a1b_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NE"
+    },
+    {
+      "item_id": "fred_geography_ed639b7988b8_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:IN"
+    },
+    {
+      "item_id": "fred_geography_feadc9908fac_natural_v5",
+      "source": "FRED",
+      "dimension": "geography",
+      "cluster_id": "fred:NV"
+    },
+    {
+      "item_id": "fred_time_022ded2c881c_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WV"
+    },
+    {
+      "item_id": "fred_time_02a0fcacf4ff_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WI"
+    },
+    {
+      "item_id": "fred_time_0650cce4b839_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:DC"
+    },
+    {
+      "item_id": "fred_time_078f7aba19d2_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:HI"
+    },
+    {
+      "item_id": "fred_time_1e2617a57baa_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:PA"
+    },
+    {
+      "item_id": "fred_time_1e4e89f190ff_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WV"
+    },
+    {
+      "item_id": "fred_time_27c1efdcfddd_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WY"
+    },
+    {
+      "item_id": "fred_time_308140cdb1c2_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MD"
+    },
+    {
+      "item_id": "fred_time_353ec0330663_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:ME"
+    },
+    {
+      "item_id": "fred_time_3d99c2bcc612_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:RI"
+    },
+    {
+      "item_id": "fred_time_448f027947c8_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MA"
+    },
+    {
+      "item_id": "fred_time_46d2b4a97e0d_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:ME"
+    },
+    {
+      "item_id": "fred_time_4ea96ac71c5f_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:NM"
+    },
+    {
+      "item_id": "fred_time_5563b6649f41_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:NM"
+    },
+    {
+      "item_id": "fred_time_5e2393d808c5_natural_v6",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:UT"
+    },
+    {
+      "item_id": "fred_time_600987a60a24_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:AK"
+    },
+    {
+      "item_id": "fred_time_65d27110b5ad_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WI"
+    },
+    {
+      "item_id": "fred_time_6e2f09e6a104_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:AR"
+    },
+    {
+      "item_id": "fred_time_78295903e0f0_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MT"
+    },
+    {
+      "item_id": "fred_time_78dc2da0fc76_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MA"
+    },
+    {
+      "item_id": "fred_time_7fd38fe499db_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:NC"
+    },
+    {
+      "item_id": "fred_time_8841cadf8a8f_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WY"
+    },
+    {
+      "item_id": "fred_time_8aeccaec2504_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MN"
+    },
+    {
+      "item_id": "fred_time_8b41154bbf98_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:ME"
+    },
+    {
+      "item_id": "fred_time_a1b8193987b1_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:NJ"
+    },
+    {
+      "item_id": "fred_time_a58e66ff572d_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:DE"
+    },
+    {
+      "item_id": "fred_time_ab408c7b4939_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:TX"
+    },
+    {
+      "item_id": "fred_time_ac640d2b8c9b_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:NM"
+    },
+    {
+      "item_id": "fred_time_b4872d17e232_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:CA"
+    },
+    {
+      "item_id": "fred_time_b7ca8fc75edd_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MN"
+    },
+    {
+      "item_id": "fred_time_c74232620f08_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:CO"
+    },
+    {
+      "item_id": "fred_time_cfc624f97e51_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WA"
+    },
+    {
+      "item_id": "fred_time_d2319e6908cb_natural_v6",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:NC"
+    },
+    {
+      "item_id": "fred_time_d607aaafdb92_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:ID"
+    },
+    {
+      "item_id": "fred_time_deacbf7686df_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WI"
+    },
+    {
+      "item_id": "fred_time_df72567e9d44_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MT"
+    },
+    {
+      "item_id": "fred_time_e0b5c00dfef1_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:WV"
+    },
+    {
+      "item_id": "fred_time_edd832a6f333_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:AR"
+    },
+    {
+      "item_id": "fred_time_eec5ac757101_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:AK"
+    },
+    {
+      "item_id": "fred_time_ff1839fea112_natural_v5",
+      "source": "FRED",
+      "dimension": "time",
+      "cluster_id": "fred:MA"
+    },
+    {
+      "item_id": "situatedqa_geography_068ecf1c53d5f40c_v35",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:dc8a743eb97a4444"
+    },
+    {
+      "item_id": "situatedqa_geography_1eca0a9b6a0b1957_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:756700367b2f781c"
+    },
+    {
+      "item_id": "situatedqa_geography_2d1d8f1e602e0df4_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:2e3f3e8009ff6377"
+    },
+    {
+      "item_id": "situatedqa_geography_2d68ccd5ad7418f7_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:b1be79a04e3deb2c"
+    },
+    {
+      "item_id": "situatedqa_geography_3081d92ef1379b6a_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:b7082b7e1a3620f9"
+    },
+    {
+      "item_id": "situatedqa_geography_3473ee5ab7d5c838_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:9a7b4887f85879db"
+    },
+    {
+      "item_id": "situatedqa_geography_39b0c2fbd3b31bbf_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:6165990fc90eea8e"
+    },
+    {
+      "item_id": "situatedqa_geography_3b7f3a329e0207e0_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:d9f93facc89fd042"
+    },
+    {
+      "item_id": "situatedqa_geography_3c7bfbf8c9ef6f3e_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:078156d5e93bfd2e"
+    },
+    {
+      "item_id": "situatedqa_geography_4a0db85182fce395_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:ea120eac4d0b7a96"
+    },
+    {
+      "item_id": "situatedqa_geography_500a5056e2d0c0b7_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:31e2ea01556f397c"
+    },
+    {
+      "item_id": "situatedqa_geography_50a9cd3ee2231499_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:6c7825ff0ce86d06"
+    },
+    {
+      "item_id": "situatedqa_geography_51b81ccbd5bd3cc0_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:14996378e0c2623d"
+    },
+    {
+      "item_id": "situatedqa_geography_58c643a1145e2fbf_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:13a8986e039b8d40"
+    },
+    {
+      "item_id": "situatedqa_geography_5cf7eb0bbfdb54c0_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:73930cc34682d18b"
+    },
+    {
+      "item_id": "situatedqa_geography_71e8808bb118a894_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:07a96e8ae0787064"
+    },
+    {
+      "item_id": "situatedqa_geography_7ae4dc5ecf52cdb9_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:31e2ea01556f397c"
+    },
+    {
+      "item_id": "situatedqa_geography_7cbcecec12cd58b1_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:9e46db7601eead7e"
+    },
+    {
+      "item_id": "situatedqa_geography_821f69a5c9f35ae5_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:6a0827c26e792339"
+    },
+    {
+      "item_id": "situatedqa_geography_85c13e0d15ff18e6_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:da3453338cd6b066"
+    },
+    {
+      "item_id": "situatedqa_geography_8e19054edf739ee9_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:1080718f7f0005cb"
+    },
+    {
+      "item_id": "situatedqa_geography_985f084086acdac1_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:2f5d7e6344258549"
+    },
+    {
+      "item_id": "situatedqa_geography_a6c1d0df0f2faafe_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:221c52e993e76088"
+    },
+    {
+      "item_id": "situatedqa_geography_b2a37037103903f0_v35",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:057fbccb52b1bc9c"
+    },
+    {
+      "item_id": "situatedqa_geography_b3dcfe8b17e11f1b_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:c08c9e6f06cd94ef"
+    },
+    {
+      "item_id": "situatedqa_geography_be80f6c6cd2225b7_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:f5de8df9bed18384"
+    },
+    {
+      "item_id": "situatedqa_geography_c0fd3ab94e4f658f_v35",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:17ff30fb906c66cf"
+    },
+    {
+      "item_id": "situatedqa_geography_c7add5e561fdcc44_v35",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:0cb3d83638f2082e"
+    },
+    {
+      "item_id": "situatedqa_geography_d017e206a058302a_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:2707a0da4b876dff"
+    },
+    {
+      "item_id": "situatedqa_geography_d41c9241834c29d3_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:3711e139569de314"
+    },
+    {
+      "item_id": "situatedqa_geography_d4eddf89b924244c_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:37e93c32e4d818dd"
+    },
+    {
+      "item_id": "situatedqa_geography_d81a126e5394a6de_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:8d306949a050da48"
+    },
+    {
+      "item_id": "situatedqa_geography_e091d15fd65373bb_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:839cc73a48d1c993"
+    },
+    {
+      "item_id": "situatedqa_geography_e91341edd01595f4_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:d156b2132c429456"
+    },
+    {
+      "item_id": "situatedqa_geography_ed2d071468b4bf0b_v35",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:37e93c32e4d818dd"
+    },
+    {
+      "item_id": "situatedqa_geography_ef35b73102e88069_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:ce6d7a4dbd18064b"
+    },
+    {
+      "item_id": "situatedqa_geography_ef93ee53c5f86247_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:4f512db21f9d6faa"
+    },
+    {
+      "item_id": "situatedqa_geography_f612faaad26fa3ec_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:4b9f9980d1e75101"
+    },
+    {
+      "item_id": "situatedqa_geography_f9e110c8d9688388_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:5eb2860963efb397"
+    },
+    {
+      "item_id": "situatedqa_geography_fca7c223f99eda8c_v19",
+      "source": "SituatedQA",
+      "dimension": "geography",
+      "cluster_id": "sqa:8cc9f4430e6408dc"
+    },
+    {
+      "item_id": "situatedqa_time_045ec63a58ec4a07_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:35285bd94fda5738"
+    },
+    {
+      "item_id": "situatedqa_time_122d3d7cffd65699_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:02e226bbe8cabebd"
+    },
+    {
+      "item_id": "situatedqa_time_12efbf45c2a97bfb_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:0f552f74eb24daa0"
+    },
+    {
+      "item_id": "situatedqa_time_232542fec9aa8319_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:c72e54d8b7bd7130"
+    },
+    {
+      "item_id": "situatedqa_time_2c64663f775601f7_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:4a1154c3d9b4711c"
+    },
+    {
+      "item_id": "situatedqa_time_2e881772bb2050f5_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:b00407ff599d890c"
+    },
+    {
+      "item_id": "situatedqa_time_3d5730fbeacbaba0_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:46e424d31b5078af"
+    },
+    {
+      "item_id": "situatedqa_time_40ba68d186b60598_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:e8908e941124e7e7"
+    },
+    {
+      "item_id": "situatedqa_time_42b2b5b991e5f82b_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:868fc89306d41338"
+    },
+    {
+      "item_id": "situatedqa_time_45456baf0d0a0a02_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:6eec7eae97ae438c"
+    },
+    {
+      "item_id": "situatedqa_time_4beca15d02d112b7_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:60fda9dee7153ba3"
+    },
+    {
+      "item_id": "situatedqa_time_4dccdf45604eebb4_v35",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:0686844df6771e2c"
+    },
+    {
+      "item_id": "situatedqa_time_51522c02e01bf3ba_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:668f6d36c8adb3b3"
+    },
+    {
+      "item_id": "situatedqa_time_552185a8e83e6698_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:b706d8b9e38e9812"
+    },
+    {
+      "item_id": "situatedqa_time_59d1058e8d7c3c53_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:d0f011faa51bcdd7"
+    },
+    {
+      "item_id": "situatedqa_time_5e7a3e9f462e175e_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:5293554d6d8613ef"
+    },
+    {
+      "item_id": "situatedqa_time_63ee0bebd7375cbc_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:6bbcd5232e7c350e"
+    },
+    {
+      "item_id": "situatedqa_time_6a4d8ba03081b4ca_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:fa05244e5150fdba"
+    },
+    {
+      "item_id": "situatedqa_time_79e3f29c1272b15f_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:97d52a0348532a04"
+    },
+    {
+      "item_id": "situatedqa_time_7d19c8bfb894e12e_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:842ae10c41fd65c0"
+    },
+    {
+      "item_id": "situatedqa_time_8a92241c82d28eb4_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:aa065e322140c137"
+    },
+    {
+      "item_id": "situatedqa_time_9526e39ebfaac244_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:125b2846aa102326"
+    },
+    {
+      "item_id": "situatedqa_time_9747394bfa574613_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:ee91bad0b4faf409"
+    },
+    {
+      "item_id": "situatedqa_time_9e841b6ad3cb7635_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:9949ac1eaff79d3d"
+    },
+    {
+      "item_id": "situatedqa_time_9eda0184e8088cf8_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:709ac7ed96db768e"
+    },
+    {
+      "item_id": "situatedqa_time_a1f4af6ee776c90a_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:f2b8093671a42411"
+    },
+    {
+      "item_id": "situatedqa_time_a3d64089625dd211_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:823c9989f54d128e"
+    },
+    {
+      "item_id": "situatedqa_time_aa781ad3feabf82a_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:474f4200e59b80ff"
+    },
+    {
+      "item_id": "situatedqa_time_bf9939fb0cf2ed72_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:4c450643e94945ce"
+    },
+    {
+      "item_id": "situatedqa_time_c2a4ec7694a04e23_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:fb37483f5cd10331"
+    },
+    {
+      "item_id": "situatedqa_time_c68d94b9b8c50c57_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:fa05244e5150fdba"
+    },
+    {
+      "item_id": "situatedqa_time_cdd464b3dffe760d_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:434a41daf65685bf"
+    },
+    {
+      "item_id": "situatedqa_time_ce53125d769f33f5_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:f21643fafb727c6d"
+    },
+    {
+      "item_id": "situatedqa_time_d057da4c3afee6c9_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:0d6475226b7a3ef4"
+    },
+    {
+      "item_id": "situatedqa_time_e784428142a7cdc4_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:35853df64c73af41"
+    },
+    {
+      "item_id": "situatedqa_time_e833b1a6fd314df6_v35",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:b19ade20a8a9075f"
+    },
+    {
+      "item_id": "situatedqa_time_ef3d61aa92c7173e_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:891c782bfc3a04bf"
+    },
+    {
+      "item_id": "situatedqa_time_f3eec2fdc93b5046_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:8366fbfa7fabb398"
+    },
+    {
+      "item_id": "situatedqa_time_f92d980bc0b71191_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:a54f576a283215ec"
+    },
+    {
+      "item_id": "situatedqa_time_ff9ae5adf572a1c5_v19",
+      "source": "SituatedQA",
+      "dimension": "time",
+      "cluster_id": "sqa:0d6475226b7a3ef4"
+    }
+  ],
+  "dataset_version": "1.0.0"
+}

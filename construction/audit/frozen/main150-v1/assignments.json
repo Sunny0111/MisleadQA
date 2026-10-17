@@ -1,0 +1,1071 @@
+{
+  "version": "main150-v1",
+  "reviewers": {
+    "A1": [
+      "fred_time_0b54fa1874a5_natural_v5",
+      "ambigdocs_entity_e3bfb14afa2ae288_v8",
+      "ambigdocs_entity_3b5b5b24e64b99f5_v12",
+      "ambigdocs_entity_6792a7a06e3c5894_v8",
+      "situatedqa_time_8bbff1958e3a243e_v19",
+      "situatedqa_geography_d04d044e7a469c64_v19",
+      "situatedqa_geography_d41c9241834c29d3_v19",
+      "situatedqa_time_51522c02e01bf3ba_v19",
+      "ambigdocs_entity_493376565c5dddf7_v8",
+      "fred_time_8b5880f04abf_natural_v5",
+      "situatedqa_time_f3eec2fdc93b5046_v19",
+      "ambigdocs_entity_f96e8711d9ee121a_v8",
+      "situatedqa_time_f0b5fa053ea3c255_v19",
+      "fred_time_e9402ec21ff7_natural_v5",
+      "ambigdocs_entity_87c268ab1b8d498f_v8",
+      "ambigdocs_entity_c1a85b3ea39cfa7f_v8",
+      "ambigdocs_entity_db445975fbaf582e_v8",
+      "situatedqa_geography_0233b65e3d30e53c_v19",
+      "ambigdocs_entity_305338ee01bd7590_v15",
+      "situatedqa_time_92b0f3a5a5ead707_v19",
+      "fred_geography_eb339d112a89_natural_v5",
+      "ambigdocs_entity_020b972243ac2744_v8",
+      "fred_geography_c80d48cf4cfe_natural_v5",
+      "situatedqa_geography_85c13e0d15ff18e6_v19",
+      "situatedqa_time_a49576c1e76ab8be_v19",
+      "ambigdocs_entity_320f654ef1a70329_v8",
+      "situatedqa_time_63ee0bebd7375cbc_v19",
+      "situatedqa_geography_3b7f3a329e0207e0_v19",
+      "fred_geography_26defcea4722_natural_v5",
+      "fred_time_d726bec83941_natural_v5",
+      "ambigdocs_entity_811c13b400d2407c_v8",
+      "situatedqa_geography_c17b14ce5d1f90e2_v19",
+      "situatedqa_time_a4c847fd9c5f4c18_v19",
+      "situatedqa_geography_ac524173f490d5a9_v19",
+      "ambigdocs_entity_d68fe95ef430ae61_v8",
+      "situatedqa_geography_bba91f1815face40_v19",
+      "fred_time_9b2db8e1e481_natural_v5",
+      "fred_geography_725f9aa25575_natural_v5",
+      "situatedqa_time_d041b566caf9796a_v19",
+      "fred_geography_e0fd14c64575_natural_v5",
+      "ambigdocs_entity_0ef2a70faa99ca9e_v8",
+      "ambigdocs_entity_d48df42cbed3c919_v8",
+      "situatedqa_geography_203a488cf9fa52fb_v19",
+      "situatedqa_time_4ac6244ec2d807a2_v19",
+      "situatedqa_time_d9c80ee640a59c26_v19",
+      "situatedqa_geography_e82a64ab1620e486_v19",
+      "situatedqa_geography_4e566f9f3c20e65b_v19",
+      "ambigdocs_entity_e6668964582c33f0_v8",
+      "ambigdocs_entity_3326b3c6cc356923_v8",
+      "situatedqa_geography_6ab482761983134b_v35"
+    ],
+    "A2": [
+      "ambigdocs_entity_e05b25f7110cbf46_v8",
+      "ambigdocs_entity_8b1b22bbabe33d03_v8",
+      "ambigdocs_entity_adc01b0c42fedbba_v8",
+      "fred_time_448f027947c8_natural_v5",
+      "fred_geography_e030ea6d7a1c_natural_v5",
+      "ambigdocs_entity_88cab90119f4dd67_v8",
+      "situatedqa_geography_ac524173f490d5a9_v19",
+      "fred_time_2a3929f6cfa1_natural_v5",
+      "fred_time_37dbc6c06ca6_natural_v5",
+      "situatedqa_time_4ac6244ec2d807a2_v19",
+      "situatedqa_geography_5133c1b1f81e9fd2_v19",
+      "fred_geography_4028fd5afa85_natural_v5",
+      "ambigdocs_entity_e6a7b243fa4288d1_v12",
+      "fred_time_8b5880f04abf_natural_v5",
+      "situatedqa_time_552185a8e83e6698_v19",
+      "fred_geography_b2aff0d25159_natural_v5",
+      "situatedqa_geography_77a4cd49bb5883e4_v19",
+      "situatedqa_time_a3d64089625dd211_v19",
+      "situatedqa_time_f0b5fa053ea3c255_v19",
+      "fred_time_568743c4ac53_natural_v5",
+      "situatedqa_geography_7f4fea7de6b6e81a_v19",
+      "ambigdocs_entity_ac5bdfb8e81d22cb_v8",
+      "situatedqa_time_d9d2310f6e9cb5ed_v19",
+      "situatedqa_geography_e40f12b1ae226b20_v19",
+      "situatedqa_time_9b5a01ae77c2f23a_v19",
+      "situatedqa_geography_c7add5e561fdcc44_v35",
+      "situatedqa_time_e4f65c5e357b8943_v19",
+      "ambigdocs_entity_8e9ec5c449ade6ff_v12",
+      "fred_geography_c80d48cf4cfe_natural_v5",
+      "situatedqa_geography_1c1aa4756b625bc6_v19",
+      "situatedqa_time_edc757b1f9c84c21_v19",
+      "situatedqa_time_b0df476cec317075_v19",
+      "situatedqa_geography_3081d92ef1379b6a_v19",
+      "situatedqa_geography_0f078335a03c2ef8_v19",
+      "situatedqa_geography_5a1ba47c94d71e24_v19",
+      "situatedqa_geography_321d012bd9d2504d_v19",
+      "fred_geography_830e10884d43_natural_v5",
+      "ambigdocs_entity_f96e8711d9ee121a_v8",
+      "ambigdocs_entity_d1bfe140593baf7b_v8",
+      "ambigdocs_entity_f794ee8a90ec585b_v8",
+      "ambigdocs_entity_9b02188e2f935760_v8",
+      "situatedqa_time_4b6504bd0ea26340_v35",
+      "ambigdocs_entity_40b16cf67ee4da00_v8",
+      "ambigdocs_entity_d2a90651c4220097_v8",
+      "situatedqa_geography_d04d044e7a469c64_v19",
+      "ambigdocs_entity_e6668964582c33f0_v8",
+      "situatedqa_time_a57b8b3a3586c1b1_v19",
+      "ambigdocs_entity_3326b3c6cc356923_v8",
+      "ambigdocs_entity_063bbeba4c62f401_v8",
+      "ambigdocs_entity_3b5b5b24e64b99f5_v12"
+    ],
+    "A3": [
+      "ambigdocs_entity_943c59e642b7be68_v8",
+      "situatedqa_geography_03d936b753bc7792_v19",
+      "situatedqa_geography_85c13e0d15ff18e6_v19",
+      "fred_time_e9402ec21ff7_natural_v5",
+      "ambigdocs_entity_f794ee8a90ec585b_v8",
+      "ambigdocs_entity_9e38874f58ee16ff_v8",
+      "fred_geography_b2aff0d25159_natural_v5",
+      "situatedqa_geography_3b7f3a329e0207e0_v19",
+      "ambigdocs_entity_3405219b9f3461db_v8",
+      "situatedqa_time_5fc86c84624e9074_v19",
+      "situatedqa_geography_6638988cbcbf81ee_v19",
+      "ambigdocs_entity_2feaa58117aa88f1_v8",
+      "situatedqa_time_9b5a01ae77c2f23a_v19",
+      "ambigdocs_entity_c4469c059f47e756_v8",
+      "fred_time_a3fd9e4a4763_natural_v5",
+      "fred_geography_81ab6f35c946_natural_v5",
+      "fred_time_f1a873d7001f_natural_v5",
+      "situatedqa_time_63ee0bebd7375cbc_v19",
+      "ambigdocs_entity_d93757e526f655e2_v8",
+      "fred_geography_9800987ca135_natural_v5",
+      "fred_time_568743c4ac53_natural_v5",
+      "situatedqa_time_b86f1ed2b79d1256_v19",
+      "fred_geography_baca14782602_natural_v5",
+      "situatedqa_geography_5a1ba47c94d71e24_v19",
+      "ambigdocs_entity_d2a90651c4220097_v8",
+      "situatedqa_time_232542fec9aa8319_v19",
+      "situatedqa_time_a4c847fd9c5f4c18_v19",
+      "situatedqa_time_d0eb182630964a14_v19",
+      "situatedqa_geography_bba91f1815face40_v19",
+      "ambigdocs_entity_6ee0e0deb218db4e_v12",
+      "ambigdocs_entity_d68fe95ef430ae61_v8",
+      "situatedqa_time_b0df476cec317075_v19",
+      "ambigdocs_entity_6d440c9c3c889ff3_v12",
+      "situatedqa_geography_329bba387df791f1_v19",
+      "situatedqa_geography_2d68ccd5ad7418f7_v19",
+      "situatedqa_geography_321d012bd9d2504d_v19",
+      "ambigdocs_entity_a002a7865e9abee5_v8",
+      "ambigdocs_entity_445ecb45801b6a89_v8",
+      "ambigdocs_entity_87c268ab1b8d498f_v8",
+      "ambigdocs_entity_020b972243ac2744_v8",
+      "ambigdocs_entity_a29a80ce4edfabf6_v8",
+      "situatedqa_time_8d9ef2f974469819_v19",
+      "situatedqa_geography_f87586c66ba581a3_v19",
+      "situatedqa_time_9e841b6ad3cb7635_v19",
+      "situatedqa_time_4630d50ed5c6be99_v19",
+      "situatedqa_geography_b5a2830c3bcad377_v19",
+      "fred_time_a184a6f3fdc9_natural_v5",
+      "situatedqa_time_a57b8b3a3586c1b1_v19",
+      "fred_geography_eb339d112a89_natural_v5",
+      "ambigdocs_entity_e6a7b243fa4288d1_v12"
+    ],
+    "A4": [
+      "situatedqa_time_c7bca84996342803_v19",
+      "ambigdocs_entity_adc01b0c42fedbba_v8",
+      "situatedqa_geography_7f4fea7de6b6e81a_v19",
+      "situatedqa_time_552185a8e83e6698_v19",
+      "ambigdocs_entity_a90b8de4947037ca_v8",
+      "fred_geography_81ab6f35c946_natural_v5",
+      "ambigdocs_entity_3405219b9f3461db_v8",
+      "fred_geography_55b938b71615_natural_v5",
+      "ambigdocs_entity_d48df42cbed3c919_v8",
+      "ambigdocs_entity_811c13b400d2407c_v8",
+      "situatedqa_geography_0233b65e3d30e53c_v19",
+      "ambigdocs_entity_40b16cf67ee4da00_v8",
+      "situatedqa_time_e4f65c5e357b8943_v19",
+      "ambigdocs_entity_32354d300cd4369b_v8",
+      "ambigdocs_entity_8b1b22bbabe33d03_v8",
+      "fred_time_37dbc6c06ca6_natural_v5",
+      "fred_time_f2a57a1affc9_natural_v5",
+      "ambigdocs_entity_6792a7a06e3c5894_v8",
+      "situatedqa_time_d0eb182630964a14_v19",
+      "situatedqa_geography_c62addd116af18bf_v19",
+      "situatedqa_geography_2d68ccd5ad7418f7_v19",
+      "situatedqa_geography_c17b14ce5d1f90e2_v19",
+      "fred_geography_830e10884d43_natural_v5",
+      "fred_time_a184a6f3fdc9_natural_v5",
+      "situatedqa_geography_5133c1b1f81e9fd2_v19",
+      "fred_time_d726bec83941_natural_v5",
+      "ambigdocs_entity_c4469c059f47e756_v8",
+      "situatedqa_geography_b5a2830c3bcad377_v19",
+      "ambigdocs_entity_fb3506a95c119b04_v8",
+      "fred_geography_d9faa7540d1f_natural_v5",
+      "ambigdocs_entity_c1a85b3ea39cfa7f_v8",
+      "ambigdocs_entity_80fe718c71b0c94e_v8",
+      "situatedqa_geography_4752f61c91fccb56_v19",
+      "ambigdocs_entity_d1bfe140593baf7b_v8",
+      "situatedqa_time_a49576c1e76ab8be_v19",
+      "situatedqa_geography_b7bd22f69cb42374_v19",
+      "situatedqa_time_232542fec9aa8319_v19",
+      "fred_time_e75792bd6ab3_natural_v5",
+      "situatedqa_time_2bea1455a66efa0e_v19",
+      "situatedqa_time_51522c02e01bf3ba_v19",
+      "ambigdocs_entity_bb31745c2bac56c8_v8",
+      "ambigdocs_entity_673ba803aec0b08e_v8",
+      "situatedqa_time_8d9ef2f974469819_v19",
+      "situatedqa_geography_d017e206a058302a_v19",
+      "situatedqa_geography_f3a9e1c3bc15f300_v19",
+      "situatedqa_time_aa781ad3feabf82a_v19",
+      "fred_geography_e0fd14c64575_natural_v5",
+      "situatedqa_time_34d0a7dd7dd569db_v19",
+      "situatedqa_time_376e51b0251f66b7_v19",
+      "ambigdocs_entity_9e38874f58ee16ff_v8"
+    ],
+    "A5": [
+      "situatedqa_geography_c62addd116af18bf_v19",
+      "fred_geography_26defcea4722_natural_v5",
+      "situatedqa_geography_469bb08f0d110f6f_v35",
+      "situatedqa_time_f92d980bc0b71191_v19",
+      "ambigdocs_entity_a29a80ce4edfabf6_v8",
+      "situatedqa_geography_3081d92ef1379b6a_v19",
+      "ambigdocs_entity_c37b6f7875aaad15_v8",
+      "fred_time_e75792bd6ab3_natural_v5",
+      "situatedqa_geography_203a488cf9fa52fb_v19",
+      "situatedqa_time_b2a6f0b17be4c580_v35",
+      "situatedqa_time_c7bca84996342803_v19",
+      "ambigdocs_entity_1c0564451e48740f_v8",
+      "situatedqa_geography_0f078335a03c2ef8_v19",
+      "situatedqa_time_9e841b6ad3cb7635_v19",
+      "fred_geography_4028fd5afa85_natural_v5",
+      "fred_geography_6619276ec1ba_natural_v5",
+      "situatedqa_time_4b6504bd0ea26340_v35",
+      "ambigdocs_entity_80fe718c71b0c94e_v8",
+      "situatedqa_geography_1c1aa4756b625bc6_v19",
+      "ambigdocs_entity_d93757e526f655e2_v8",
+      "situatedqa_time_92b0f3a5a5ead707_v19",
+      "ambigdocs_entity_8e9ec5c449ade6ff_v12",
+      "situatedqa_time_a52e1e4fe2ab7388_v19",
+      "situatedqa_geography_4e566f9f3c20e65b_v19",
+      "ambigdocs_entity_9b02188e2f935760_v8",
+      "fred_time_36be03c851b5_natural_v5",
+      "situatedqa_geography_6ab482761983134b_v35",
+      "fred_time_f1a873d7001f_natural_v5",
+      "ambigdocs_entity_943c59e642b7be68_v8",
+      "situatedqa_geography_46d64e3d29d0c077_v19",
+      "ambigdocs_entity_2feaa58117aa88f1_v8",
+      "fred_time_9b2db8e1e481_natural_v5",
+      "fred_geography_baca14782602_natural_v5",
+      "situatedqa_time_b86f1ed2b79d1256_v19",
+      "ambigdocs_entity_e3bfb14afa2ae288_v8",
+      "situatedqa_time_d9d2310f6e9cb5ed_v19",
+      "ambigdocs_entity_305338ee01bd7590_v15",
+      "ambigdocs_entity_ac5bdfb8e81d22cb_v8",
+      "situatedqa_time_2bea1455a66efa0e_v19",
+      "situatedqa_geography_329bba387df791f1_v19",
+      "fred_geography_55b938b71615_natural_v5",
+      "fred_time_2a3929f6cfa1_natural_v5",
+      "ambigdocs_entity_db445975fbaf582e_v8",
+      "situatedqa_geography_f3a9e1c3bc15f300_v19",
+      "situatedqa_geography_f87586c66ba581a3_v19",
+      "situatedqa_time_f3eec2fdc93b5046_v19",
+      "situatedqa_time_34d0a7dd7dd569db_v19",
+      "ambigdocs_entity_a90b8de4947037ca_v8",
+      "ambigdocs_entity_673ba803aec0b08e_v8",
+      "ambigdocs_entity_db821cd7cd053cda_v8"
+    ],
+    "A6": [
+      "situatedqa_time_a3d64089625dd211_v19",
+      "ambigdocs_entity_445ecb45801b6a89_v8",
+      "fred_time_0b54fa1874a5_natural_v5",
+      "situatedqa_time_d041b566caf9796a_v19",
+      "ambigdocs_entity_bb31745c2bac56c8_v8",
+      "ambigdocs_entity_0ef2a70faa99ca9e_v8",
+      "ambigdocs_entity_32354d300cd4369b_v8",
+      "fred_geography_725f9aa25575_natural_v5",
+      "situatedqa_geography_d017e206a058302a_v19",
+      "fred_geography_d9faa7540d1f_natural_v5",
+      "situatedqa_time_376e51b0251f66b7_v19",
+      "fred_time_a3fd9e4a4763_natural_v5",
+      "situatedqa_time_b2a6f0b17be4c580_v35",
+      "ambigdocs_entity_6ee0e0deb218db4e_v12",
+      "situatedqa_time_f92d980bc0b71191_v19",
+      "fred_time_f2a57a1affc9_natural_v5",
+      "situatedqa_time_4630d50ed5c6be99_v19",
+      "ambigdocs_entity_c37b6f7875aaad15_v8",
+      "situatedqa_geography_6638988cbcbf81ee_v19",
+      "ambigdocs_entity_88cab90119f4dd67_v8",
+      "situatedqa_geography_d41c9241834c29d3_v19",
+      "fred_geography_6619276ec1ba_natural_v5",
+      "fred_time_36be03c851b5_natural_v5",
+      "situatedqa_geography_4752f61c91fccb56_v19",
+      "situatedqa_geography_e40f12b1ae226b20_v19",
+      "situatedqa_time_aa781ad3feabf82a_v19",
+      "ambigdocs_entity_6d440c9c3c889ff3_v12",
+      "situatedqa_time_d9c80ee640a59c26_v19",
+      "ambigdocs_entity_fb3506a95c119b04_v8",
+      "situatedqa_geography_46d64e3d29d0c077_v19",
+      "situatedqa_geography_469bb08f0d110f6f_v35",
+      "situatedqa_geography_e82a64ab1620e486_v19",
+      "fred_time_448f027947c8_natural_v5",
+      "ambigdocs_entity_e05b25f7110cbf46_v8",
+      "situatedqa_time_a52e1e4fe2ab7388_v19",
+      "situatedqa_time_5fc86c84624e9074_v19",
+      "ambigdocs_entity_320f654ef1a70329_v8",
+      "situatedqa_time_8bbff1958e3a243e_v19",
+      "ambigdocs_entity_a002a7865e9abee5_v8",
+      "ambigdocs_entity_1c0564451e48740f_v8",
+      "situatedqa_time_edc757b1f9c84c21_v19",
+      "situatedqa_geography_77a4cd49bb5883e4_v19",
+      "situatedqa_geography_c7add5e561fdcc44_v35",
+      "fred_geography_e030ea6d7a1c_natural_v5",
+      "ambigdocs_entity_063bbeba4c62f401_v8",
+      "situatedqa_geography_03d936b753bc7792_v19",
+      "ambigdocs_entity_493376565c5dddf7_v8",
+      "ambigdocs_entity_db821cd7cd053cda_v8",
+      "fred_geography_9800987ca135_natural_v5",
+      "situatedqa_geography_b7bd22f69cb42374_v19"
+    ]
+  },
+  "by_item": {
+    "fred_time_d726bec83941_natural_v5": [
+      "A1",
+      "A4"
+    ],
+    "fred_time_f2a57a1affc9_natural_v5": [
+      "A4",
+      "A6"
+    ],
+    "fred_time_37dbc6c06ca6_natural_v5": [
+      "A2",
+      "A4"
+    ],
+    "fred_time_9b2db8e1e481_natural_v5": [
+      "A1",
+      "A5"
+    ],
+    "fred_time_a3fd9e4a4763_natural_v5": [
+      "A3",
+      "A6"
+    ],
+    "fred_time_2a3929f6cfa1_natural_v5": [
+      "A2",
+      "A5"
+    ],
+    "fred_time_568743c4ac53_natural_v5": [
+      "A2",
+      "A3"
+    ],
+    "fred_time_e9402ec21ff7_natural_v5": [
+      "A1",
+      "A3"
+    ],
+    "fred_time_a184a6f3fdc9_natural_v5": [
+      "A3",
+      "A4"
+    ],
+    "fred_time_e75792bd6ab3_natural_v5": [
+      "A4",
+      "A5"
+    ],
+    "fred_time_448f027947c8_natural_v5": [
+      "A2",
+      "A6"
+    ],
+    "fred_time_36be03c851b5_natural_v5": [
+      "A5",
+      "A6"
+    ],
+    "fred_time_8b5880f04abf_natural_v5": [
+      "A1",
+      "A2"
+    ],
+    "fred_time_f1a873d7001f_natural_v5": [
+      "A3",
+      "A5"
+    ],
+    "fred_time_0b54fa1874a5_natural_v5": [
+      "A1",
+      "A6"
+    ],
+    "fred_geography_e030ea6d7a1c_natural_v5": [
+      "A2",
+      "A6"
+    ],
+    "fred_geography_e0fd14c64575_natural_v5": [
+      "A1",
+      "A4"
+    ],
+    "fred_geography_eb339d112a89_natural_v5": [
+      "A1",
+      "A3"
+    ],
+    "fred_geography_4028fd5afa85_natural_v5": [
+      "A2",
+      "A5"
+    ],
+    "fred_geography_6619276ec1ba_natural_v5": [
+      "A5",
+      "A6"
+    ],
+    "fred_geography_d9faa7540d1f_natural_v5": [
+      "A4",
+      "A6"
+    ],
+    "fred_geography_baca14782602_natural_v5": [
+      "A3",
+      "A5"
+    ],
+    "fred_geography_830e10884d43_natural_v5": [
+      "A2",
+      "A4"
+    ],
+    "fred_geography_26defcea4722_natural_v5": [
+      "A1",
+      "A5"
+    ],
+    "fred_geography_c80d48cf4cfe_natural_v5": [
+      "A1",
+      "A2"
+    ],
+    "fred_geography_9800987ca135_natural_v5": [
+      "A3",
+      "A6"
+    ],
+    "fred_geography_55b938b71615_natural_v5": [
+      "A4",
+      "A5"
+    ],
+    "fred_geography_b2aff0d25159_natural_v5": [
+      "A2",
+      "A3"
+    ],
+    "fred_geography_81ab6f35c946_natural_v5": [
+      "A3",
+      "A4"
+    ],
+    "fred_geography_725f9aa25575_natural_v5": [
+      "A1",
+      "A6"
+    ],
+    "situatedqa_time_aa781ad3feabf82a_v19": [
+      "A4",
+      "A6"
+    ],
+    "situatedqa_time_e4f65c5e357b8943_v19": [
+      "A2",
+      "A4"
+    ],
+    "situatedqa_time_d041b566caf9796a_v19": [
+      "A1",
+      "A6"
+    ],
+    "situatedqa_time_232542fec9aa8319_v19": [
+      "A3",
+      "A4"
+    ],
+    "situatedqa_time_f3eec2fdc93b5046_v19": [
+      "A1",
+      "A5"
+    ],
+    "situatedqa_time_b86f1ed2b79d1256_v19": [
+      "A3",
+      "A5"
+    ],
+    "situatedqa_time_d0eb182630964a14_v19": [
+      "A3",
+      "A4"
+    ],
+    "situatedqa_time_8bbff1958e3a243e_v19": [
+      "A1",
+      "A6"
+    ],
+    "situatedqa_time_376e51b0251f66b7_v19": [
+      "A4",
+      "A6"
+    ],
+    "situatedqa_time_b2a6f0b17be4c580_v35": [
+      "A5",
+      "A6"
+    ],
+    "situatedqa_time_a49576c1e76ab8be_v19": [
+      "A1",
+      "A4"
+    ],
+    "situatedqa_time_8d9ef2f974469819_v19": [
+      "A3",
+      "A4"
+    ],
+    "situatedqa_time_edc757b1f9c84c21_v19": [
+      "A2",
+      "A6"
+    ],
+    "situatedqa_time_f0b5fa053ea3c255_v19": [
+      "A1",
+      "A2"
+    ],
+    "situatedqa_time_c7bca84996342803_v19": [
+      "A4",
+      "A5"
+    ],
+    "situatedqa_time_4b6504bd0ea26340_v35": [
+      "A2",
+      "A5"
+    ],
+    "situatedqa_time_9e841b6ad3cb7635_v19": [
+      "A3",
+      "A5"
+    ],
+    "situatedqa_time_f92d980bc0b71191_v19": [
+      "A5",
+      "A6"
+    ],
+    "situatedqa_time_51522c02e01bf3ba_v19": [
+      "A1",
+      "A4"
+    ],
+    "situatedqa_time_4630d50ed5c6be99_v19": [
+      "A3",
+      "A6"
+    ],
+    "situatedqa_time_d9c80ee640a59c26_v19": [
+      "A1",
+      "A6"
+    ],
+    "situatedqa_time_a57b8b3a3586c1b1_v19": [
+      "A2",
+      "A3"
+    ],
+    "situatedqa_time_63ee0bebd7375cbc_v19": [
+      "A1",
+      "A3"
+    ],
+    "situatedqa_time_a4c847fd9c5f4c18_v19": [
+      "A1",
+      "A3"
+    ],
+    "situatedqa_time_a52e1e4fe2ab7388_v19": [
+      "A5",
+      "A6"
+    ],
+    "situatedqa_time_b0df476cec317075_v19": [
+      "A2",
+      "A3"
+    ],
+    "situatedqa_time_34d0a7dd7dd569db_v19": [
+      "A4",
+      "A5"
+    ],
+    "situatedqa_time_552185a8e83e6698_v19": [
+      "A2",
+      "A4"
+    ],
+    "situatedqa_time_9b5a01ae77c2f23a_v19": [
+      "A2",
+      "A3"
+    ],
+    "situatedqa_time_4ac6244ec2d807a2_v19": [
+      "A1",
+      "A2"
+    ],
+    "situatedqa_time_a3d64089625dd211_v19": [
+      "A2",
+      "A6"
+    ],
+    "situatedqa_time_92b0f3a5a5ead707_v19": [
+      "A1",
+      "A5"
+    ],
+    "situatedqa_time_5fc86c84624e9074_v19": [
+      "A3",
+      "A6"
+    ],
+    "situatedqa_time_2bea1455a66efa0e_v19": [
+      "A4",
+      "A5"
+    ],
+    "situatedqa_time_d9d2310f6e9cb5ed_v19": [
+      "A2",
+      "A5"
+    ],
+    "situatedqa_geography_46d64e3d29d0c077_v19": [
+      "A5",
+      "A6"
+    ],
+    "situatedqa_geography_ac524173f490d5a9_v19": [
+      "A1",
+      "A2"
+    ],
+    "situatedqa_geography_5a1ba47c94d71e24_v19": [
+      "A2",
+      "A3"
+    ],
+    "situatedqa_geography_3b7f3a329e0207e0_v19": [
+      "A1",
+      "A3"
+    ],
+    "situatedqa_geography_321d012bd9d2504d_v19": [
+      "A2",
+      "A3"
+    ],
+    "situatedqa_geography_0233b65e3d30e53c_v19": [
+      "A1",
+      "A4"
+    ],
+    "situatedqa_geography_b5a2830c3bcad377_v19": [
+      "A3",
+      "A4"
+    ],
+    "situatedqa_geography_469bb08f0d110f6f_v35": [
+      "A5",
+      "A6"
+    ],
+    "situatedqa_geography_c62addd116af18bf_v19": [
+      "A4",
+      "A5"
+    ],
+    "situatedqa_geography_bba91f1815face40_v19": [
+      "A1",
+      "A3"
+    ],
+    "situatedqa_geography_03d936b753bc7792_v19": [
+      "A3",
+      "A6"
+    ],
+    "situatedqa_geography_c17b14ce5d1f90e2_v19": [
+      "A1",
+      "A4"
+    ],
+    "situatedqa_geography_3081d92ef1379b6a_v19": [
+      "A2",
+      "A5"
+    ],
+    "situatedqa_geography_6638988cbcbf81ee_v19": [
+      "A3",
+      "A6"
+    ],
+    "situatedqa_geography_e40f12b1ae226b20_v19": [
+      "A2",
+      "A6"
+    ],
+    "situatedqa_geography_329bba387df791f1_v19": [
+      "A3",
+      "A5"
+    ],
+    "situatedqa_geography_e82a64ab1620e486_v19": [
+      "A1",
+      "A6"
+    ],
+    "situatedqa_geography_c7add5e561fdcc44_v35": [
+      "A2",
+      "A6"
+    ],
+    "situatedqa_geography_4752f61c91fccb56_v19": [
+      "A4",
+      "A6"
+    ],
+    "situatedqa_geography_0f078335a03c2ef8_v19": [
+      "A2",
+      "A5"
+    ],
+    "situatedqa_geography_5133c1b1f81e9fd2_v19": [
+      "A2",
+      "A4"
+    ],
+    "situatedqa_geography_b7bd22f69cb42374_v19": [
+      "A4",
+      "A6"
+    ],
+    "situatedqa_geography_4e566f9f3c20e65b_v19": [
+      "A1",
+      "A5"
+    ],
+    "situatedqa_geography_6ab482761983134b_v35": [
+      "A1",
+      "A5"
+    ],
+    "situatedqa_geography_f3a9e1c3bc15f300_v19": [
+      "A4",
+      "A5"
+    ],
+    "situatedqa_geography_d41c9241834c29d3_v19": [
+      "A1",
+      "A6"
+    ],
+    "situatedqa_geography_1c1aa4756b625bc6_v19": [
+      "A2",
+      "A5"
+    ],
+    "situatedqa_geography_77a4cd49bb5883e4_v19": [
+      "A2",
+      "A6"
+    ],
+    "situatedqa_geography_7f4fea7de6b6e81a_v19": [
+      "A2",
+      "A4"
+    ],
+    "situatedqa_geography_2d68ccd5ad7418f7_v19": [
+      "A3",
+      "A4"
+    ],
+    "situatedqa_geography_85c13e0d15ff18e6_v19": [
+      "A1",
+      "A3"
+    ],
+    "situatedqa_geography_f87586c66ba581a3_v19": [
+      "A3",
+      "A5"
+    ],
+    "situatedqa_geography_d017e206a058302a_v19": [
+      "A4",
+      "A6"
+    ],
+    "situatedqa_geography_203a488cf9fa52fb_v19": [
+      "A1",
+      "A5"
+    ],
+    "situatedqa_geography_d04d044e7a469c64_v19": [
+      "A1",
+      "A2"
+    ],
+    "ambigdocs_entity_8e9ec5c449ade6ff_v12": [
+      "A2",
+      "A5"
+    ],
+    "ambigdocs_entity_a002a7865e9abee5_v8": [
+      "A3",
+      "A6"
+    ],
+    "ambigdocs_entity_d93757e526f655e2_v8": [
+      "A3",
+      "A5"
+    ],
+    "ambigdocs_entity_a90b8de4947037ca_v8": [
+      "A4",
+      "A5"
+    ],
+    "ambigdocs_entity_adc01b0c42fedbba_v8": [
+      "A2",
+      "A4"
+    ],
+    "ambigdocs_entity_c37b6f7875aaad15_v8": [
+      "A5",
+      "A6"
+    ],
+    "ambigdocs_entity_db445975fbaf582e_v8": [
+      "A1",
+      "A5"
+    ],
+    "ambigdocs_entity_d48df42cbed3c919_v8": [
+      "A1",
+      "A4"
+    ],
+    "ambigdocs_entity_e3bfb14afa2ae288_v8": [
+      "A1",
+      "A5"
+    ],
+    "ambigdocs_entity_c4469c059f47e756_v8": [
+      "A3",
+      "A4"
+    ],
+    "ambigdocs_entity_e6668964582c33f0_v8": [
+      "A1",
+      "A2"
+    ],
+    "ambigdocs_entity_a29a80ce4edfabf6_v8": [
+      "A3",
+      "A5"
+    ],
+    "ambigdocs_entity_3326b3c6cc356923_v8": [
+      "A1",
+      "A2"
+    ],
+    "ambigdocs_entity_d68fe95ef430ae61_v8": [
+      "A1",
+      "A3"
+    ],
+    "ambigdocs_entity_9b02188e2f935760_v8": [
+      "A2",
+      "A5"
+    ],
+    "ambigdocs_entity_e05b25f7110cbf46_v8": [
+      "A2",
+      "A6"
+    ],
+    "ambigdocs_entity_020b972243ac2744_v8": [
+      "A1",
+      "A3"
+    ],
+    "ambigdocs_entity_87c268ab1b8d498f_v8": [
+      "A1",
+      "A3"
+    ],
+    "ambigdocs_entity_f96e8711d9ee121a_v8": [
+      "A1",
+      "A2"
+    ],
+    "ambigdocs_entity_3b5b5b24e64b99f5_v12": [
+      "A1",
+      "A2"
+    ],
+    "ambigdocs_entity_e6a7b243fa4288d1_v12": [
+      "A2",
+      "A3"
+    ],
+    "ambigdocs_entity_ac5bdfb8e81d22cb_v8": [
+      "A2",
+      "A5"
+    ],
+    "ambigdocs_entity_493376565c5dddf7_v8": [
+      "A1",
+      "A6"
+    ],
+    "ambigdocs_entity_8b1b22bbabe33d03_v8": [
+      "A2",
+      "A4"
+    ],
+    "ambigdocs_entity_320f654ef1a70329_v8": [
+      "A1",
+      "A6"
+    ],
+    "ambigdocs_entity_88cab90119f4dd67_v8": [
+      "A2",
+      "A6"
+    ],
+    "ambigdocs_entity_943c59e642b7be68_v8": [
+      "A3",
+      "A5"
+    ],
+    "ambigdocs_entity_c1a85b3ea39cfa7f_v8": [
+      "A1",
+      "A4"
+    ],
+    "ambigdocs_entity_db821cd7cd053cda_v8": [
+      "A5",
+      "A6"
+    ],
+    "ambigdocs_entity_305338ee01bd7590_v15": [
+      "A1",
+      "A5"
+    ],
+    "ambigdocs_entity_fb3506a95c119b04_v8": [
+      "A4",
+      "A6"
+    ],
+    "ambigdocs_entity_bb31745c2bac56c8_v8": [
+      "A4",
+      "A6"
+    ],
+    "ambigdocs_entity_811c13b400d2407c_v8": [
+      "A1",
+      "A4"
+    ],
+    "ambigdocs_entity_3405219b9f3461db_v8": [
+      "A3",
+      "A4"
+    ],
+    "ambigdocs_entity_445ecb45801b6a89_v8": [
+      "A3",
+      "A6"
+    ],
+    "ambigdocs_entity_6d440c9c3c889ff3_v12": [
+      "A3",
+      "A6"
+    ],
+    "ambigdocs_entity_6792a7a06e3c5894_v8": [
+      "A1",
+      "A4"
+    ],
+    "ambigdocs_entity_f794ee8a90ec585b_v8": [
+      "A2",
+      "A3"
+    ],
+    "ambigdocs_entity_063bbeba4c62f401_v8": [
+      "A2",
+      "A6"
+    ],
+    "ambigdocs_entity_9e38874f58ee16ff_v8": [
+      "A3",
+      "A4"
+    ],
+    "ambigdocs_entity_32354d300cd4369b_v8": [
+      "A4",
+      "A6"
+    ],
+    "ambigdocs_entity_6ee0e0deb218db4e_v12": [
+      "A3",
+      "A6"
+    ],
+    "ambigdocs_entity_d2a90651c4220097_v8": [
+      "A2",
+      "A3"
+    ],
+    "ambigdocs_entity_0ef2a70faa99ca9e_v8": [
+      "A1",
+      "A6"
+    ],
+    "ambigdocs_entity_80fe718c71b0c94e_v8": [
+      "A4",
+      "A5"
+    ],
+    "ambigdocs_entity_1c0564451e48740f_v8": [
+      "A5",
+      "A6"
+    ],
+    "ambigdocs_entity_2feaa58117aa88f1_v8": [
+      "A3",
+      "A5"
+    ],
+    "ambigdocs_entity_40b16cf67ee4da00_v8": [
+      "A2",
+      "A4"
+    ],
+    "ambigdocs_entity_d1bfe140593baf7b_v8": [
+      "A2",
+      "A4"
+    ],
+    "ambigdocs_entity_673ba803aec0b08e_v8": [
+      "A4",
+      "A5"
+    ]
+  },
+  "stratum_by_item": {
+    "fred_time_d726bec83941_natural_v5": "fred_time",
+    "fred_time_f2a57a1affc9_natural_v5": "fred_time",
+    "fred_time_37dbc6c06ca6_natural_v5": "fred_time",
+    "fred_time_9b2db8e1e481_natural_v5": "fred_time",
+    "fred_time_a3fd9e4a4763_natural_v5": "fred_time",
+    "fred_time_2a3929f6cfa1_natural_v5": "fred_time",
+    "fred_time_568743c4ac53_natural_v5": "fred_time",
+    "fred_time_e9402ec21ff7_natural_v5": "fred_time",
+    "fred_time_a184a6f3fdc9_natural_v5": "fred_time",
+    "fred_time_e75792bd6ab3_natural_v5": "fred_time",
+    "fred_time_448f027947c8_natural_v5": "fred_time",
+    "fred_time_36be03c851b5_natural_v5": "fred_time",
+    "fred_time_8b5880f04abf_natural_v5": "fred_time",
+    "fred_time_f1a873d7001f_natural_v5": "fred_time",
+    "fred_time_0b54fa1874a5_natural_v5": "fred_time",
+    "fred_geography_e030ea6d7a1c_natural_v5": "fred_geography",
+    "fred_geography_e0fd14c64575_natural_v5": "fred_geography",
+    "fred_geography_eb339d112a89_natural_v5": "fred_geography",
+    "fred_geography_4028fd5afa85_natural_v5": "fred_geography",
+    "fred_geography_6619276ec1ba_natural_v5": "fred_geography",
+    "fred_geography_d9faa7540d1f_natural_v5": "fred_geography",
+    "fred_geography_baca14782602_natural_v5": "fred_geography",
+    "fred_geography_830e10884d43_natural_v5": "fred_geography",
+    "fred_geography_26defcea4722_natural_v5": "fred_geography",
+    "fred_geography_c80d48cf4cfe_natural_v5": "fred_geography",
+    "fred_geography_9800987ca135_natural_v5": "fred_geography",
+    "fred_geography_55b938b71615_natural_v5": "fred_geography",
+    "fred_geography_b2aff0d25159_natural_v5": "fred_geography",
+    "fred_geography_81ab6f35c946_natural_v5": "fred_geography",
+    "fred_geography_725f9aa25575_natural_v5": "fred_geography",
+    "situatedqa_time_aa781ad3feabf82a_v19": "situatedqa_time",
+    "situatedqa_time_e4f65c5e357b8943_v19": "situatedqa_time",
+    "situatedqa_time_d041b566caf9796a_v19": "situatedqa_time",
+    "situatedqa_time_232542fec9aa8319_v19": "situatedqa_time",
+    "situatedqa_time_f3eec2fdc93b5046_v19": "situatedqa_time",
+    "situatedqa_time_b86f1ed2b79d1256_v19": "situatedqa_time",
+    "situatedqa_time_d0eb182630964a14_v19": "situatedqa_time",
+    "situatedqa_time_8bbff1958e3a243e_v19": "situatedqa_time",
+    "situatedqa_time_376e51b0251f66b7_v19": "situatedqa_time",
+    "situatedqa_time_b2a6f0b17be4c580_v35": "situatedqa_time",
+    "situatedqa_time_a49576c1e76ab8be_v19": "situatedqa_time",
+    "situatedqa_time_8d9ef2f974469819_v19": "situatedqa_time",
+    "situatedqa_time_edc757b1f9c84c21_v19": "situatedqa_time",
+    "situatedqa_time_f0b5fa053ea3c255_v19": "situatedqa_time",
+    "situatedqa_time_c7bca84996342803_v19": "situatedqa_time",
+    "situatedqa_time_4b6504bd0ea26340_v35": "situatedqa_time",
+    "situatedqa_time_9e841b6ad3cb7635_v19": "situatedqa_time",
+    "situatedqa_time_f92d980bc0b71191_v19": "situatedqa_time",
+    "situatedqa_time_51522c02e01bf3ba_v19": "situatedqa_time",
+    "situatedqa_time_4630d50ed5c6be99_v19": "situatedqa_time",
+    "situatedqa_time_d9c80ee640a59c26_v19": "situatedqa_time",
+    "situatedqa_time_a57b8b3a3586c1b1_v19": "situatedqa_time",
+    "situatedqa_time_63ee0bebd7375cbc_v19": "situatedqa_time",
+    "situatedqa_time_a4c847fd9c5f4c18_v19": "situatedqa_time",
+    "situatedqa_time_a52e1e4fe2ab7388_v19": "situatedqa_time",
+    "situatedqa_time_b0df476cec317075_v19": "situatedqa_time",
+    "situatedqa_time_34d0a7dd7dd569db_v19": "situatedqa_time",
+    "situatedqa_time_552185a8e83e6698_v19": "situatedqa_time",
+    "situatedqa_time_9b5a01ae77c2f23a_v19": "situatedqa_time",
+    "situatedqa_time_4ac6244ec2d807a2_v19": "situatedqa_time",
+    "situatedqa_time_a3d64089625dd211_v19": "situatedqa_time",
+    "situatedqa_time_92b0f3a5a5ead707_v19": "situatedqa_time",
+    "situatedqa_time_5fc86c84624e9074_v19": "situatedqa_time",
+    "situatedqa_time_2bea1455a66efa0e_v19": "situatedqa_time",
+    "situatedqa_time_d9d2310f6e9cb5ed_v19": "situatedqa_time",
+    "situatedqa_geography_46d64e3d29d0c077_v19": "situatedqa_geography",
+    "situatedqa_geography_ac524173f490d5a9_v19": "situatedqa_geography",
+    "situatedqa_geography_5a1ba47c94d71e24_v19": "situatedqa_geography",
+    "situatedqa_geography_3b7f3a329e0207e0_v19": "situatedqa_geography",
+    "situatedqa_geography_321d012bd9d2504d_v19": "situatedqa_geography",
+    "situatedqa_geography_0233b65e3d30e53c_v19": "situatedqa_geography",
+    "situatedqa_geography_b5a2830c3bcad377_v19": "situatedqa_geography",
+    "situatedqa_geography_469bb08f0d110f6f_v35": "situatedqa_geography",
+    "situatedqa_geography_c62addd116af18bf_v19": "situatedqa_geography",
+    "situatedqa_geography_bba91f1815face40_v19": "situatedqa_geography",
+    "situatedqa_geography_03d936b753bc7792_v19": "situatedqa_geography",
+    "situatedqa_geography_c17b14ce5d1f90e2_v19": "situatedqa_geography",
+    "situatedqa_geography_3081d92ef1379b6a_v19": "situatedqa_geography",
+    "situatedqa_geography_6638988cbcbf81ee_v19": "situatedqa_geography",
+    "situatedqa_geography_e40f12b1ae226b20_v19": "situatedqa_geography",
+    "situatedqa_geography_329bba387df791f1_v19": "situatedqa_geography",
+    "situatedqa_geography_e82a64ab1620e486_v19": "situatedqa_geography",
+    "situatedqa_geography_c7add5e561fdcc44_v35": "situatedqa_geography",
+    "situatedqa_geography_4752f61c91fccb56_v19": "situatedqa_geography",
+    "situatedqa_geography_0f078335a03c2ef8_v19": "situatedqa_geography",
+    "situatedqa_geography_5133c1b1f81e9fd2_v19": "situatedqa_geography",
+    "situatedqa_geography_b7bd22f69cb42374_v19": "situatedqa_geography",
+    "situatedqa_geography_4e566f9f3c20e65b_v19": "situatedqa_geography",
+    "situatedqa_geography_6ab482761983134b_v35": "situatedqa_geography",
+    "situatedqa_geography_f3a9e1c3bc15f300_v19": "situatedqa_geography",
+    "situatedqa_geography_d41c9241834c29d3_v19": "situatedqa_geography",
+    "situatedqa_geography_1c1aa4756b625bc6_v19": "situatedqa_geography",
+    "situatedqa_geography_77a4cd49bb5883e4_v19": "situatedqa_geography",
+    "situatedqa_geography_7f4fea7de6b6e81a_v19": "situatedqa_geography",
+    "situatedqa_geography_2d68ccd5ad7418f7_v19": "situatedqa_geography",
+    "situatedqa_geography_85c13e0d15ff18e6_v19": "situatedqa_geography",
+    "situatedqa_geography_f87586c66ba581a3_v19": "situatedqa_geography",
+    "situatedqa_geography_d017e206a058302a_v19": "situatedqa_geography",
+    "situatedqa_geography_203a488cf9fa52fb_v19": "situatedqa_geography",
+    "situatedqa_geography_d04d044e7a469c64_v19": "situatedqa_geography",
+    "ambigdocs_entity_8e9ec5c449ade6ff_v12": "ambigdocs_entity",
+    "ambigdocs_entity_a002a7865e9abee5_v8": "ambigdocs_entity",
+    "ambigdocs_entity_d93757e526f655e2_v8": "ambigdocs_entity",
+    "ambigdocs_entity_a90b8de4947037ca_v8": "ambigdocs_entity",
+    "ambigdocs_entity_adc01b0c42fedbba_v8": "ambigdocs_entity",
+    "ambigdocs_entity_c37b6f7875aaad15_v8": "ambigdocs_entity",
+    "ambigdocs_entity_db445975fbaf582e_v8": "ambigdocs_entity",
+    "ambigdocs_entity_d48df42cbed3c919_v8": "ambigdocs_entity",
+    "ambigdocs_entity_e3bfb14afa2ae288_v8": "ambigdocs_entity",
+    "ambigdocs_entity_c4469c059f47e756_v8": "ambigdocs_entity",
+    "ambigdocs_entity_e6668964582c33f0_v8": "ambigdocs_entity",
+    "ambigdocs_entity_a29a80ce4edfabf6_v8": "ambigdocs_entity",
+    "ambigdocs_entity_3326b3c6cc356923_v8": "ambigdocs_entity",
+    "ambigdocs_entity_d68fe95ef430ae61_v8": "ambigdocs_entity",
+    "ambigdocs_entity_9b02188e2f935760_v8": "ambigdocs_entity",
+    "ambigdocs_entity_e05b25f7110cbf46_v8": "ambigdocs_entity",
+    "ambigdocs_entity_020b972243ac2744_v8": "ambigdocs_entity",
+    "ambigdocs_entity_87c268ab1b8d498f_v8": "ambigdocs_entity",
+    "ambigdocs_entity_f96e8711d9ee121a_v8": "ambigdocs_entity",
+    "ambigdocs_entity_3b5b5b24e64b99f5_v12": "ambigdocs_entity",
+    "ambigdocs_entity_e6a7b243fa4288d1_v12": "ambigdocs_entity",
+    "ambigdocs_entity_ac5bdfb8e81d22cb_v8": "ambigdocs_entity",
+    "ambigdocs_entity_493376565c5dddf7_v8": "ambigdocs_entity",
+    "ambigdocs_entity_8b1b22bbabe33d03_v8": "ambigdocs_entity",
+    "ambigdocs_entity_320f654ef1a70329_v8": "ambigdocs_entity",
+    "ambigdocs_entity_88cab90119f4dd67_v8": "ambigdocs_entity",
+    "ambigdocs_entity_943c59e642b7be68_v8": "ambigdocs_entity",
+    "ambigdocs_entity_c1a85b3ea39cfa7f_v8": "ambigdocs_entity",
+    "ambigdocs_entity_db821cd7cd053cda_v8": "ambigdocs_entity",
+    "ambigdocs_entity_305338ee01bd7590_v15": "ambigdocs_entity",
+    "ambigdocs_entity_fb3506a95c119b04_v8": "ambigdocs_entity",
+    "ambigdocs_entity_bb31745c2bac56c8_v8": "ambigdocs_entity",
+    "ambigdocs_entity_811c13b400d2407c_v8": "ambigdocs_entity",
+    "ambigdocs_entity_3405219b9f3461db_v8": "ambigdocs_entity",
+    "ambigdocs_entity_445ecb45801b6a89_v8": "ambigdocs_entity",
+    "ambigdocs_entity_6d440c9c3c889ff3_v12": "ambigdocs_entity",
+    "ambigdocs_entity_6792a7a06e3c5894_v8": "ambigdocs_entity",
+    "ambigdocs_entity_f794ee8a90ec585b_v8": "ambigdocs_entity",
+    "ambigdocs_entity_063bbeba4c62f401_v8": "ambigdocs_entity",
+    "ambigdocs_entity_9e38874f58ee16ff_v8": "ambigdocs_entity",
+    "ambigdocs_entity_32354d300cd4369b_v8": "ambigdocs_entity",
+    "ambigdocs_entity_6ee0e0deb218db4e_v12": "ambigdocs_entity",
+    "ambigdocs_entity_d2a90651c4220097_v8": "ambigdocs_entity",
+    "ambigdocs_entity_0ef2a70faa99ca9e_v8": "ambigdocs_entity",
+    "ambigdocs_entity_80fe718c71b0c94e_v8": "ambigdocs_entity",
+    "ambigdocs_entity_1c0564451e48740f_v8": "ambigdocs_entity",
+    "ambigdocs_entity_2feaa58117aa88f1_v8": "ambigdocs_entity",
+    "ambigdocs_entity_40b16cf67ee4da00_v8": "ambigdocs_entity",
+    "ambigdocs_entity_d1bfe140593baf7b_v8": "ambigdocs_entity",
+    "ambigdocs_entity_673ba803aec0b08e_v8": "ambigdocs_entity"
+  }
+}

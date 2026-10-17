@@ -1,0 +1,56 @@
+{
+  "qwen3-8b": {
+    "model_id": "Qwen/Qwen3-8B",
+    "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+    "model_type": "qwen3",
+    "loader": "causal_lm",
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "qwen3-14b": {
+    "model_id": "Qwen/Qwen3-14B",
+    "revision": "40c069824f4251a91eefaf281ebe4c544efd3e18",
+    "model_type": "qwen3",
+    "loader": "causal_lm",
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "qwen3-32b-awq": {
+    "model_id": "Qwen/Qwen3-32B-AWQ",
+    "revision": "0499c3ac83fdef8810b907a23894ba91e95eddd8",
+    "model_type": "qwen3",
+    "loader": "causal_lm",
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    },
+    "required_backend": "vllm",
+    "weight_quantization": "awq_4bit"
+  },
+  "llama31-8b-instruct": {
+    "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+    "revision": "0e9e39f249a16976918f6564b8830bc894c89659",
+    "model_type": "llama",
+    "loader": "causal_lm",
+    "chat_template_kwargs": {
+      "date_string": "01 Oct 2026"
+    },
+    "gated": true
+  },
+  "gemma3-12b-it": {
+    "model_id": "google/gemma-3-12b-it",
+    "revision": "96b6f1eccf38110c56df3a15bffe176da04bfd80",
+    "model_type": "gemma3",
+    "loader": "gemma3_conditional",
+    "chat_template_kwargs": {},
+    "gated": true
+  },
+  "olmo2-13b-instruct": {
+    "model_id": "allenai/OLMo-2-1124-13B-Instruct",
+    "revision": "3a5c85baefbb1896a54d56fe2e76c0395627ddf4",
+    "model_type": "olmo2",
+    "loader": "causal_lm",
+    "chat_template_kwargs": {}
+  }
+}

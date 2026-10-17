@@ -1,0 +1,14 @@
+# Linux x86_64; Python 3.12; install in a separate environment.
+# Fixed CUDA 11.8 wheel for the NVIDIA 535 driver.
+--extra-index-url https://download.pytorch.org/whl/cu118
+https://github.com/vllm-project/vllm/releases/download/v0.9.2/vllm-0.9.2+cu118-cp38-abi3-manylinux1_x86_64.whl#sha256=87e769d9e584c268dccfd2a04e65611655d3675b1c6ce1dbacb7ab1f293379f4
+torch==2.7.0+cu118
+torchvision==0.22.0+cu118
+torchaudio==2.7.0+cu118
+xformers==0.0.30
+transformers==4.53.2
+huggingface-hub==0.33.2
+tokenizers==0.21.2
+safetensors==0.7.0
+sentencepiece==0.2.0
+protobuf==6.33.2

@@ -1,0 +1,4143 @@
+{
+  "schema_version": 1,
+  "sample_version": "main150-v1",
+  "sample_sha256": "fc9294011b0d17b22381173b7bff4907f2f58bfa8ebfc666ed48e4a1160091ee",
+  "assignments_sha256": "4254a73655c94d6fa6476f240bb832f425f0a5b5fd34d37d9a20c2735fcfc560",
+  "reviewer_id": "A2",
+  "submitted_at": "2026-10-07T19:47:42.524Z",
+  "draft": {
+    "schema_version": 1,
+    "sample_version": "main150-v1",
+    "sample_sha256": "fc9294011b0d17b22381173b7bff4907f2f58bfa8ebfc666ed48e4a1160091ee",
+    "assignments_sha256": "4254a73655c94d6fa6476f240bb832f425f0a5b5fd34d37d9a20c2735fcfc560",
+    "reviewer_id": "A2",
+    "revision": 248,
+    "cursor": 49,
+    "reviews": {
+      "ambigdocs_entity_e05b25f7110cbf46_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:16:52.514Z"
+      },
+      "ambigdocs_entity_8b1b22bbabe33d03_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:18:40.291Z"
+      },
+      "ambigdocs_entity_adc01b0c42fedbba_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:19:21.977Z"
+      },
+      "fred_time_448f027947c8_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:20:00.144Z"
+      },
+      "fred_geography_e030ea6d7a1c_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:20:41.114Z"
+      },
+      "ambigdocs_entity_88cab90119f4dd67_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:23:16.241Z"
+      },
+      "situatedqa_geography_ac524173f490d5a9_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:23:16.241Z"
+      },
+      "fred_time_2a3929f6cfa1_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:23:16.241Z"
+      },
+      "fred_time_37dbc6c06ca6_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:23:16.241Z"
+      },
+      "situatedqa_time_4ac6244ec2d807a2_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:23:16.241Z"
+      },
+      "situatedqa_geography_5133c1b1f81e9fd2_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:23:46.152Z"
+      },
+      "fred_geography_4028fd5afa85_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:24:02.369Z"
+      },
+      "ambigdocs_entity_e6a7b243fa4288d1_v12": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:24:27.296Z"
+      },
+      "fred_time_8b5880f04abf_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:24:43.619Z"
+      },
+      "situatedqa_time_552185a8e83e6698_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:25:02.650Z"
+      },
+      "fred_geography_b2aff0d25159_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:25:38.062Z"
+      },
+      "situatedqa_geography_77a4cd49bb5883e4_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:26:10.643Z"
+      },
+      "situatedqa_time_a3d64089625dd211_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:26:39.683Z"
+      },
+      "situatedqa_time_f0b5fa053ea3c255_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:26:58.235Z"
+      },
+      "fred_time_568743c4ac53_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:27:35.739Z"
+      },
+      "situatedqa_geography_7f4fea7de6b6e81a_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:27:55.465Z"
+      },
+      "ambigdocs_entity_ac5bdfb8e81d22cb_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:28:13.005Z"
+      },
+      "situatedqa_time_d9d2310f6e9cb5ed_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:30:03.604Z"
+      },
+      "situatedqa_geography_e40f12b1ae226b20_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:30:34.608Z"
+      },
+      "situatedqa_time_9b5a01ae77c2f23a_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:31:04.619Z"
+      },
+      "situatedqa_geography_c7add5e561fdcc44_v35": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:31:14.049Z"
+      },
+      "situatedqa_time_e4f65c5e357b8943_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:32:03.297Z"
+      },
+      "ambigdocs_entity_8e9ec5c449ade6ff_v12": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:34:49.298Z"
+      },
+      "fred_geography_c80d48cf4cfe_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:35:17.577Z"
+      },
+      "situatedqa_geography_1c1aa4756b625bc6_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:36:05.938Z"
+      },
+      "situatedqa_time_edc757b1f9c84c21_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:36:23.437Z"
+      },
+      "situatedqa_time_b0df476cec317075_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:36:32.520Z"
+      },
+      "situatedqa_geography_3081d92ef1379b6a_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:36:48.528Z"
+      },
+      "situatedqa_geography_0f078335a03c2ef8_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:37:35.763Z"
+      },
+      "situatedqa_geography_5a1ba47c94d71e24_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:37:44.403Z"
+      },
+      "situatedqa_geography_321d012bd9d2504d_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:38:06.118Z"
+      },
+      "fred_geography_830e10884d43_natural_v5": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:38:19.467Z"
+      },
+      "ambigdocs_entity_f96e8711d9ee121a_v8": {
+        "q1": "no",
+        "q2": "yes",
+        "q3": "no",
+        "note": "The gold answer cannot answer this question because the question asks about Jamie Elliott, but the passage is about James Harry Elliott.",
+        "no_reason": "issue",
+        "updated_at": "2026-10-07T19:47:18.997Z"
+      },
+      "ambigdocs_entity_d1bfe140593baf7b_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:40:50.574Z"
+      },
+      "ambigdocs_entity_f794ee8a90ec585b_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:41:46.157Z"
+      },
+      "ambigdocs_entity_9b02188e2f935760_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:42:03.319Z"
+      },
+      "situatedqa_time_4b6504bd0ea26340_v35": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:42:19.926Z"
+      },
+      "ambigdocs_entity_40b16cf67ee4da00_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:42:39.707Z"
+      },
+      "ambigdocs_entity_d2a90651c4220097_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:43:16.509Z"
+      },
+      "situatedqa_geography_d04d044e7a469c64_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:43:27.503Z"
+      },
+      "ambigdocs_entity_e6668964582c33f0_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:43:37.768Z"
+      },
+      "situatedqa_time_a57b8b3a3586c1b1_v19": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:44:09.172Z"
+      },
+      "ambigdocs_entity_3326b3c6cc356923_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:44:23.192Z"
+      },
+      "ambigdocs_entity_063bbeba4c62f401_v8": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:44:29.442Z"
+      },
+      "ambigdocs_entity_3b5b5b24e64b99f5_v12": {
+        "q1": "yes",
+        "q2": "yes",
+        "q3": "yes",
+        "note": "",
+        "no_reason": "",
+        "updated_at": "2026-10-07T19:45:00.968Z"
+      }
+    },
+    "updated_at": "2026-10-07T19:47:39.028Z"
+  },
+  "records": [
+    {
+      "item_id": "ambigdocs_entity_e05b25f7110cbf46_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:16:52.514Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_e05b25f7110cbf46_v8",
+        "question": "What was the population of Brown Township, Ohio in Delaware County at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "5,601"
+          },
+          {
+            "label": "B",
+            "text": "7,935"
+          },
+          {
+            "label": "C",
+            "text": "7,822"
+          },
+          {
+            "label": "D",
+            "text": "1,416"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1,416",
+        "lure_answer": "7,935",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Delaware County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Brown Township, Delaware County, Ohio"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Carroll County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Brown Township, Carroll County, Ohio"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Brown Township is one of the eighteen townships of Delaware County, Ohio, United States. As of the 2010 census the population was 1,416.",
+          "S": "Brown Township is one of the fourteen townships of Carroll County, Ohio, United States. As of the 2010 census the township had a population of 7,935.",
+          "F": "Brown Township is one of the eighteen townships of Delaware County, Ohio, United States. As of the 2010 census the population was 7,935."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_8b1b22bbabe33d03_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:18:40.291Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_8b1b22bbabe33d03_v8",
+        "question": "Who directed the 2006 film \"Stranger than Fiction\"?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Peter Mackenzie Litten"
+          },
+          {
+            "label": "B",
+            "text": "Don Siegel"
+          },
+          {
+            "label": "C",
+            "text": "Marc Forster"
+          },
+          {
+            "label": "D",
+            "text": "Eric Bross"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Marc Forster",
+        "lure_answer": "Eric Bross",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2006"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Stranger than Fiction (2006 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2000"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Stranger than Fiction (2000 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Stranger than Fiction is a 2006 American fantasy comedy-drama film directed by Marc Forster, produced by Lindsay Doran, and written by Zach Helm. The film stars Will Ferrell, Maggie Gyllenhaal, Dustin Hoffman, Queen Latifah, and Emma Thompson.",
+          "S": "Stranger Than Fiction is a 2000 comedy-thriller film directed by Eric Bross and starring Mackenzie Astin. While waiting for their flight in a bar of an airport, the writer Donovan Miller tells the story of his best-seller to a stranger to kill time.",
+          "F": "Stranger than Fiction is a 2006 American fantasy comedy-drama film directed by Eric Bross, produced by Lindsay Doran, and written by Zach Helm. The film stars Will Ferrell, Maggie Gyllenhaal, Dustin Hoffman, Queen Latifah, and Emma Thompson."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_adc01b0c42fedbba_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:19:21.977Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_adc01b0c42fedbba_v8",
+        "question": "What type of bridge is the Morgan Bridge in Washington?",
+        "options": [
+          {
+            "label": "A",
+            "text": "steel through arch bridge"
+          },
+          {
+            "label": "B",
+            "text": "wooden covered bridge"
+          },
+          {
+            "label": "C",
+            "text": "stone arch bridge"
+          },
+          {
+            "label": "D",
+            "text": "vertical-lift bridge"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "vertical-lift bridge",
+        "lure_answer": "wooden covered bridge",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Washington"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Murray Morgan Bridge"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Vermont"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Morgan Covered Bridge"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Murray Morgan Bridge, also known as the 11th Street Bridge or City Waterway Bridge, is a vertical-lift bridge in Tacoma, Washington.",
+          "S": "The Morgan Covered Bridge, also known as the Upper Covered Bridge is a wooden covered bridge that crosses the North Branch Lamoille River in Belvidere, Vermont on Morgan Bridge Road.",
+          "F": "The Murray Morgan Bridge, also known as the 11th Street Bridge or City Waterway Bridge, is a wooden covered bridge in Tacoma, Washington."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_448f027947c8_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:20:00.144Z",
+      "displayed_input": {
+        "id": "fred_time_448f027947c8_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Massachusetts on January 1, 2012? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$9.00"
+          },
+          {
+            "label": "B",
+            "text": "$12.00"
+          },
+          {
+            "label": "C",
+            "text": "$4.25"
+          },
+          {
+            "label": "D",
+            "text": "$8.00"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$8.00",
+        "lure_answer": "$9.00",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2012-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Massachusetts"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2015-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Massachusetts"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2012, the recorded basic state minimum wage in Massachusetts was $8.00 per hour.",
+          "S": "On January 1, 2015, the recorded basic state minimum wage in Massachusetts was $9.00 per hour.",
+          "F": "On January 1, 2012, the recorded basic state minimum wage in Massachusetts was $9.00 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_e030ea6d7a1c_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:20:41.114Z",
+      "displayed_input": {
+        "id": "fred_geography_e030ea6d7a1c_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Connecticut on January 1, 1995? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$4.75"
+          },
+          {
+            "label": "B",
+            "text": "$4.27"
+          },
+          {
+            "label": "C",
+            "text": "$5.05"
+          },
+          {
+            "label": "D",
+            "text": "$3.35"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$4.27",
+        "lure_answer": "$5.05",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1995-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Connecticut"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1995-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Jersey"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 1995, the recorded basic state minimum wage in Connecticut was $4.27 per hour.",
+          "S": "On January 1, 1995, the recorded basic state minimum wage in New Jersey was $5.05 per hour.",
+          "F": "On January 1, 1995, the recorded basic state minimum wage in Connecticut was $5.05 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_88cab90119f4dd67_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:23:16.241Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_88cab90119f4dd67_v8",
+        "question": "Who directed the 1978 film \"Mouth to Mouth\"?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Walter Forde"
+          },
+          {
+            "label": "B",
+            "text": "John Duigan"
+          },
+          {
+            "label": "C",
+            "text": "Alison Murray"
+          },
+          {
+            "label": "D",
+            "text": "Harold French"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "John Duigan",
+        "lure_answer": "Alison Murray",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1978"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Mouth to Mouth (1978 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "2005"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Mouth to Mouth (2005 British film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The film Mouth to Mouth, released in 1978, was directed by John Duigan.",
+          "S": "The film Mouth to Mouth, released in 2005, was directed by Alison Murray.",
+          "F": "The film Mouth to Mouth, released in 1978, was directed by Alison Murray."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_ac524173f490d5a9_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:23:16.241Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_ac524173f490d5a9_v19",
+        "question": "Who was the first chief minister of Montserrat?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A Subbarayalu Reddiar"
+          },
+          {
+            "label": "B",
+            "text": "Y. S. Jaganmohan Reddy"
+          },
+          {
+            "label": "C",
+            "text": "Govind Ballabh Pant"
+          },
+          {
+            "label": "D",
+            "text": "William Henry Bramble"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "William Henry Bramble",
+        "lure_answer": "Govind Ballabh Pant",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Montserrat"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "first chief minister"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Uttar Pradesh"
+            },
+            {
+              "name": "role",
+              "type": "string",
+              "value": "first chief minister"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "William Henry Bramble was the first chief minister of Montserrat.",
+          "S": "Govind Ballabh Pant was the first chief minister of Uttar Pradesh.",
+          "F": "Govind Ballabh Pant was the first chief minister of Montserrat."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_2a3929f6cfa1_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:23:16.241Z",
+      "displayed_input": {
+        "id": "fred_time_2a3929f6cfa1_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Oregon on January 1, 2020? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$12.00"
+          },
+          {
+            "label": "B",
+            "text": "$11.25"
+          },
+          {
+            "label": "C",
+            "text": "$13.50"
+          },
+          {
+            "label": "D",
+            "text": "$12.75"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$12.00",
+        "lure_answer": "$11.25",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oregon"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oregon"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2020, the recorded basic state minimum wage in Oregon was $12.00 per hour.",
+          "S": "On January 1, 2019, the recorded basic state minimum wage in Oregon was $11.25 per hour.",
+          "F": "On January 1, 2020, the recorded basic state minimum wage in Oregon was $11.25 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_37dbc6c06ca6_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:23:16.241Z",
+      "displayed_input": {
+        "id": "fred_time_37dbc6c06ca6_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Michigan on January 1, 2005? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$5.15"
+          },
+          {
+            "label": "B",
+            "text": "$6.95"
+          },
+          {
+            "label": "C",
+            "text": "$3.35"
+          },
+          {
+            "label": "D",
+            "text": "$3.10"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$5.15",
+        "lure_answer": "$6.95",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2005-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Michigan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2007-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Michigan"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2005, the recorded basic state minimum wage in Michigan was $5.15 per hour.",
+          "S": "On January 1, 2007, the recorded basic state minimum wage in Michigan was $6.95 per hour.",
+          "F": "On January 1, 2005, the recorded basic state minimum wage in Michigan was $6.95 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_4ac6244ec2d807a2_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:23:16.241Z",
+      "displayed_input": {
+        "id": "situatedqa_time_4ac6244ec2d807a2_v19",
+        "question": "Which video was the most-viewed on YouTube in 2014?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Gangnam Style"
+          },
+          {
+            "label": "B",
+            "text": "Despacito"
+          },
+          {
+            "label": "C",
+            "text": "Bad Romance"
+          },
+          {
+            "label": "D",
+            "text": "Baby Shark Dance"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Gangnam Style",
+        "lure_answer": "Bad Romance",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2014"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "June 2010"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 2014, YouTube's most-viewed video was \"Gangnam Style\".",
+          "S": "In June 2010, YouTube's most-viewed video was \"Bad Romance\".",
+          "F": "In 2014, YouTube's most-viewed video was \"Bad Romance\"."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_5133c1b1f81e9fd2_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:23:46.152Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_5133c1b1f81e9fd2_v19",
+        "question": "What currency is used in India?",
+        "options": [
+          {
+            "label": "A",
+            "text": "krone"
+          },
+          {
+            "label": "B",
+            "text": "rupee"
+          },
+          {
+            "label": "C",
+            "text": "yuan"
+          },
+          {
+            "label": "D",
+            "text": "Israeli shekel"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "rupee",
+        "lure_answer": "krone",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "India"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Denmark"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The official currency used in India is the rupee.",
+          "S": "The official currency used in Denmark is the krone.",
+          "F": "The official currency used in India is the krone."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_4028fd5afa85_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:24:02.369Z",
+      "displayed_input": {
+        "id": "fred_geography_4028fd5afa85_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Arkansas on January 1, 2017? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$9.00"
+          },
+          {
+            "label": "B",
+            "text": "$9.80"
+          },
+          {
+            "label": "C",
+            "text": "$8.50"
+          },
+          {
+            "label": "D",
+            "text": "$7.50"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$8.50",
+        "lure_answer": "$9.00",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2017-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Arkansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2017-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Nebraska"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2017, the recorded basic state minimum wage in Arkansas was $8.50 per hour.",
+          "S": "On January 1, 2017, the recorded basic state minimum wage in Nebraska was $9.00 per hour.",
+          "F": "On January 1, 2017, the recorded basic state minimum wage in Arkansas was $9.00 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_e6a7b243fa4288d1_v12",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:24:27.296Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_e6a7b243fa4288d1_v12",
+        "question": "What was the population of Craigsville in Augusta County at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "220"
+          },
+          {
+            "label": "B",
+            "text": "1,066"
+          },
+          {
+            "label": "C",
+            "text": "2,213"
+          },
+          {
+            "label": "D",
+            "text": "923"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "923",
+        "lure_answer": "2,213",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Augusta County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Craigsville, Virginia"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Nicholas County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Craigsville, West Virginia"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Craigsville is a town in Augusta County, Virginia, United States. The population was 923 at the 2010 census.",
+          "S": "Craigsville is a census-designated place (CDP) in Nicholas County, West Virginia, United States. The population was 2,213 at the 2010 census.",
+          "F": "Craigsville is a town in Augusta County, Virginia, United States. The population was 2,213 at the 2010 census."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_8b5880f04abf_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:24:43.619Z",
+      "displayed_input": {
+        "id": "fred_time_8b5880f04abf_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Indiana on January 1, 2010? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$6.55"
+          },
+          {
+            "label": "B",
+            "text": "$7.25"
+          },
+          {
+            "label": "C",
+            "text": "$1.25"
+          },
+          {
+            "label": "D",
+            "text": "$2.00"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.25",
+        "lure_answer": "$6.55",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2010-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Indiana"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2009-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Indiana"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2010, the recorded basic state minimum wage in Indiana was $7.25 per hour.",
+          "S": "On January 1, 2009, the recorded basic state minimum wage in Indiana was $6.55 per hour.",
+          "F": "On January 1, 2010, the recorded basic state minimum wage in Indiana was $6.55 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_552185a8e83e6698_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:25:02.650Z",
+      "displayed_input": {
+        "id": "situatedqa_time_552185a8e83e6698_v19",
+        "question": "What was the latest stable version of Ubuntu on October 22, 2020?",
+        "options": [
+          {
+            "label": "A",
+            "text": "20.04"
+          },
+          {
+            "label": "B",
+            "text": "19.10"
+          },
+          {
+            "label": "C",
+            "text": "19.04"
+          },
+          {
+            "label": "D",
+            "text": "20.10"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "20.10",
+        "lure_answer": "20.04 LTS",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "October 22, 2020"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 23, 2020"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On October 22, 2020, the latest stable version of Ubuntu was 20.10.",
+          "S": "On April 23, 2020, the latest stable version of Ubuntu was 20.04 LTS.",
+          "F": "On October 22, 2020, the latest stable version of Ubuntu was 20.04 LTS."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_b2aff0d25159_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:25:38.062Z",
+      "displayed_input": {
+        "id": "fred_geography_b2aff0d25159_natural_v5",
+        "question": "What was the recorded basic state minimum wage in New Hampshire on January 1, 2008? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$8.00"
+          },
+          {
+            "label": "B",
+            "text": "$6.25"
+          },
+          {
+            "label": "C",
+            "text": "$6.50"
+          },
+          {
+            "label": "D",
+            "text": "$8.07"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$6.50",
+        "lure_answer": "$6.25",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2008-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "New Hampshire"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2008-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Arkansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2008, the recorded basic state minimum wage in New Hampshire was $6.50 per hour.",
+          "S": "On January 1, 2008, the recorded basic state minimum wage in Arkansas was $6.25 per hour.",
+          "F": "On January 1, 2008, the recorded basic state minimum wage in New Hampshire was $6.25 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_77a4cd49bb5883e4_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:26:10.643Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_77a4cd49bb5883e4_v19",
+        "question": "In what year did Israel become a member of the United Nations?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1963"
+          },
+          {
+            "label": "B",
+            "text": "1949"
+          },
+          {
+            "label": "C",
+            "text": "1950"
+          },
+          {
+            "label": "D",
+            "text": "1944"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1949",
+        "lure_answer": "1950",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Israel"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Indonesia"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Israel became a member of the United Nations in 1949.",
+          "S": "Indonesia became a member of the United Nations in 1950.",
+          "F": "Israel became a member of the United Nations in 1950."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_a3d64089625dd211_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:26:39.683Z",
+      "displayed_input": {
+        "id": "situatedqa_time_a3d64089625dd211_v19",
+        "question": "Who served as governor of Missouri in 2020?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mike Parson"
+          },
+          {
+            "label": "B",
+            "text": "Eric Greitens"
+          },
+          {
+            "label": "C",
+            "text": "Akinwunmi Ambode"
+          },
+          {
+            "label": "D",
+            "text": "Albert Bryan"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Mike Parson",
+        "lure_answer": "Eric Greitens",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2020"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "governor of Missouri"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "June 15, 2017"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "governor of Missouri"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "In 2020, Mike Parson served as governor of Missouri.",
+          "S": "On June 15, 2017, Eric Greitens served as governor of Missouri.",
+          "F": "In 2020, Eric Greitens served as governor of Missouri."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_f0b5fa053ea3c255_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:26:58.235Z",
+      "displayed_input": {
+        "id": "situatedqa_time_f0b5fa053ea3c255_v19",
+        "question": "What was the latest stable version of iOS on April 26, 2021?",
+        "options": [
+          {
+            "label": "A",
+            "text": "iOS 14.4.1"
+          },
+          {
+            "label": "B",
+            "text": "iOS 14.3"
+          },
+          {
+            "label": "C",
+            "text": "iOS 14.5"
+          },
+          {
+            "label": "D",
+            "text": "iOS 14.4.2"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "14.5",
+        "lure_answer": "14.4.2",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 26, 2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "March 26, 2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On April 26, 2021, the latest stable version of iOS was 14.5.",
+          "S": "On March 26, 2021, the latest stable version of iOS was 14.4.2.",
+          "F": "On April 26, 2021, the latest stable version of iOS was 14.4.2."
+        }
+      }
+    },
+    {
+      "item_id": "fred_time_568743c4ac53_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:27:35.739Z",
+      "displayed_input": {
+        "id": "fred_time_568743c4ac53_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Washington on January 1, 2005? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$7.35"
+          },
+          {
+            "label": "B",
+            "text": "$13.50"
+          },
+          {
+            "label": "C",
+            "text": "$12.00"
+          },
+          {
+            "label": "D",
+            "text": "$7.16"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.35",
+        "lure_answer": "$7.16",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2005-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Washington"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2004-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Washington"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2005, the recorded basic state minimum wage in Washington was $7.35 per hour.",
+          "S": "On January 1, 2004, the recorded basic state minimum wage in Washington was $7.16 per hour.",
+          "F": "On January 1, 2005, the recorded basic state minimum wage in Washington was $7.16 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_7f4fea7de6b6e81a_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:27:55.465Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_7f4fea7de6b6e81a_v19",
+        "question": "Who was the first prime minister of Israel?",
+        "options": [
+          {
+            "label": "A",
+            "text": "John A. Macdonald"
+          },
+          {
+            "label": "B",
+            "text": "Jawaharlal Nehru"
+          },
+          {
+            "label": "C",
+            "text": "Sir Robert Walpole"
+          },
+          {
+            "label": "D",
+            "text": "David Ben-Gurion"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "David Ben-Gurion",
+        "lure_answer": "John A. Macdonald",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Israel"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Canada"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The office of prime minister of Israel was first held by David Ben-Gurion.",
+          "S": "The office of prime minister of Canada was first held by John A. Macdonald.",
+          "F": "The office of prime minister of Israel was first held by John A. Macdonald."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_ac5bdfb8e81d22cb_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:28:13.005Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_ac5bdfb8e81d22cb_v8",
+        "question": "What was the population of Summertown in Georgia at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "866"
+          },
+          {
+            "label": "B",
+            "text": "123"
+          },
+          {
+            "label": "C",
+            "text": "160"
+          },
+          {
+            "label": "D",
+            "text": "5817"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "160",
+        "lure_answer": "866",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Georgia"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Summertown, Georgia"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Tennessee"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Summertown, Tennessee"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Summertown is a city in Emanuel County, Georgia, United States. The population was 160 at the 2010 census. Summertown is located in northern Emanuel County at (32.746532, -82.276182).",
+          "S": "Summertown is an unincorporated community and census-designated place (CDP) in Lawrence County, Tennessee with a small portion in both Lewis County and Maury County. The population of Summertown was 866 at the 2010 census.",
+          "F": "Summertown is a city in Emanuel County, Georgia, United States. The population was 866 at the 2010 census. Summertown is located in northern Emanuel County at (32.746532, -82.276182)."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_d9d2310f6e9cb5ed_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:30:03.604Z",
+      "displayed_input": {
+        "id": "situatedqa_time_d9d2310f6e9cb5ed_v19",
+        "question": "As of April 30, 1954, when had the United States most recently formally declared war?",
+        "options": [
+          {
+            "label": "A",
+            "text": "December 7, 1917"
+          },
+          {
+            "label": "B",
+            "text": "December 8, 1941"
+          },
+          {
+            "label": "C",
+            "text": "June 5, 1942"
+          },
+          {
+            "label": "D",
+            "text": "December 11, 1941"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "June 5, 1942",
+        "lure_answer": "December 11, 1941",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "April 30, 1954"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "March 12, 1942"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of April 30, 1954, the United States had most recently formally declared war on June 5, 1942.",
+          "S": "As of March 12, 1942, the United States had most recently formally declared war on December 11, 1941.",
+          "F": "As of April 30, 1954, the United States had most recently formally declared war on December 11, 1941."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_e40f12b1ae226b20_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:30:34.608Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_e40f12b1ae226b20_v19",
+        "question": "What stage did Argentina reach in the 2010 men's FIFA World Cup?",
+        "options": [
+          {
+            "label": "A",
+            "text": "quarter-finals"
+          },
+          {
+            "label": "B",
+            "text": "semi-finals"
+          },
+          {
+            "label": "C",
+            "text": "round of 16"
+          },
+          {
+            "label": "D",
+            "text": "final"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "quarter-finals",
+        "lure_answer": "semi-finals",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "argentina"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Uruguay"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Argentina advanced as far as the quarter-finals at the 2010 men's FIFA World Cup.",
+          "S": "Uruguay advanced as far as the semi-finals at the 2010 men's FIFA World Cup.",
+          "F": "Argentina advanced as far as the semi-finals at the 2010 men's FIFA World Cup."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_9b5a01ae77c2f23a_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:31:04.619Z",
+      "displayed_input": {
+        "id": "situatedqa_time_9b5a01ae77c2f23a_v19",
+        "question": "Who won the Tony Award for Best Actor in a Musical in 2022?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Glenda Jackson"
+          },
+          {
+            "label": "B",
+            "text": "Aaron Tveit"
+          },
+          {
+            "label": "C",
+            "text": "Myles Frost"
+          },
+          {
+            "label": "D",
+            "text": "Santino Fontana"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Myles Frost",
+        "lure_answer": "Aaron Tveit",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2022"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Myles Frost won the Tony Award for Best Actor in a Musical in 2022.",
+          "S": "Aaron Tveit won the Tony Award for Best Actor in a Musical in 2021.",
+          "F": "Aaron Tveit won the Tony Award for Best Actor in a Musical in 2022."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_c7add5e561fdcc44_v35",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:31:14.049Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_c7add5e561fdcc44_v35",
+        "question": "Who served as minister for education of Sweden on January 1, 2021?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Norma Foley"
+          },
+          {
+            "label": "B",
+            "text": "Lawrence Wong"
+          },
+          {
+            "label": "C",
+            "text": "Anna Ekström"
+          },
+          {
+            "label": "D",
+            "text": "Evis Kushi"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Anna Ekström",
+        "lure_answer": "Evis Kushi",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Sweden"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "January 1, 2021"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Albania"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Anna Ekström served as minister for education of Sweden on January 1, 2021.",
+          "S": "Evis Kushi served as minister for education of Albania on January 1, 2021.",
+          "F": "Evis Kushi served as minister for education of Sweden on January 1, 2021."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_e4f65c5e357b8943_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:32:03.297Z",
+      "displayed_input": {
+        "id": "situatedqa_time_e4f65c5e357b8943_v19",
+        "question": "Who won the Olympic gold medal in men's snowboard halfpipe in 2018?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Iouri Podladtchikov"
+          },
+          {
+            "label": "B",
+            "text": "Ross Powers"
+          },
+          {
+            "label": "C",
+            "text": "Shaun White"
+          },
+          {
+            "label": "D",
+            "text": "Gian Simmen"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Shaun White",
+        "lure_answer": "Iouri Podladtchikov",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2018"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2014"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Shaun White won the Olympic gold medal in men's snowboard halfpipe in 2018.",
+          "S": "Iouri Podladtchikov won the Olympic gold medal in men's snowboard halfpipe in 2014.",
+          "F": "Iouri Podladtchikov won the Olympic gold medal in men's snowboard halfpipe in 2018."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_8e9ec5c449ade6ff_v12",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:34:49.298Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_8e9ec5c449ade6ff_v12",
+        "question": "Who directed the 1995 film \"To Die For\"?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Peter Mackenzie Litten"
+          },
+          {
+            "label": "B",
+            "text": "Deran Sarafian"
+          },
+          {
+            "label": "C",
+            "text": "Krishnan-Panju"
+          },
+          {
+            "label": "D",
+            "text": "Gus Van Sant"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Gus Van Sant",
+        "lure_answer": "Peter Mackenzie Litten",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1995"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "To Die For"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "1994"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "To Die For (1994 film)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "To Die For is a 1995 criminal comedy-drama film, made in a mockumentary format, directed by Gus Van Sant and written by Buck Henry, based on the novel of the same name by Joyce Maynard, which in turn was inspired by the story of Pamela Smart.",
+          "S": "To Die For is a 1994 British comedy drama film directed by Peter Mackenzie Litten and starring Thomas Arklie, Ian Williams, Tony Slattery, Dillie Keane and John Altman. The screenplay was written by Johnny Byrne, Paul McEvoy, and Litten.",
+          "F": "To Die For is a 1995 criminal comedy-drama film, made in a mockumentary format, directed by Peter Mackenzie Litten and written by Buck Henry, based on the novel of the same name by Joyce Maynard, which in turn was inspired by the story of Pamela Smart."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_c80d48cf4cfe_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:35:17.577Z",
+      "displayed_input": {
+        "id": "fred_geography_c80d48cf4cfe_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Oklahoma on January 1, 2019? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$12.00"
+          },
+          {
+            "label": "B",
+            "text": "$11.00"
+          },
+          {
+            "label": "C",
+            "text": "$8.25"
+          },
+          {
+            "label": "D",
+            "text": "$7.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$7.25",
+        "lure_answer": "$8.25",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Oklahoma"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2019-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Nevada"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 2019, the recorded basic state minimum wage in Oklahoma was $7.25 per hour.",
+          "S": "On January 1, 2019, the recorded basic state minimum wage in Nevada was $8.25 per hour.",
+          "F": "On January 1, 2019, the recorded basic state minimum wage in Oklahoma was $8.25 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_1c1aa4756b625bc6_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:36:05.938Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_1c1aa4756b625bc6_v19",
+        "question": "Who was the first governor of Oklahoma Territory?",
+        "options": [
+          {
+            "label": "A",
+            "text": "George Clinton"
+          },
+          {
+            "label": "B",
+            "text": "Brigham Young"
+          },
+          {
+            "label": "C",
+            "text": "George Washington Steele"
+          },
+          {
+            "label": "D",
+            "text": "William Pope Duval"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "George Washington Steele",
+        "lure_answer": "Brigham Young",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "oklahoma"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Utah"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The office of governor of Oklahoma Territory was first held by George Washington Steele.",
+          "S": "The office of governor of Utah Territory was first held by Brigham Young.",
+          "F": "The office of governor of Oklahoma Territory was first held by Brigham Young."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_edc757b1f9c84c21_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:36:23.437Z",
+      "displayed_input": {
+        "id": "situatedqa_time_edc757b1f9c84c21_v19",
+        "question": "As of March 18, 2021, what was the latest episode of The Flash to have aired?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mother"
+          },
+          {
+            "label": "B",
+            "text": "The Hustler"
+          },
+          {
+            "label": "C",
+            "text": "Central City Strong"
+          },
+          {
+            "label": "D",
+            "text": "The Speed of Thought"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Mother",
+        "lure_answer": "The Speed of Thought",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "March 18, 2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "March 11, 2021"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of March 18, 2021, the latest episode of The Flash to have aired was \"Mother\".",
+          "S": "As of March 11, 2021, the latest episode of The Flash to have aired was \"The Speed of Thought\".",
+          "F": "As of March 18, 2021, the latest episode of The Flash to have aired was \"The Speed of Thought\"."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_b0df476cec317075_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:36:32.520Z",
+      "displayed_input": {
+        "id": "situatedqa_time_b0df476cec317075_v19",
+        "question": "As of August 10, 2008, what was the latest episode of The Suite Life of Zack & Cody to have aired?",
+        "options": [
+          {
+            "label": "A",
+            "text": "'Mr. Tipton Comes to Visit'"
+          },
+          {
+            "label": "B",
+            "text": "Doin' Time in Suite 2330"
+          },
+          {
+            "label": "C",
+            "text": "Benchwarmers"
+          },
+          {
+            "label": "D",
+            "text": "Let Us Entertain You"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Doin' Time in Suite 2330",
+        "lure_answer": "Benchwarmers",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "August 10, 2008"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "July 20, 2008"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "As of August 10, 2008, the latest episode of The Suite Life of Zack & Cody to have aired was \"Doin' Time in Suite 2330\".",
+          "S": "As of July 20, 2008, the latest episode of The Suite Life of Zack & Cody to have aired was \"Benchwarmers\".",
+          "F": "As of August 10, 2008, the latest episode of The Suite Life of Zack & Cody to have aired was \"Benchwarmers\"."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_3081d92ef1379b6a_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:36:48.528Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_3081d92ef1379b6a_v19",
+        "question": "How many gold medals did Canada win at the 2018 Winter Olympics?",
+        "options": [
+          {
+            "label": "A",
+            "text": "14"
+          },
+          {
+            "label": "B",
+            "text": "0"
+          },
+          {
+            "label": "C",
+            "text": "9"
+          },
+          {
+            "label": "D",
+            "text": "11"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "11",
+        "lure_answer": "14",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "canada"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Norway"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Canada won a total of 11 gold medals at the 2018 Winter Olympics.",
+          "S": "Norway won a total of 14 gold medals at the 2018 Winter Olympics.",
+          "F": "Canada won a total of 14 gold medals at the 2018 Winter Olympics."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_0f078335a03c2ef8_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:37:35.763Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_0f078335a03c2ef8_v19",
+        "question": "What currency is used in Pakistan?",
+        "options": [
+          {
+            "label": "A",
+            "text": "U.S. dollar"
+          },
+          {
+            "label": "B",
+            "text": "Israeli shekel"
+          },
+          {
+            "label": "C",
+            "text": "Pakistani rupee"
+          },
+          {
+            "label": "D",
+            "text": "Pound"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Pakistani rupee",
+        "lure_answer": "U.S. dollar",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Pakistan"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "United States"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Pakistani rupee is the official currency used in Pakistan.",
+          "S": "The U.S. dollar is the official currency used in the United States.",
+          "F": "The U.S. dollar is the official currency used in Pakistan."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_5a1ba47c94d71e24_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:37:44.403Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_5a1ba47c94d71e24_v19",
+        "question": "How many gold medals did Poland win at the 2014 Winter Olympics?",
+        "options": [
+          {
+            "label": "A",
+            "text": "9"
+          },
+          {
+            "label": "B",
+            "text": "4"
+          },
+          {
+            "label": "C",
+            "text": "11"
+          },
+          {
+            "label": "D",
+            "text": "10"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "4",
+        "lure_answer": "10",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Poland"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "canada"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Poland won a total of 4 gold medals at the 2014 Winter Olympics.",
+          "S": "Canada won a total of 10 gold medals at the 2014 Winter Olympics.",
+          "F": "Poland won a total of 10 gold medals at the 2014 Winter Olympics."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_321d012bd9d2504d_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:38:06.118Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_321d012bd9d2504d_v19",
+        "question": "Who was president of India in 1954?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Rajendra Prasad"
+          },
+          {
+            "label": "B",
+            "text": "Getulio Vargas"
+          },
+          {
+            "label": "C",
+            "text": "Adolfo Ruiz Cortines"
+          },
+          {
+            "label": "D",
+            "text": "Dwight D. Eisenhower"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Rajendra Prasad",
+        "lure_answer": "Adolfo Ruiz Cortines",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "India"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Mexico"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Throughout the year 1954, Rajendra Prasad held the office of president of India.",
+          "S": "Throughout the year 1954, Adolfo Ruiz Cortines held the office of president of Mexico.",
+          "F": "Throughout the year 1954, Adolfo Ruiz Cortines held the office of president of India."
+        }
+      }
+    },
+    {
+      "item_id": "fred_geography_830e10884d43_natural_v5",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:38:19.467Z",
+      "displayed_input": {
+        "id": "fred_geography_830e10884d43_natural_v5",
+        "question": "What was the recorded basic state minimum wage in Maine on January 1, 1998? Give the rate in US dollars per hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "$4.90"
+          },
+          {
+            "label": "B",
+            "text": "$1.60"
+          },
+          {
+            "label": "C",
+            "text": "$5.15"
+          },
+          {
+            "label": "D",
+            "text": "$4.25"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "$5.15",
+        "lure_answer": "$4.90",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1998-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Maine"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1998-01-01"
+            },
+            {
+              "name": "state",
+              "type": "string",
+              "value": "Washington"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On January 1, 1998, the recorded basic state minimum wage in Maine was $5.15 per hour.",
+          "S": "On January 1, 1998, the recorded basic state minimum wage in Washington was $4.90 per hour.",
+          "F": "On January 1, 1998, the recorded basic state minimum wage in Maine was $4.90 per hour."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_f96e8711d9ee121a_v8",
+      "reviewer_id": "A2",
+      "q1": "no",
+      "q2": "yes",
+      "q3": "no",
+      "note": "The gold answer cannot answer this question because the question asks about Jamie Elliott, but the passage is about James Harry Elliott.",
+      "no_reason": "issue",
+      "updated_at": "2026-10-07T19:47:18.997Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_f96e8711d9ee121a_v8",
+        "question": "When was Jamie Elliott, the English rugby union player, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "6 February 1973"
+          },
+          {
+            "label": "B",
+            "text": "8 August 1716"
+          },
+          {
+            "label": "C",
+            "text": "18 January 1989"
+          },
+          {
+            "label": "D",
+            "text": "31 August 1992"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "31 August 1992",
+        "lure_answer": "6 February 1973",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "English rugby union player"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Jamie Elliott (rugby union)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Australian rules footballer"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Jamie Elliott (footballer, born 1973)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "James Harry Elliott, the English rugby union player, was born on 31 August 1992.",
+          "S": "Jamie Elliott, the Australian rules footballer, was born on 6 February 1973.",
+          "F": "James Harry Elliott, the English rugby union player, was born on 6 February 1973."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_d1bfe140593baf7b_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:40:50.574Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_d1bfe140593baf7b_v8",
+        "question": "What was the population of Big Creek Township, Kansas in Ellis County at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "2,100"
+          },
+          {
+            "label": "B",
+            "text": "1,883"
+          },
+          {
+            "label": "C",
+            "text": "657"
+          },
+          {
+            "label": "D",
+            "text": "479"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1,883",
+        "lure_answer": "479",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "B",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Ellis County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Big Creek Township, Ellis County, Kansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Russell County"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Big Creek Township, Russell County, Kansas"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Big Creek Township is a township in Ellis County, Kansas, USA, named for Big Creek, which flows diagonally through the township from the northwest to the southeast. As of the 2010 census, its population was 1,883.",
+          "S": "Big Creek Township is a township in Russell County, Kansas, United States. As of the 2010 United States Census, it had a population of 479. The center of Big Creek Township is located at (38.8711228, −98.9839787) at an elevation of 1,890 feet (576 m).",
+          "F": "Big Creek Township is a township in Ellis County, Kansas, USA, named for Big Creek, which flows diagonally through the township from the northwest to the southeast. As of the 2010 census, its population was 479."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_f794ee8a90ec585b_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:41:46.157Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_f794ee8a90ec585b_v8",
+        "question": "When was the Kansas City Southern Depot in Zwolle built?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1914"
+          },
+          {
+            "label": "B",
+            "text": "1923"
+          },
+          {
+            "label": "C",
+            "text": "1905"
+          },
+          {
+            "label": "D",
+            "text": "1929"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1914",
+        "lure_answer": "1929",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Zwolle"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Kansas City Southern Depot, Zwolle"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Many"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Kansas City Southern Railway Depot (Many, Louisiana)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Kansas City Southern Depot is a former Kansas City Southern Railway station located at the intersection of Spanish and Port Arthur Streets in Zwolle, Louisiana. Built in 1914, the depot is the only surviving building connected to the railroad in Zwolle.",
+          "S": "The Kansas City Southern Railway Depot is a historic former Kansas City Southern Railway station located at 750 West Georgia Avenue in Many, Louisiana. The depot was built in 1929 to replace the original depot, which opened in 1896 when the railroad was completed through the town.",
+          "F": "The Kansas City Southern Depot is a former Kansas City Southern Railway station located at the intersection of Spanish and Port Arthur Streets in Zwolle, Louisiana. Built in 1929, the depot is the only surviving building connected to the railroad in Zwolle."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_9b02188e2f935760_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:42:03.319Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_9b02188e2f935760_v8",
+        "question": "When was the Salem Chapel in East Budleigh built?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1719"
+          },
+          {
+            "label": "B",
+            "text": "1905"
+          },
+          {
+            "label": "C",
+            "text": "1791"
+          },
+          {
+            "label": "D",
+            "text": "1923"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1719",
+        "lure_answer": "1791",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "East Budleigh"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Salem Chapel, East Budleigh"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Leeds"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Salem Chapel, Leeds"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Salem Chapel on Vicarage Road in East Budleigh, Devon, was built in the year 1719.",
+          "S": "Salem Chapel on Hunslet Lane in Leeds, West Yorkshire, was built in the year 1791.",
+          "F": "Salem Chapel on Vicarage Road in East Budleigh, Devon, was built in the year 1791."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_4b6504bd0ea26340_v35",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:42:19.926Z",
+      "displayed_input": {
+        "id": "situatedqa_time_4b6504bd0ea26340_v35",
+        "question": "Who served as king of Spain in 2004?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Felipe VI"
+          },
+          {
+            "label": "B",
+            "text": "Carlos III"
+          },
+          {
+            "label": "C",
+            "text": "Juan Carlos I"
+          },
+          {
+            "label": "D",
+            "text": "Alfonso XIII"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Juan Carlos I",
+        "lure_answer": "Alfonso XIII",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "2004"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "king of Spain"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "1888"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "king of Spain"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Juan Carlos I served as king of Spain in the year 2004.",
+          "S": "Alfonso XIII served as king of Spain in the year 1888.",
+          "F": "Alfonso XIII served as king of Spain in the year 2004."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_40b16cf67ee4da00_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:42:39.707Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_40b16cf67ee4da00_v8",
+        "question": "When was the Swedish Evangelical Lutheran Church in Ham Lake built?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1928"
+          },
+          {
+            "label": "B",
+            "text": "1924"
+          },
+          {
+            "label": "C",
+            "text": "1872"
+          },
+          {
+            "label": "D",
+            "text": "1874"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "1872",
+        "lure_answer": "1874",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Ham Lake"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Swedish Evangelical Lutheran Church (Ham Lake, Minnesota)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Millville"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Swedish Evangelical Lutheran Church (Millville, Minnesota)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The Swedish Evangelical Lutheran Church is a historic property in Anoka County, Minnesota. It is located at 2332 Swedish Drive in Ham Lake, Minnesota. The Late Victorian style church was built in 1872 to the design of architect Per August Gustafson. The church is listed on the National Register of Historic Places.",
+          "S": "The Swedish Evangelical Lutheran Church is a historic church building in Millville, Minnesota, United States. It was built in 1874 and used successively by Swedish, Norwegian, and German immigrant congregations. The church and its adjacent cemetery were listed on the National Register of Historic Places in 1989 for having local significance in the theme of European ethnic heritage.",
+          "F": "The Swedish Evangelical Lutheran Church is a historic property in Anoka County, Minnesota. It is located at 2332 Swedish Drive in Ham Lake, Minnesota. The Late Victorian style church was built in 1874 to the design of architect Per August Gustafson. The church is listed on the National Register of Historic Places."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_d2a90651c4220097_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:43:16.509Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_d2a90651c4220097_v8",
+        "question": "When was Bert Turner, the Welsh international full back, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "17 February 1899"
+          },
+          {
+            "label": "B",
+            "text": "3 September 1907"
+          },
+          {
+            "label": "C",
+            "text": "26 March 1888"
+          },
+          {
+            "label": "D",
+            "text": "19 June 1909"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "19 June 1909",
+        "lure_answer": "3 September 1907",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "B"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Welsh international"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Bert Turner (footballer, born 1909)"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "English footballer"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Bert Turner (footballer, born 1907)"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Herbert Gwyn \"Bert\" Turner (19 June 1909 – 8 June 1981) was a Welsh international footballer who played as a full back for Charlton Athletic.",
+          "S": "Albert \"Bert\" Turner (3 September 1907 – 1959) was an English footballer who played outside left in the 1930s for Hull City, Walsall, Doncaster Rovers, Cardiff City and Bristol Rovers.",
+          "F": "Herbert Gwyn \"Bert\" Turner (3 September 1907 – 8 June 1981) was a Welsh international footballer who played as a full back for Charlton Athletic."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_geography_d04d044e7a469c64_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:43:27.503Z",
+      "displayed_input": {
+        "id": "situatedqa_geography_d04d044e7a469c64_v19",
+        "question": "How many members are in the House of Representatives of Nigeria?",
+        "options": [
+          {
+            "label": "A",
+            "text": "110"
+          },
+          {
+            "label": "B",
+            "text": "435"
+          },
+          {
+            "label": "C",
+            "text": "650"
+          },
+          {
+            "label": "D",
+            "text": "360"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "360",
+        "lure_answer": "110",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "nigeria"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "location",
+              "type": "string",
+              "value": "Belarus"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "The House of Representatives of Nigeria consists of 360 members.",
+          "S": "The House of Representatives of Belarus consists of 110 members.",
+          "F": "The House of Representatives of Nigeria consists of 110 members."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_e6668964582c33f0_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:43:37.768Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_e6668964582c33f0_v8",
+        "question": "When was John Thayer, the Massachusetts representative born in Worcester, born?",
+        "options": [
+          {
+            "label": "A",
+            "text": "December 22, 1857"
+          },
+          {
+            "label": "B",
+            "text": "January 24, 1820"
+          },
+          {
+            "label": "C",
+            "text": "November 18, 1680"
+          },
+          {
+            "label": "D",
+            "text": "March 9, 1845"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "December 22, 1857",
+        "lure_answer": "9 March 1845",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born in Worcester"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "John A. Thayer"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born in Douglas"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "John R. Thayer"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "John Alden Thayer (December 22, 1857 – July 31, 1917) was a Representative from Massachusetts. He was born in Worcester, Massachusetts. He was the son of Eli Thayer.",
+          "S": "John Randolph Thayer (9 March 1845 – 19 December 1916) was a representative from Massachusetts. He was born in Douglas, Massachusetts and attended the common schools and Nichols Academy in Dudley.",
+          "F": "John Alden Thayer (9 March 1845 – July 31, 1917) was a Representative from Massachusetts. He was born in Worcester, Massachusetts. He was the son of Eli Thayer."
+        }
+      }
+    },
+    {
+      "item_id": "situatedqa_time_a57b8b3a3586c1b1_v19",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:44:09.172Z",
+      "displayed_input": {
+        "id": "situatedqa_time_a57b8b3a3586c1b1_v19",
+        "question": "Who served as director of the United States Secret Service on November 27, 2020?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Michael S. Rogers"
+          },
+          {
+            "label": "B",
+            "text": "William J. Burns"
+          },
+          {
+            "label": "C",
+            "text": "Randolph Alles"
+          },
+          {
+            "label": "D",
+            "text": "James M. Murray"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "James M. Murray",
+        "lure_answer": "Randolph Alles",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "D",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "November 27, 2020"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "director of the United States Secret Service"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "date",
+              "type": "string",
+              "value": "November 19, 2018"
+            },
+            {
+              "name": "office",
+              "type": "string",
+              "value": "director of the United States Secret Service"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "On November 27, 2020, James M. Murray served as director of the United States Secret Service.",
+          "S": "On November 19, 2018, Randolph Alles served as director of the United States Secret Service.",
+          "F": "On November 27, 2020, Randolph Alles served as director of the United States Secret Service."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_3326b3c6cc356923_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:44:23.192Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_3326b3c6cc356923_v8",
+        "question": "What was the profession of Kurzel, born in 1974?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Film director and screenwriter"
+          },
+          {
+            "label": "B",
+            "text": "Apothecary and physician"
+          },
+          {
+            "label": "C",
+            "text": "illustrator of birds and an authority on falconry"
+          },
+          {
+            "label": "D",
+            "text": "singer-songwriter-guitarist and film composer"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "Film director and screenwriter",
+        "lure_answer": "singer-songwriter-guitarist and film composer",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "D"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "3 August 1974"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Justin Kurzel"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "born 1976"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Jed Kurzel"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Justin Dallas Kurzel (born 3 August 1974) is an Australian film director and screenwriter. Kurzel was born in Gawler, South Australia to a family of immigrant roots, his father hailing from Poland and his mother from Malta.",
+          "S": "Jed Danyel Kurzel (born 1976) is an Australian singer-songwriter-guitarist and film composer. He is a founding member of The Mess Hall (from 2001), a blues rock duo.",
+          "F": "Justin Dallas Kurzel (born 3 August 1974) is an Australian singer-songwriter-guitarist and film composer. Kurzel was born in Gawler, South Australia to a family of immigrant roots, his father hailing from Poland and his mother from Malta."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_063bbeba4c62f401_v8",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:44:29.442Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_063bbeba4c62f401_v8",
+        "question": "What was the population of Evanston in Cincinnati at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "12,359"
+          },
+          {
+            "label": "B",
+            "text": "74,486"
+          },
+          {
+            "label": "C",
+            "text": "9,158"
+          },
+          {
+            "label": "D",
+            "text": "584"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "9,158",
+        "lure_answer": "12,359",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "C",
+          "lure": "A"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Cincinnati"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Evanston, Cincinnati"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "Wyoming"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Evanston, Wyoming"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Evanston is a neighborhood in the city of Cincinnati, Hamilton County, Ohio, United States. The population was 9,158 at the 2010 census.",
+          "S": "Evanston is a city in and the county seat of Uinta County, Wyoming, United States. The population was 12,359 at the 2010 census.",
+          "F": "Evanston is a neighborhood in the city of Cincinnati, Hamilton County, Ohio, United States. The population was 12,359 at the 2010 census."
+        }
+      }
+    },
+    {
+      "item_id": "ambigdocs_entity_3b5b5b24e64b99f5_v12",
+      "reviewer_id": "A2",
+      "q1": "yes",
+      "q2": "yes",
+      "q3": "yes",
+      "note": "",
+      "no_reason": "",
+      "updated_at": "2026-10-07T19:45:00.968Z",
+      "displayed_input": {
+        "id": "ambigdocs_entity_3b5b5b24e64b99f5_v12",
+        "question": "What was the population of the borough of Tionesta at the 2010 census?",
+        "options": [
+          {
+            "label": "A",
+            "text": "483"
+          },
+          {
+            "label": "B",
+            "text": "1272"
+          },
+          {
+            "label": "C",
+            "text": "729"
+          },
+          {
+            "label": "D",
+            "text": "1240"
+          },
+          {
+            "label": "E",
+            "text": "Insufficient information"
+          }
+        ],
+        "gold_answer": "483",
+        "lure_answer": "729",
+        "answer_key": {
+          "abstain": "E",
+          "gold": "A",
+          "lure": "C"
+        },
+        "target_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "borough"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Tionesta, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "alternate_scope": {
+          "attributes": [
+            {
+              "name": "attribute",
+              "type": "string",
+              "value": "township"
+            },
+            {
+              "name": "entity",
+              "type": "string",
+              "value": "Tionesta Township, Forest County, Pennsylvania"
+            }
+          ],
+          "kind": "object"
+        },
+        "passages": {
+          "G": "Tionesta is a borough in Forest County, Pennsylvania, United States. The population was 483 at the 2010 Census. It is the county seat of Forest County.",
+          "S": "Tionesta Township is a township in Forest County, Pennsylvania, United States. The population was 729 at the 2010 census, up from 610 at the 2000 census.",
+          "F": "Tionesta is a borough in Forest County, Pennsylvania, United States. The population was 729 at the 2010 Census. It is the county seat of Forest County."
+        }
+      }
+    }
+  ],
+  "sha256": "ac34111de4b282de06b70ca86f0347c526a10dc382f65dbc9be3572d2295ee22"
+}

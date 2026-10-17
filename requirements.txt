@@ -1,0 +1,7 @@
+# Reference interpreter: CPython 3.12.14 (see .python-version).
+# Core preparation, validation and evaluation orchestration use the standard library.
+# Paired reanalysis and its offline regression tests require NumPy.
+numpy==2.3.5
+# GPU profiles: experiments/configs/requirements/
+# Plotting: experiments/figures/requirements.txt
+

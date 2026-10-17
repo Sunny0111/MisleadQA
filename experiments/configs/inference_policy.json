@@ -1,0 +1,111 @@
+{
+  "purpose": "Reference policy implemented by evaluation/run.py, backend.py and vllm_backend.py for release 1.0.0. This file documents the implementation; it is not a runtime override interface. CLI seed and input-limit overrides are recorded in each run manifest.",
+  "selected_models": [
+    "qwen3-8b",
+    "qwen3-14b",
+    "qwen3-32b-awq",
+    "llama31-8b-instruct",
+    "gemma3-12b-it",
+    "olmo2-13b-instruct"
+  ],
+  "common": {
+    "seed": 2027,
+    "reset_seed_per_request": true,
+    "max_input_tokens": 4096,
+    "truncate_input": false,
+    "batch_size": 1,
+    "dtype": "bfloat16",
+    "answer_letters": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "output_constraint": "Greedy selection among canonical single-letter tokens at step one; force a model-specific EOS token at step two.",
+    "max_new_tokens": 2,
+    "choice_token_ids": "Resolve and validate using each pinned tokenizer; do not reuse IDs across models.",
+    "eos_token_ids": "Read the checkpoint generation_config, falling back to the tokenizer.",
+    "prompt_placeholders": [
+      "question",
+      "options",
+      "evidence_block"
+    ],
+    "evidence_block": "Empty for no evidence; otherwise two newlines followed by evidence text. Preserve passage order and use two newlines between passages.",
+    "messages": "One independent user turn per request; no scoring labels or construction/review metadata.",
+    "chat_template": "Use each pinned checkpoint official template with add_generation_prompt=True and the kwargs from models.json.",
+    "tokenizer_add_special_tokens": false
+  },
+  "transformers": {
+    "model_aliases": [
+      "qwen3-8b",
+      "qwen3-14b",
+      "llama31-8b-instruct",
+      "gemma3-12b-it",
+      "olmo2-13b-instruct"
+    ],
+    "loader": "Use models.json loader; Gemma uses Gemma3ForConditionalGeneration with text inputs only.",
+    "device_map": "auto",
+    "reject_cpu_or_disk_offload": true,
+    "attn_implementation": "sdpa",
+    "attention_backend": "SDPBackend.MATH",
+    "model_eval": true,
+    "inference_mode": true,
+    "generation_config": {
+      "do_sample": false,
+      "num_beams": 1,
+      "num_return_sequences": 1,
+      "max_new_tokens": 2,
+      "min_new_tokens": 0,
+      "repetition_penalty": 1.0,
+      "length_penalty": 1.0,
+      "no_repeat_ngram_size": 0,
+      "use_cache": true,
+      "disable_compile": true
+    },
+    "use_model_defaults": false,
+    "constraints": "Implement the two-step token mask, e.g. prefix_allowed_tokens_fn; prompt text and max_new_tokens alone do not enforce this policy.",
+    "deterministic_algorithms": true,
+    "warn_only": false,
+    "cpu_threads": 1,
+    "cudnn_benchmark": false,
+    "cudnn_deterministic": true,
+    "tf32": false,
+    "fp16_reduced_precision_reduction": false,
+    "bf16_reduced_precision_reduction": false,
+    "environment": {
+      "CUBLAS_WORKSPACE_CONFIG": ":4096:8",
+      "NVIDIA_TF32_OVERRIDE": "0"
+    }
+  },
+  "vllm": {
+    "model_aliases": [
+      "qwen3-32b-awq"
+    ],
+    "engine_config": "configs/vllm_qwen32_awq_a40.json",
+    "environment": {
+      "VLLM_USE_V1": "0",
+      "VLLM_ATTENTION_BACKEND": "FLASH_ATTN",
+      "VLLM_WORKER_MULTIPROC_METHOD": "spawn"
+    },
+    "sampling": {
+      "n": 1,
+      "temperature": 0.0,
+      "top_p": 1.0,
+      "top_k": -1,
+      "min_p": 0.0,
+      "seed": 2027,
+      "max_tokens": 2,
+      "min_tokens": 0,
+      "repetition_penalty": 1.0,
+      "presence_penalty": 0.0,
+      "frequency_penalty": 0.0,
+      "ignore_eos": false,
+      "stop_token_ids": "Resolved model EOS IDs",
+      "skip_special_tokens": true,
+      "spaces_between_special_tokens": false
+    },
+    "constraints": "Implement the V0 two-step logits processor for choice then EOS.",
+    "execution": "One request per offline engine call."
+  }
+}

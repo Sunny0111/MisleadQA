@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.jsonl -text
+*.json -text
+experiments/configs/*.json -text
+experiments/configs/prompts/*.txt -text
+experiments/configs/requirements/*.txt -text
+experiments/scope_diagnostic/sample.json -text
+experiments/main_eval/handoff_manifest.json -text

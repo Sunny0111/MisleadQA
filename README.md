@@ -65,7 +65,7 @@ before testing or packaging. Use fresh run IDs after code changes.
 | [experiments/main_eval/](experiments/main_eval/README.md) | Main evaluation, GPU setup, verification and packaging |
 | [experiments/main_eval/supplementary/](experiments/main_eval/supplementary/README.md) | Context-faithful instruction comparison |
 | [experiments/scope_diagnostic/](experiments/scope_diagnostic/README.md) | Balanced 200-item scope diagnostic |
-| [experiments/option_order/](experiments/option_order/README.md) | Option-order robustness; [Slurm workflow](experiments/option_order/SLURM.md) |
+| [experiments/option_order/](experiments/option_order/README.md) | Option-order robustness |
 | [experiments/analysis/](experiments/analysis/README.md) | Metrics, bootstrap intervals and saved-result analysis |
 | [experiments/figures/](experiments/figures/README.md) | Figure and table generation |
 | `tests/` | Offline regression and integration tests |
@@ -82,12 +82,12 @@ submissions are included. Downloads, raw source caches, editable audit drafts,
 local responses, generated reports, inference outputs, dependencies and archives
 are ignored by Git and excluded from portable source bundles. Local artifacts
 can be regenerated using the relevant module guide; full analyses require saved
-inference outputs. Historical manuscript sources are not included.
+inference outputs.
 
 The original construction generator, completed screening ledger and organizer
 adjudications are not supplied. Release records omit review/eligibility metadata;
 missing status remains unknown. Structural validation does not establish the
 factual correctness of G or S. Historical archive paths are resolved by
 `archive_path()` in `misleadqa_utils.py`; see the [source inventory](construction/sources/SOURCES.md).
-Data terms and authorship remain as recorded in [LICENSE-DATA](LICENSE-DATA) and
-[CITATION.cff](CITATION.cff); code licensing is in [LICENSE](LICENSE).
+Data licensing status is recorded in [LICENSE-DATA](LICENSE-DATA);
+code licensing is in [LICENSE](LICENSE).
